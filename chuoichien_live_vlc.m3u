@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1567360-1" tvg-name="[15:00] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1507004-1" tvg-name="[16:30] Jeju United FC vs Gangwon FC - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] Jeju United FC vs Gangwon FC - K League 1 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-992361-1" tvg-name="[15:00] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1507005-1" tvg-name="[16:30] Jeonbuk Motors vs Daejeon Citizen - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] Jeonbuk Motors vs Daejeon Citizen - K League 1 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1560865-1" tvg-name="[16:30] Lions vs Perth Glory - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] Lions vs Perth Glory - Australia Cup [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1560864-1" tvg-name="[16:30] Preston Lions vs Newcastle Jets - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] Preston Lions vs Newcastle Jets - Australia Cup [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1567362-1" tvg-name="[16:30] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] SHANGHAI SIPG vs Sichuan Jiuniu - Cúp FA Trung Quốc [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
