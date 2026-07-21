@@ -19,10 +19,10 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests playwright  # Đã thêm thư viện playwright vào đây
+          pip install requests playwright
 
       - name: Install Playwright Browsers
-        run: playwright install --with-deps chromium  # Bắt buộc phải có bước này để tải nhân trình duyệt web
+        run: playwright install --with-deps chromium
 
       - name: Run Scanner Bot
         run: python main.py
