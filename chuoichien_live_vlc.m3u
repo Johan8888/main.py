@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="chuoichien-1567360-1" tvg-name="[15:00] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00] Dalian Kewei vs Beijing Guoan - Cúp FA Trung Quốc [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-992361-1" tvg-name="[15:00] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27620.png",[15:00] PVF-CAND vs Hoang Anh Gia Lai - U21 Quốc Gia [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
