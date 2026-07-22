@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1519419-1" tvg-name="[04:30] Libertad vs Delfin SC - VĐQG Ecuador" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_7e6c4cd8.png",[04:30] Libertad vs Delfin SC - VĐQG Ecuador [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550903-1" tvg-name="[07:30] Cruz Azul vs Puebla - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_c44dea27.png",[07:30] Cruz Azul vs Puebla - VĐQG Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1547777-1" tvg-name="[04:30] Nacional vs Tigre - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132254_7e6c4cd8.png",[04:30] Nacional vs Tigre - CONMEBOL Sudamericana [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1547780-1" tvg-name="[07:30] UCV vs Santos - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125514_c44dea27.png",[07:30] UCV vs Santos - CONMEBOL Sudamericana [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
