@@ -1,31 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1507007-1" tvg-name="[16:30] Bucheon FC 1995 vs FC Anyang - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png",[16:30] Bucheon FC 1995 vs FC Anyang - K League 1 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-209779-1" tvg-name="[18:30] Brazil W vs Japan W - Nations League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251115_123037_e0e97e34.png",[18:30] Brazil W vs Japan W - Nations League Women [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-1507009-1" tvg-name="[16:30] FC Seoul vs Pohang Steelers - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png",[16:30] FC Seoul vs Pohang Steelers - K League 1 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-1507008-1" tvg-name="[16:30] Gwangju FC vs Gimcheon Sangmu FC - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png",[16:30] Gwangju FC vs Gimcheon Sangmu FC - K League 1 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-1560869-1" tvg-name="[16:30] Sydney United vs Central Coast Mariners - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png",[16:30] Sydney United vs Central Coast Mariners - Australia Cup [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-995694-1" tvg-name="[18:30] Campuchia W vs Indonesia - Bóng chuyền Nam SEA Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251115_123037_e0e97e34.png",[18:30] Campuchia W vs Indonesia - Bóng chuyền Nam SEA Games [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-1560872-1" tvg-name="[16:30] Uni Azzurri vs Macarthur - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_655291c7.png",[16:30] Uni Azzurri vs Macarthur - Australia Cup [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
