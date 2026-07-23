@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1593475-1" tvg-name="[21:30] Alashkert vs CFR Cluj - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png",[21:30] Alashkert vs CFR Cluj - UEFA Europa Conference League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1556543-1" tvg-name="[01:00] Besiktas vs FC Midtjylland - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[01:00] Besiktas vs FC Midtjylland - UEFA Europa League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1591944-1" tvg-name="[21:30] Malisheva vs Hibernian - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png",[21:30] Malisheva vs Hibernian - UEFA Europa Conference League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1556545-1" tvg-name="[01:00] FC ST. Gallen vs Benfica - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[01:00] FC ST. Gallen vs Benfica - UEFA Europa League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1593521-1" tvg-name="[21:30] Qarabag vs CSKA Sofia - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141426_df6e4713.png",[21:30] Qarabag vs CSKA Sofia - UEFA Europa League [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
