@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1598631-1" tvg-name="[17:00] Tensung vs Paro - Premier League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145103_b7f0c7e2.png",[17:00] Tensung vs Paro - Premier League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1534800-1" tvg-name="[18:30] Akademiya Ontustik vs Astana II - Hạng Nhất Kazakhstan" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] Akademiya Ontustik vs Astana II - Hạng Nhất Kazakhstan [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-209782-1" tvg-name="[17:00] USA W vs China W - Nations League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145103_b7f0c7e2.png",[17:00] USA W vs China W - Nations League Women [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-209782-1" tvg-name="[18:30] USA W vs China W - Nations League Women" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] USA W vs China W - Nations League Women [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
