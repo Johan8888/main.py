@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1553104-1" tvg-name="[01:30] Pogon Szczecin vs Legia Warszawa - VĐQG Ba Lan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_33b2c141.png",[01:30] Pogon Szczecin vs Legia Warszawa - VĐQG Ba Lan [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1493013-1" tvg-name="[05:00] Racing Club vs Gimnasia L.P. - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_96efe69f.png",[05:00] Racing Club vs Gimnasia L.P. - VĐQG Argentina [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1493016-1" tvg-name="[05:00] Velez Sarsfield vs Instituto Cordoba - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132718_96efe69f.png",[05:00] Velez Sarsfield vs Instituto Cordoba - VĐQG Argentina [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
