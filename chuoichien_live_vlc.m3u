@@ -1,21 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-210899-1" tvg-name="[18:30] China W vs Turkey W - Nations League Women" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] China W vs Turkey W - Nations League Women [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1561334-1" tvg-name="[22:30] Fakel vs Makhachkala - Ngoại Hạng Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133529_624656c6.png",[22:30] Fakel vs Makhachkala - Ngoại Hạng Nga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1548090-1" tvg-name="[18:30] Laos vs Thailand - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] Laos vs Thailand - AFF Championship [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1523213-1" tvg-name="[18:30] SHANGHAI SIPG vs Shanghai Shenhua - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] SHANGHAI SIPG vs Shanghai Shenhua - Ngoại Hạng Trung Quốc [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1523214-1" tvg-name="[18:30] Wuhan Three Towns vs Chongqing Tongliang Long - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/volley/teams/2218.png",[18:30] Wuhan Three Towns vs Chongqing Tongliang Long - Ngoại Hạng Trung Quốc [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
