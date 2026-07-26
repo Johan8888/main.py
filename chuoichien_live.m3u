@@ -1,31 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1494710-1" tvg-name="[18:00] Brann vs Valerenga - Eliteserien" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[18:00] Brann vs Valerenga - Eliteserien [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1523216-1" tvg-name="[18:00] Chengdu Better City vs Beijing Guoan - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[18:00] Chengdu Better City vs Beijing Guoan - Ngoại Hạng Trung Quốc [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1548978-1" tvg-name="[21:00] AC Horsens vs FC Nordsjaelland - Ngoại Hạng Đan Mạch" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_93f92456.png",[21:00] AC Horsens vs FC Nordsjaelland - Ngoại Hạng Đan Mạch [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1523218-1" tvg-name="[18:00] Hangzhou Greentown vs Dalian Zhixing - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[18:00] Hangzhou Greentown vs Dalian Zhixing - Ngoại Hạng Trung Quốc [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1561335-1" tvg-name="[21:00] Lokomotiv vs Akhmat - Ngoại Hạng Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_93f92456.png",[21:00] Lokomotiv vs Akhmat - Ngoại Hạng Nga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-999276-1" tvg-name="[18:00] Turkey W vs Brazil W - Nations League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[18:00] Turkey W vs Brazil W - Nations League Women [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1523215-1" tvg-name="[18:00] Yunnan Yukun vs Sichuan Jiuniu - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133510_453543a3.png",[18:00] Yunnan Yukun vs Sichuan Jiuniu - Ngoại Hạng Trung Quốc [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
