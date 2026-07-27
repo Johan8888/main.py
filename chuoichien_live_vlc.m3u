@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493002-1" tvg-name="[01:00] Atletico Tucuman vs Independ. Rivadavia - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132723_cd09ca5d.png",[01:00] Atletico Tucuman vs Independ. Rivadavia - VĐQG Argentina [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550911-1" tvg-name="[08:06] Pachuca vs Club Queretaro - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_2bc770b2.png",[08:06] Pachuca vs Club Queretaro - VĐQG Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492303-1" tvg-name="[01:00] Cruzeiro vs Botafogo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132723_cd09ca5d.png",[01:00] Cruzeiro vs Botafogo - VĐQG Brazil [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
