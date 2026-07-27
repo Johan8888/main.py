@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1532840-1" tvg-name="[17:30] Qingdao Red Lions vs BIT - League Two" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133642_573f2bfb.png",[17:30] Qingdao Red Lions vs BIT - League Two [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1516073-1" tvg-name="[22:00] Andijan vs Buxoro - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[22:00] Andijan vs Buxoro - VĐQG Uzbekistan [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1567781-1" tvg-name="[17:30] Singapore vs Timor-Leste - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133642_573f2bfb.png",[17:30] Singapore vs Timor-Leste - AFF Championship [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1494220-1" tvg-name="[22:00] BK Hacken vs AIK Stockholm - VĐQG Thụy Điển" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[22:00] BK Hacken vs AIK Stockholm - VĐQG Thụy Điển [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1565191-1" tvg-name="[22:00] CFR Cluj vs FC Voluntari - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[22:00] CFR Cluj vs FC Voluntari - VĐQG Roma [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1551058-1" tvg-name="[22:00] Dunav Ruse vs Ludogorets - VĐQG Bulgaria" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[22:00] Dunav Ruse vs Ludogorets - VĐQG Bulgaria [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1577451-1" tvg-name="[22:00] KAMAZ vs Rotor Volgograd - FNL Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[22:00] KAMAZ vs Rotor Volgograd - FNL Nga [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
