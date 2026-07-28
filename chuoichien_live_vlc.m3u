@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1589423-1" tvg-name="[22:00] KuPS vs Sabah FA - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[22:00] KuPS vs Sabah FA - UEFA Champions League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1591937-1" tvg-name="[01:00] Celje vs Egnatia Rrogozhinë - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125651_f19b6230.png",[01:00] Celje vs Egnatia Rrogozhinë - UEFA Champions League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1516077-1" tvg-name="[22:00] Nasaf vs Qizilqum - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[22:00] Nasaf vs Qizilqum - VĐQG Uzbekistan [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1556505-1" tvg-name="[01:00] dinamo zagreb vs fc thun" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125651_f19b6230.png",[01:00] dinamo zagreb vs fc thun [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-992172-1" tvg-name="[22:00] Real Madrid vs Leganes - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[22:00] Real Madrid vs Leganes - Giao Hữu Quốc Tế [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1589425-1" tvg-name="[01:00] shamrock rovers vs ararat armenia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125651_f19b6230.png",[01:00] shamrock rovers vs ararat armenia [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
