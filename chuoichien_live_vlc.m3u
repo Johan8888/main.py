@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1547786-1" tvg-name="[07:30] Santos vs UCV - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png",[07:30] Santos vs UCV - CONMEBOL Sudamericana [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602959-1" tvg-name="[14:00] Port FC vs Persija - Piala Presiden" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251115_123043_e3391af2.png",[14:00] Port FC vs Persija - Piala Presiden [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-210762-1" tvg-name="[14:00] Slovenia vs Turkey - Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251115_123043_e3391af2.png",[14:00] Slovenia vs Turkey - Nations League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
