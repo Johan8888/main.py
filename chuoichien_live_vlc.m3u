@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1556531-1" tvg-name="[21:30] Dukagjini vs FC Lugano - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141425_c66d96d1.png",[21:30] Dukagjini vs FC Lugano - UEFA Europa Conference League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1583490-1" tvg-name="[00:00] Bristol City vs Newcastle - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png",[00:00] Bristol City vs Newcastle - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1556508-1" tvg-name="[00:00] Lech Poznan vs Aarhus - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png",[00:00] Lech Poznan vs Aarhus - UEFA Champions League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1583487-1" tvg-name="[00:00] Real Betis vs Lyon - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134629_65fc6459.png",[00:00] Real Betis vs Lyon - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1591938-1" tvg-name="[21:30] Kairat Almaty vs Omonia Nicosia - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141425_c66d96d1.png",[21:30] Kairat Almaty vs Omonia Nicosia - UEFA Champions League [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
