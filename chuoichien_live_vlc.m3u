@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1534810-1" tvg-name="[20:00] Kaspij Aktau 2 vs Aktobe Jas - Hạng Nhất Kazakhstan" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27633.png",[20:00] Kaspij Aktau 2 vs Aktobe Jas - Hạng Nhất Kazakhstan [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1556540-1" tvg-name="[21:00] FK Tobol Kostanay vs Panevėžys - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[21:00] FK Tobol Kostanay vs Panevėžys - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1593507-1" tvg-name="[21:00] Inter Turku vs Istanbul Basaksehir - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[21:00] Inter Turku vs Istanbul Basaksehir - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1593526-1" tvg-name="[21:00] Maccabi Tel Aviv vs Sheriff Tiraspol - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[21:00] Maccabi Tel Aviv vs Sheriff Tiraspol - UEFA Europa League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
