@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1602961-1" tvg-name="[15:30] Arema FC vs DPMM FC - Piala Presiden" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png",[15:30] Arema FC vs DPMM FC - Piala Presiden [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1523219-1" tvg-name="[16:00] Henan Jianye vs Dalian Zhixing - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png",[16:00] Henan Jianye vs Dalian Zhixing - Ngoại Hạng Trung Quốc [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-991300-1" tvg-name="[15:30] Thailand W vs Indonesia W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png",[15:30] Thailand W vs Indonesia W - Bóng Chuyền SEA V.LEAGUE [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-991300-1" tvg-name="[16:00] Thailand W vs Indonesia W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png",[16:00] Thailand W vs Indonesia W - Bóng Chuyền SEA V.LEAGUE [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1567782-1" tvg-name="[16:00] Timor-Leste vs Indonesia - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142846_1ef0d541.png",[16:00] Timor-Leste vs Indonesia - AFF Championship [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
