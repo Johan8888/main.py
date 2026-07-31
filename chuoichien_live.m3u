@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1585004-1" tvg-name="[23:00] Juventus vs Nice - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png",[23:00] Juventus vs Nice - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1583514-1" tvg-name="[01:45] Birmingham vs Barcelona - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130900_cc818833.png",[01:45] Birmingham vs Barcelona - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1494717-1" tvg-name="[01:45] Bodo/Glimt vs Lillestrom - Eliteserien" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130900_cc818833.png",[01:45] Bodo/Glimt vs Lillestrom - Eliteserien [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
