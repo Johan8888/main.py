@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1556548-1" tvg-name="[01:00] Benfica vs FC ST. Gallen - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png",[01:00] Benfica vs FC ST. Gallen - UEFA Europa League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1547785-1" tvg-name="[07:30] O'Higgins vs Boca Juniors - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260730_134118_919b6f6c.png",[07:30] O'Higgins vs Boca Juniors - CONMEBOL Sudamericana [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1593524-1" tvg-name="[01:00] CSKA Sofia vs Qarabag - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_e5915ef5.png",[01:00] CSKA Sofia vs Qarabag - UEFA Europa League [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
