@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1544731-1" tvg-name="[04:00] El Salvador U20 vs Haiti U20 - CONCACAF U20" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145413_8b094d7f.png",[04:00] El Salvador U20 vs Haiti U20 - CONCACAF U20 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550912-1" tvg-name="[08:00] Puebla vs Guadalajara Chivas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[08:00] Puebla vs Guadalajara Chivas - VĐQG Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
