@@ -1,19 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1561339-1" tvg-name="[23:00] Akhmat vs Spartak Moscow - Ngoại Hạng Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130919_4f30bb39.png",[23:00] Akhmat vs Spartak Moscow - Ngoại Hạng Nga [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1589335-1" tvg-name="[23:00] Liverpool vs Leeds - Premier League - Summer Series" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130919_4f30bb39.png",[23:00] Liverpool vs Leeds - Premier League - Summer Series [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493035-1" tvg-name="[23:00] Deportivo Riestra vs Barracas Central - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130919_4f30bb39.png",[23:00] Deportivo Riestra vs Barracas Central - VĐQG Argentina [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1565201-1" tvg-name="[23:00] Rapid vs CFR Cluj - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130919_4f30bb39.png",[23:00] Rapid vs CFR Cluj - VĐQG Roma [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:-1 tvg-id="chuoichien-1589336-1" tvg-name="[23:00] Wrexham vs Sunderland - Premier League - Summer Series" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130919_4f30bb39.png",[23:00] Wrexham vs Sunderland - Premier League - Summer Series [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
