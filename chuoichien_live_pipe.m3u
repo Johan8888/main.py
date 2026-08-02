@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1523224-1" tvg-name="[18:30] Sichuan Jiuniu vs Chongqing Tongliang Long - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",[18:30] Sichuan Jiuniu vs Chongqing Tongliang Long - Ngoại Hạng Trung Quốc [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1548983-1" tvg-name="[21:00] Brondby vs Viborg - Ngoại Hạng Đan Mạch" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130613_420746d6.png",[21:00] Brondby vs Viborg - Ngoại Hạng Đan Mạch (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-993103-1" tvg-name="[18:30] USA vs Poland - Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",[18:30] USA vs Poland - Nations League [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1548983-2" tvg-name="[21:00] Brondby vs Viborg - Ngoại Hạng Đan Mạch" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130613_420746d6.png",[21:00] Brondby vs Viborg - Ngoại Hạng Đan Mạch (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-992430-1" tvg-name="[18:30] Vietnam W vs Thailand W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png",[18:30] Vietnam W vs Thailand W - Bóng Chuyền SEA V.LEAGUE [M3U8]
+https://tfy30gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8?wsSession=7c116e84c0ee355541f3f09c-178568613173675&wsIPSercert=27de0e548c903fe3e0929286349bee9a&wsBindIP=2&wsserid=1168283477152136350|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1589336-1" tvg-name="[21:00] Wrexham vs Sunderland - Premier League - Summer Series" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130613_420746d6.png",[21:00] Wrexham vs Sunderland - Premier League - Summer Series [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
