@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1490362-1" tvg-name="[06:30] Inter Miami vs Columbus Crew - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs Columbus Crew - Major League Soccer [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1521997-1" tvg-name="[12:30] South Melbourne vs St. Albans Saints - Victoria NPL" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",[12:30] South Melbourne vs St. Albans Saints - Victoria NPL [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
