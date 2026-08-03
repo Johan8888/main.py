@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1567783-1" tvg-name="[16:00] Cambodia vs Timor-Leste - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png",[16:00] Cambodia vs Timor-Leste - AFF Championship [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1604758-1" tvg-name="[22:00] Al-Hilal Saudi FC vs Al Ahli Doha - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",[22:00] Al-Hilal Saudi FC vs Al Ahli Doha - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-993893-1" tvg-name="[16:00] Hồ Chí Minh City W vs Hà Nội Nữ - VĐQG Nữ Việt Nam" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png",[16:00] Hồ Chí Minh City W vs Hà Nội Nữ - VĐQG Nữ Việt Nam [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1548985-1" tvg-name="[22:00] Odense vs Sonderjyske - Ngoại Hạng Đan Mạch" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",[22:00] Odense vs Sonderjyske - Ngoại Hạng Đan Mạch [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1495750-1" tvg-name="[22:00] SJK vs HJK helsinki - VĐQG Phần Lan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",[22:00] SJK vs HJK helsinki - VĐQG Phần Lan [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1577467-1" tvg-name="[22:00] Veles vs Rotor Volgograd - FNL Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_f3e8c8f3.png",[22:00] Veles vs Rotor Volgograd - FNL Nga [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
