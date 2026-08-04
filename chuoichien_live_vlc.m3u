@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1610531-1" tvg-name="[15:30] Persib Bandung vs Persija - Piala Presiden" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134451_f0892f53.png",[15:30] Persib Bandung vs Persija - Piala Presiden [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1542344-1" tvg-name="[17:00] Jeju United FC vs Bayern München - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[17:00] Jeju United FC vs Bayern München - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1548099-1" tvg-name="[17:00] Myanmar vs Laos - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[17:00] Myanmar vs Laos - AFF Championship [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
