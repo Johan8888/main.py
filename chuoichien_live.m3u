@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1583613-1" tvg-name="[19:30] Pathum United vs Aston Villa - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:30] Pathum United vs Aston Villa - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1607573-1" tvg-name="[22:30] Auda vs Dinamo Tirana - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133814_ffdccaaa.png",[22:30] Auda vs Dinamo Tirana - UEFA Europa Conference League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1610530-1" tvg-name="[19:30] Persebaya Surabaya vs Arema FC - Piala Presiden" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:30] Persebaya Surabaya vs Arema FC - Piala Presiden [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1563640-1" tvg-name="[22:30] Rodina Moskva vs Rubin - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133814_ffdccaaa.png",[22:30] Rodina Moskva vs Rubin - Cúp Nga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1548098-1" tvg-name="[19:30] Philippines vs Thailand - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:30] Philippines vs Thailand - AFF Championship [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
