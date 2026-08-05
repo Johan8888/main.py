@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1607573-1" tvg-name="[23:00] Auda vs Dinamo Tirana - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132552_e6e516c9.png",[23:00] Auda vs Dinamo Tirana - UEFA Europa Conference League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1542345-1" tvg-name="[16:30] AC Milan vs Inter - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133653_fae20535.png",[16:30] AC Milan vs Inter - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1583618-1" tvg-name="[16:30] K-League Stars vs Manchester City - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133653_fae20535.png",[16:30] K-League Stars vs Manchester City - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1537489-1" tvg-name="[16:30] Queanbeyan City vs Tuggeranong United - Capital Territory NPL" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133653_fae20535.png",[16:30] Queanbeyan City vs Tuggeranong United - Capital Territory NPL [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
