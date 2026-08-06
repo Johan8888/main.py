@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1530114-1" tvg-name="[06:30] Inter Miami vs Atletico San Luis - Leagues Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs Atletico San Luis - Leagues Cup [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493030-1" tvg-name="[06:30] Tigre vs Belgrano Cordoba - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Tigre vs Belgrano Cordoba - VĐQG Argentina [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1534815-1" tvg-name="[20:00] Aktobe Jas vs Ekibastuz - Hạng Nhất Kazakhstan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130557_7dffbcd4.png",[20:00] Aktobe Jas vs Ekibastuz - Hạng Nhất Kazakhstan [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
