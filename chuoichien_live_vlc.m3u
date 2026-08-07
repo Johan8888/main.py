@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1524092-1" tvg-name="[15:30] Lions vs Brisbane Roar II - Queensland NPL" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141412_24481446.png",[15:30] Lions vs Brisbane Roar II - Queensland NPL [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1542348-1" tvg-name="[18:35] Bayern München vs Aston Villa - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png",[18:35] Bayern München vs Aston Villa - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-993374-1" tvg-name="[15:30] Philippines W vs Thailand W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141412_24481446.png",[15:30] Philippines W vs Thailand W - Bóng Chuyền SEA V.LEAGUE [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1523227-1" tvg-name="[18:35] Beijing Guoan vs Sichuan Jiuniu - Ngoại Hạng Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png",[18:35] Beijing Guoan vs Sichuan Jiuniu - Ngoại Hạng Trung Quốc [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1548100-1" tvg-name="[18:35] Singapore vs Indonesia - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png",[18:35] Singapore vs Indonesia - AFF Championship [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1548101-1" tvg-name="[18:35] Việt Nam vs Cambodia - AFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133504_eae218ac.png",[18:35] Việt Nam vs Cambodia - AFF Championship [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoidahd/playlist.m3u8
