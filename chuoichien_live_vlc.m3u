@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-993549-1" tvg-name="[13:00] Indonesia W vs Vietnam W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142849_cf293075.png",[13:00] Indonesia W vs Vietnam W - Bóng Chuyền SEA V.LEAGUE [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1524092-1" tvg-name="[15:30] Lions vs Brisbane Roar II - Queensland NPL" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141412_24481446.png",[15:30] Lions vs Brisbane Roar II - Queensland NPL [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-993374-1" tvg-name="[15:30] Philippines W vs Thailand W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141412_24481446.png",[15:30] Philippines W vs Thailand W - Bóng Chuyền SEA V.LEAGUE [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
