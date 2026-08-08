@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1530124-1" tvg-name="[06:30] Charlotte vs Atlas - Leagues Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131612_86a01c98.png",[06:30] Charlotte vs Atlas - Leagues Cup [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-993464-1" tvg-name="[13:00] Vietnam W vs Philippines W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250826_164900_cfcedb98.png",[13:00] Vietnam W vs Philippines W - Bóng Chuyền SEA V.LEAGUE [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1530127-1" tvg-name="[06:30] Tigres UANL vs Minnesota United FC - Leagues Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131612_86a01c98.png",[06:30] Tigres UANL vs Minnesota United FC - Leagues Cup [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
