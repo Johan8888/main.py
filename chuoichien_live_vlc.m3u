@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1567397-1" tvg-name="[23:30] Cheltenham vs Charlton - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130915_b3bb82df.png",[23:30] Cheltenham vs Charlton - Cúp Liên đoàn Anh [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1575448-1" tvg-name="[01:00] Estrela vs Sporting CP - VĐQG Bồ Đào Nha" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png",[01:00] Estrela vs Sporting CP - VĐQG Bồ Đào Nha [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1575454-1" tvg-name="[23:30] Guimaraes vs Arouca - VĐQG Bồ Đào Nha" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130915_b3bb82df.png",[23:30] Guimaraes vs Arouca - VĐQG Bồ Đào Nha [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1493060-1" tvg-name="[01:00] Tigre vs River Plate - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png",[01:00] Tigre vs River Plate - VĐQG Argentina [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1598600-1" tvg-name="[23:30] Udinese vs Nottingham Forest - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130915_b3bb82df.png",[23:30] Udinese vs Nottingham Forest - Giao Hữu Câu Lạc Bộ [M3U8]
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1598603-1" tvg-name="[01:00] Udinese vs Barcelona - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png",[01:00] Udinese vs Barcelona - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
