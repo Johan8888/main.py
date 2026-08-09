@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1607636-1" tvg-name="[16:30] South Melbourne vs Fremantle City - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",[16:30] South Melbourne vs Fremantle City - Australia Cup [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1546761-1" tvg-name="[16:40] Johor Darul Takzim FC vs Chelsea - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",[16:40] Johor Darul Takzim FC vs Chelsea - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1589321-1" tvg-name="[16:40] Manchester City vs Atletico Madrid - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",[16:40] Manchester City vs Atletico Madrid - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoida/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1607636-1" tvg-name="[16:40] South Melbourne vs Fremantle City - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png",[16:40] South Melbourne vs Fremantle City - Australia Cup [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-991421-1" tvg-name="[16:30] Việt Nam vs Thailand W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png",[16:30] Việt Nam vs Thailand W - Bóng Chuyền SEA V.LEAGUE [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8
