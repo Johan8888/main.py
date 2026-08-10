@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1565210-1" tvg-name="[21:00] FC Botosani vs Corvinul Hunedoara - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",[21:00] FC Botosani vs Corvinul Hunedoara - VĐQG Roma [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1565445-1" tvg-name="[21:00] Karpaty vs LNZ Cherkasy - Ngoại Hạng Ukraine" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",[21:00] Karpaty vs LNZ Cherkasy - Ngoại Hạng Ukraine [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1531077-1" tvg-name="[21:00] Metalourg vs Yaypan - Pro League A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",[21:00] Metalourg vs Yaypan - Pro League A [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1551746-1" tvg-name="[00:00] Jong PSV vs FC Volendam - Eerste Divisie" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130614_dbe7346b.png",[00:00] Jong PSV vs FC Volendam - Eerste Divisie [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1567409-1" tvg-name="[00:00] Plymouth vs Exeter City - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130614_dbe7346b.png",[00:00] Plymouth vs Exeter City - Cúp Liên đoàn Anh [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1565212-1" tvg-name="[00:00] sepsi osk sfantu gheorghe vs fcsb" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130614_dbe7346b.png",[00:00] sepsi osk sfantu gheorghe vs fcsb [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1548989-1" tvg-name="[00:00] Silkeborg vs Odense - Ngoại Hạng Đan Mạch" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130614_dbe7346b.png",[00:00] Silkeborg vs Odense - Ngoại Hạng Đan Mạch [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
