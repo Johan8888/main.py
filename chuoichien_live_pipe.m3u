@@ -1,7 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1607646-1" tvg-name="[19:00] KDV vs Novosibirsk - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142947_585a59d5.png",[19:00] KDV vs Novosibirsk - Cúp Nga [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1565673-1" tvg-name="[20:30] Arkadag vs Goa - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png",[20:30] Arkadag vs Goa - AFC Cup [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1569333-1" tvg-name="[20:30] East Bengal II vs Al Arabi - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png",[20:30] East Bengal II vs Al Arabi - AFC Cup [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1607607-1" tvg-name="[20:30] FC Copenhagen vs Debreceni VSC - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png",[20:30] FC Copenhagen vs Debreceni VSC - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1607609-1" tvg-name="[20:30] GKS Katowice vs Hapoel Tel Aviv - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145044_1d75f929.png",[20:30] GKS Katowice vs Hapoel Tel Aviv - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
