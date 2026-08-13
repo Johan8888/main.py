@@ -1,36 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1602972-1" tvg-name="[21:00] Abha vs Al-Hazm - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Abha vs Al-Hazm - Saudi Pro League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602972-1" tvg-name="[22:00] Abha vs Al-Hazm - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] Abha vs Al-Hazm - Saudi Pro League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1516097-1" tvg-name="[21:00] Andijan vs Neftchi - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Andijan vs Neftchi - VĐQG Uzbekistan [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1607614-1" tvg-name="[21:00] Flora Tallinn vs Inter Club d'Escaldes - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Flora Tallinn vs Inter Club d'Escaldes - UEFA Europa Conference League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1607568-1" tvg-name="[22:00] CSKA Sofia vs Maccabi Tel Aviv - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] CSKA Sofia vs Maccabi Tel Aviv - UEFA Europa League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1607613-1" tvg-name="[21:00] Ilves vs HNK Rijeka - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Ilves vs HNK Rijeka - UEFA Europa Conference League [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1607620-1" tvg-name="[21:00] Qarabag vs Dynamo Kyiv - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Qarabag vs Dynamo Kyiv - UEFA Europa Conference League [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1560916-1" tvg-name="[21:00] Spartak Nalchik vs Alaniya Vladikavkaz - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Spartak Nalchik vs Alaniya Vladikavkaz - Cúp Nga [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1560908-1" tvg-name="[22:00] Dinamo Vologda vs Tver - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] Dinamo Vologda vs Tver - Cúp Nga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1516104-1" tvg-name="[21:00] Surkhon vs Sogdiana - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Surkhon vs Sogdiana - VĐQG Uzbekistan [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1607627-1" tvg-name="[22:00] FK Tobol Kostanay vs FK Partizan - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] FK Tobol Kostanay vs FK Partizan - UEFA Europa Conference League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1607613-1" tvg-name="[22:00] Ilves vs HNK Rijeka - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] Ilves vs HNK Rijeka - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1607620-1" tvg-name="[22:00] Qarabag vs Dynamo Kyiv - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] Qarabag vs Dynamo Kyiv - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1607621-1" tvg-name="[22:00] Rīgas FS vs FK Jablonec - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132451_3df703ef.png",[22:00] Rīgas FS vs FK Jablonec - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
