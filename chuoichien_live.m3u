@@ -1,19 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1516099-1" tvg-name="[21:00] Dinamo Samarqand vs Xorazm - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png",[21:00] Dinamo Samarqand vs Xorazm - VĐQG Uzbekistan [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602977-1" tvg-name="[22:30] Al-Hilal Saudi FC vs Al-Faisaly FC - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] Al-Hilal Saudi FC vs Al-Faisaly FC - Saudi Pro League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1561360-1" tvg-name="[21:00] FC Orenburg vs Lokomotiv - Ngoại Hạng Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png",[21:00] FC Orenburg vs Lokomotiv - Ngoại Hạng Nga [M3U8]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1576144-1" tvg-name="[22:30] Eintracht Braunschweig vs VfL Bochum - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] Eintracht Braunschweig vs VfL Bochum - Bundesliga 2 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1604789-1" tvg-name="[21:00] Marseille vs Atletico Madrid - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133527_bc14001f.png",[21:00] Marseille vs Atletico Madrid - Giao Hữu Câu Lạc Bộ [M3U8]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1584370-1" tvg-name="[22:30] Galatasaray vs Yeni Çorumspor - VĐQG Thổ Nhĩ Kì" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] Galatasaray vs Yeni Çorumspor - VĐQG Thổ Nhĩ Kì [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1604789-1" tvg-name="[22:30] Marseille vs Atletico Madrid - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] Marseille vs Atletico Madrid - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1619314-1" tvg-name="[22:30] parma vs catania" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] parma vs catania [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1548990-1" tvg-name="[22:30] viborg vs aarhus" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125511_cf0f54fc.png",[22:30] viborg vs aarhus [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
