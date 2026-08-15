@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1602980-1" tvg-name="[23:30] Al-Nassr vs Al-Fateh - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130850_9b44244e.png",[23:30] Al-Nassr vs Al-Fateh - Saudi Pro League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1570341-1" tvg-name="[23:30] Sevilla vs Rayo Vallecano - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130850_9b44244e.png",[23:30] Sevilla vs Rayo Vallecano - La Liga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570333-1" tvg-name="[23:30] Alaves vs Getafe - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130850_9b44244e.png",[23:30] Alaves vs Getafe - La Liga [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitieu/playlist.m3u8
 #EXTINF:-1 tvg-id="chuoichien-1563091-1" tvg-name="[23:30] Sheffield Utd vs Birmingham - Hạng Nhất Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130850_9b44244e.png",[23:30] Sheffield Utd vs Birmingham - Hạng Nhất Anh [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
