@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493072-1" tvg-name="[06:00] Racing Club vs Banfield - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134650_e775fd58.png",[06:00] Racing Club vs Banfield - VĐQG Argentina [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1581473-1" tvg-name="[10:00] CA La Paz vs Piratas - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133845_6bf36449.png",[10:00] CA La Paz vs Piratas - Hạng 2 Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1505498-1" tvg-name="[06:00] Universidad de Concepcion vs D. La Serena - VĐQG Chile" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134650_e775fd58.png",[06:00] Universidad de Concepcion vs D. La Serena - VĐQG Chile [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
