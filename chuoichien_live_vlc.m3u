@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1507028-1" tvg-name="[17:30] Gwangju FC vs Pohang Steelers - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_588cf309.png",[17:30] Gwangju FC vs Pohang Steelers - K League 1 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1546762-1" tvg-name="[20:30] Bayern München vs RB Leipzig - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[20:30] Bayern München vs RB Leipzig - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1542353-1" tvg-name="[20:30] Manchester United vs AC Milan - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[20:30] Manchester United vs AC Milan - Giao Hữu Câu Lạc Bộ [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1598622-1" tvg-name="[20:30] Tottenham vs 1899 Hoffenheim - Giao Hữu Câu Lạc Bộ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[20:30] Tottenham vs 1899 Hoffenheim - Giao Hữu Câu Lạc Bộ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1576147-1" tvg-name="[17:30] Hertha BSC vs 1. FC Heidenheim - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_588cf309.png",[17:30] Hertha BSC vs 1. FC Heidenheim - Bundesliga 2 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
