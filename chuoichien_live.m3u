@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1606614-1" tvg-name="[16:00] Yokohama FC vs Jubilo Iwata - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132417_d7e4c062.png",[16:00] Yokohama FC vs Jubilo Iwata - J2 League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1507031-1" tvg-name="[17:30] Bucheon FC 1995 vs Jeonbuk Motors - K League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133957_d2e52bb4.png",[17:30] Bucheon FC 1995 vs Jeonbuk Motors - K League 1 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1576150-1" tvg-name="[17:30] Dynamo Dresden vs SV Darmstadt 98 - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133957_d2e52bb4.png",[17:30] Dynamo Dresden vs SV Darmstadt 98 - Bundesliga 2 [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1576146-1" tvg-name="[17:30] Hannover 96 vs VfL Wolfsburg - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133957_d2e52bb4.png",[17:30] Hannover 96 vs VfL Wolfsburg - Bundesliga 2 [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
