@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1561580-1" tvg-name="[23:30] Al-Raed vs Al-Hilal Saudi FC - King's Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png",[23:30] Al-Raed vs Al-Hilal Saudi FC - King's Cup [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1564804-1" tvg-name="[23:30] Cremonese vs Sampdoria - Coppa Italia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png",[23:30] Cremonese vs Sampdoria - Coppa Italia [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493067-1" tvg-name="[23:30] Estudiantes de Rio Cuarto vs Atletico Tucuman - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png",[23:30] Estudiantes de Rio Cuarto vs Atletico Tucuman - VĐQG Argentina [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1493069-1" tvg-name="[03:00] Lanus vs Independiente - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_5487ae5f.png",[03:00] Lanus vs Independiente - VĐQG Argentina [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1551755-1" tvg-name="[23:30] Jong Ajax vs Emmen - Eerste Divisie" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png",[23:30] Jong Ajax vs Emmen - Eerste Divisie [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1564803-1" tvg-name="[23:30] Sassuolo vs Cesena - Coppa Italia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133425_97f4783a.png",[23:30] Sassuolo vs Cesena - Coppa Italia [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
