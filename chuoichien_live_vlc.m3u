@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1490383-1" tvg-name="[06:15] Austin vs FC Dallas - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_39bee3ac.png",[06:15] Austin vs FC Dallas - Major League Soccer [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1490390-1" tvg-name="[09:30] Seattle Sounders vs Vancouver Whitecaps - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_5265d61a.png",[09:30] Seattle Sounders vs Vancouver Whitecaps - Major League Soccer [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493063-1" tvg-name="[06:15] Barracas Central vs Rosario Central - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_39bee3ac.png",[06:15] Barracas Central vs Rosario Central - VĐQG Argentina [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
