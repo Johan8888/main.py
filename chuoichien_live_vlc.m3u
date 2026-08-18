@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493069-1" tvg-name="[03:00] Lanus vs Independiente - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_5487ae5f.png",[03:00] Lanus vs Independiente - VĐQG Argentina [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550929-1" tvg-name="[10:06] Pachuca vs Puebla - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_2bc770b2.png",[10:06] Pachuca vs Puebla - VĐQG Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoito/playlist.m3u8
