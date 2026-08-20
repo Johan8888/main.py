@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1490400-1" tvg-name="[08:30] Colorado Rapids vs Los Angeles FC - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png",[08:30] Colorado Rapids vs Los Angeles FC - Major League Soccer [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1578041-1" tvg-name="[16:30] No Limits FC W vs Ayeyawady W - AFC Women's Champions League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/27921.png",[16:30] No Limits FC W vs Ayeyawady W - AFC Women's Champions League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1490403-1" tvg-name="[08:30] Los Angeles Galaxy vs San Jose Earthquakes - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png",[08:30] Los Angeles Galaxy vs San Jose Earthquakes - Major League Soccer [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
