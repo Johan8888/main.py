@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1581394-1" tvg-name="[06:00] Venados FC vs Dorados - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_a3f39bbf.png",[06:00] Venados FC vs Dorados - Hạng 2 Mexico [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1548367-1" tvg-name="[10:00] Firpo vs LD Alajuelense - Concacaf Central American Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130132_268a3cb3.png",[10:00] Firpo vs LD Alajuelense - Concacaf Central American Cup [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
