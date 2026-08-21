@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1602981-1" tvg-name="[01:00] Al-Fayha vs Al-Hilal Saudi FC - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",[01:00] Al-Fayha vs Al-Hilal Saudi FC - Saudi Pro League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1581394-1" tvg-name="[06:00] Venados FC vs Dorados - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133843_a3f39bbf.png",[06:00] Venados FC vs Dorados - Hạng 2 Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoida/playlist.m3u8
