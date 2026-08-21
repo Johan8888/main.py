@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1556023-1" tvg-name="[17:30] fc tokyo vs jef united chiba" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png",[17:30] fc tokyo vs jef united chiba [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1516108-1" tvg-name="[21:00] Navbahor vs Nasaf - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_20be1fc6.png",[21:00] Navbahor vs Nasaf - VĐQG Uzbekistan [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
