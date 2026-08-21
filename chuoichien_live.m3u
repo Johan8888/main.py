@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-991372-1" tvg-name="[13:00] thailand vs australia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[13:00] thailand vs australia [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1522004-1" tvg-name="[16:30] Green Gully vs St. Albans Saints - Victoria NPL" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141353_0257e949.png",[16:30] Green Gully vs St. Albans Saints - Victoria NPL [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichao/playlist.m3u8
