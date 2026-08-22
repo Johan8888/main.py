@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1602985-1" tvg-name="[01:00] Al-Qadisiyah FC vs Al-Ittihad FC - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png",[01:00] Al-Qadisiyah FC vs Al-Ittihad FC - Saudi Pro League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-991750-1" tvg-name="[06:00] Estudiantes de Rio Cuarto vs San Lorenzo - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130406_7b096f36.png",[06:00] Estudiantes de Rio Cuarto vs San Lorenzo - VĐQG Argentina [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctru/playlist.m3u8
