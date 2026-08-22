@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1556026-1" tvg-name="[16:00] Kashima vs Avispa Fukuoka - J1 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_ccc1be3a.png",[16:00] Kashima vs Avispa Fukuoka - J1 League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-999134-1" tvg-name="[18:30] China vs Iraq - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png",[18:30] China vs Iraq - Bóng chuyền nữ Châu Á 2026 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angao/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557368-1" tvg-name="[18:30] Hull City vs Manchester United - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png",[18:30] Hull City vs Manchester United - Ngoại Hạng Anh [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
