@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-991972-1" tvg-name="[09:00] Hong Kong vs Vietnam W - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png",[09:00] Hong Kong vs Vietnam W - Bóng chuyền nữ Châu Á 2026 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-991546-1" tvg-name="[18:30] China W vs Iran - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[18:30] China W vs Iran - Bóng chuyền nữ Châu Á 2026 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1601121-1" tvg-name="[18:30] Sabah FA vs Imigresen - VĐQG Malaysia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[18:30] Sabah FA vs Imigresen - VĐQG Malaysia [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
