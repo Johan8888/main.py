@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1516113-1" tvg-name="[21:00] Andijan vs Xorazm - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Andijan vs Xorazm - VĐQG Uzbekistan [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602994-1" tvg-name="[23:45] Al-Ettifaq vs Al-Nassr - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png",[23:45] Al-Ettifaq vs Al-Nassr - Saudi Pro League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1516114-1" tvg-name="[21:00] dinamo samarqand vs pakhtakor" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] dinamo samarqand vs pakhtakor [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1622626-1" tvg-name="[23:45] Sabah FA vs Hapoel Beer Sheva - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png",[23:45] Sabah FA vs Hapoel Beer Sheva - UEFA Champions League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1627497-1" tvg-name="[21:00] Ryazan vs FK Spartak Tambov - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131724_e402a8ca.png",[21:00] Ryazan vs FK Spartak Tambov - Cúp Nga [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
