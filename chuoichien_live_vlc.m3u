@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-995071-1" tvg-name="[18:30] China vs Chinese Taipei - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png",[18:30] China vs Chinese Taipei - Bóng chuyền nữ Châu Á 2026 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602996-1" tvg-name="[23:00] Al-Faisaly FC vs Al-Fateh - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134008_ab62e860.png",[23:00] Al-Faisaly FC vs Al-Fateh - Saudi Pro League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1601146-1" tvg-name="[18:30] Johor Darul Takzim FC vs Kelantan Red Warrior FC - VĐQG Malaysia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png",[18:30] Johor Darul Takzim FC vs Kelantan Red Warrior FC - VĐQG Malaysia [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
