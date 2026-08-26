@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-993593-1" tvg-name="[09:00] Hong Kong vs South Korea - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134317_1bd3a785.png",[09:00] Hong Kong vs South Korea - Bóng chuyền nữ Châu Á 2026 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1623386-1" tvg-name="[16:30] Preston Lions vs South Melbourne - Australia Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141357_619109fb.png",[16:30] Preston Lions vs South Melbourne - Australia Cup [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
