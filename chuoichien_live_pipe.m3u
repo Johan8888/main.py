@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-995132-1" tvg-name="[18:30] China vs Iran - Bóng chuyền nữ Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[18:30] China vs Iran - Bóng chuyền nữ Châu Á 2026 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-id="chuoichien-1557383-1" tvg-name="[18:30] Liverpool vs Nottingham Forest - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[18:30] Liverpool vs Nottingham Forest - Ngoại Hạng Anh [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1575142-1" tvg-name="[23:30] Borussia Dortmund vs Hamburger SV - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Borussia Dortmund vs Hamburger SV - Bundesliga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1570361-1" tvg-name="[23:30] Real Sociedad vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Real Sociedad vs Espanyol - La Liga [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="chuoichien-1557386-1" tvg-name="[23:30] Tottenham vs Newcastle - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Tottenham vs Newcastle - Ngoại Hạng Anh [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://live.chuoichien.tv/
