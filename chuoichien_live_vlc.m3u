@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1575142-1" tvg-name="[23:30] Borussia Dortmund vs Hamburger SV - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Borussia Dortmund vs Hamburger SV - Bundesliga [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570361-1" tvg-name="[23:30] Real Sociedad vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Real Sociedad vs Espanyol - La Liga [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557386-1" tvg-name="[23:30] Tottenham vs Newcastle - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png",[23:30] Tottenham vs Newcastle - Ngoại Hạng Anh [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492351-1" tvg-name="[04:30] Atletico-MG vs Vitoria - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[04:30] Atletico-MG vs Vitoria - VĐQG Brazil [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
