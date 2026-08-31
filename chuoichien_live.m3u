@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492356-1" tvg-name="[04:30] Mirassol vs Palmeiras - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",[04:30] Mirassol vs Palmeiras - VĐQG Brazil [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-993547-1" tvg-name="[09:10] Indonesia U20 vs Malaysia U20 - AFC Asian Cup U20" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png",[09:10] Indonesia U20 vs Malaysia U20 - AFC Asian Cup U20 [FLV]
+#EXTVLCOPT:http-referrer=https://live05.chuoichientv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live05.chuoichientv.me/"}
+https://hwyypull.ncctrials.com/live/stream-557437_lhd.flv
+#EXTINF:-1 tvg-id="chuoichien-1550947-1" tvg-name="[09:10] Monterrey vs Atletico San Luis - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131433_e85dcdc4.png",[09:10] Monterrey vs Atletico San Luis - VĐQG Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1490435-1" tvg-name="[04:30] St. Louis City vs FC Dallas - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",[04:30] St. Louis City vs FC Dallas - Major League Soccer [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
