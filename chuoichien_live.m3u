@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1563651-1" tvg-name="[20:00] akron vs lokomotiv" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[20:00] akron vs lokomotiv [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1519473-1" tvg-name="[04:30] Delfin SC vs Tecnico Universitario - VĐQG Ecuador" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132248_af37ec14.png",[04:30] Delfin SC vs Tecnico Universitario - VĐQG Ecuador [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-992298-1" tvg-name="[20:00] Belgium vs Germany - Bóng chuyền Nữ Châu Âu" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[20:00] Belgium vs Germany - Bóng chuyền Nữ Châu Âu [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1520846-1" tvg-name="[04:30] Londrina vs Juventude - Serie B" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132248_af37ec14.png",[04:30] Londrina vs Juventude - Serie B [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1585737-1" tvg-name="[20:00] Ümraniyespor vs Muğlaspor - Hạng Nhất Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[20:00] Ümraniyespor vs Muğlaspor - Hạng Nhất Thổ Nhĩ Kỳ [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
