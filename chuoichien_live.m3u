@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1563656-1" tvg-name="[18:30] fc orenburg vs rubin" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_c2f06d41.png",[18:30] fc orenburg vs rubin [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1623475-1" tvg-name="[00:00] Real Madrid W vs Ajax W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_77a1ae5a.png",[00:00] Real Madrid W vs Ajax W - UEFA Champions League Women [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1635848-1" tvg-name="[18:30] sabah fa vs selangor" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_c2f06d41.png",[18:30] sabah fa vs selangor [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1561917-1" tvg-name="[00:00] Red Bull Salzburg vs Rapid Vienna - VĐGQ Áo" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_77a1ae5a.png",[00:00] Red Bull Salzburg vs Rapid Vienna - VĐGQ Áo [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629059-1" tvg-name="[18:30] Sassuolo vs Frosinone - Coppa Italia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_c2f06d41.png",[18:30] Sassuolo vs Frosinone - Coppa Italia [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1551080-1" tvg-name="[00:00] Slavia Sofia vs Levski Sofia - VĐQG Bulgaria" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134217_77a1ae5a.png",[00:00] Slavia Sofia vs Levski Sofia - VĐQG Bulgaria [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1600224-1" tvg-name="[18:30] Yunnan Yukun vs Chongqing Tongliang Long - Cúp FA Trung Quốc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_c2f06d41.png",[18:30] Yunnan Yukun vs Chongqing Tongliang Long - Cúp FA Trung Quốc [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
