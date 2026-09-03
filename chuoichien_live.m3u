@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1494190-1" tvg-name="[23:00] mjallby vs djurgardens if" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133430_0844ae85.png",[23:00] mjallby vs djurgardens if [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629057-1" tvg-name="[23:00] palermo vs mantova" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133430_0844ae85.png",[23:00] palermo vs mantova [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1623074-1" tvg-name="[04:30] Gremio vs Internacional - Cúp Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132258_57a3d7d1.png",[04:30] Gremio vs Internacional - Cúp Brazil [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1519476-1" tvg-name="[04:30] Leones del Norte vs Orense SC - VĐQG Ecuador" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132258_57a3d7d1.png",[04:30] Leones del Norte vs Orense SC - VĐQG Ecuador [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
