@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1549751-1" tvg-name="[08:00] Deportivo Pereira vs Independiente Medellin - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png",[08:00] Deportivo Pereira vs Independiente Medellin - VĐQG Colombia [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-994906-1" tvg-name="[14:00] South Korea vs Chinese Taipei - Bóng chuyền Nam Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[14:00] South Korea vs Chinese Taipei - Bóng chuyền Nam Châu Á 2026 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
