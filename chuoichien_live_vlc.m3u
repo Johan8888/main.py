@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1623074-1" tvg-name="[04:30] Gremio vs Internacional - Cúp Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132258_57a3d7d1.png",[04:30] Gremio vs Internacional - Cúp Brazil [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549751-1" tvg-name="[08:00] Deportivo Pereira vs Independiente Medellin - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133538_0a9dbb3b.png",[08:00] Deportivo Pereira vs Independiente Medellin - VĐQG Colombia [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1519476-1" tvg-name="[04:30] Leones del Norte vs Orense SC - VĐQG Ecuador" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132258_57a3d7d1.png",[04:30] Leones del Norte vs Orense SC - VĐQG Ecuador [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
