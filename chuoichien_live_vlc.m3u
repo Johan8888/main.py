@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1621305-1" tvg-name="[17:30] Bali United vs PSS Sleman - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",[17:30] Bali United vs PSS Sleman - VĐQG Indonesia [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1576161-1" tvg-name="[23:30] Arminia Bielefeld vs FC St. Pauli - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130306_9aaa73c1.png",[23:30] Arminia Bielefeld vs FC St. Pauli - Bundesliga 2 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-995035-1" tvg-name="[17:30] Japan vs Oman - Bóng chuyền Nam Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",[17:30] Japan vs Oman - Bóng chuyền Nam Châu Á 2026 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1619917-1" tvg-name="[17:30] Trường Tươi Đồng Nai vs Viettel - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png",[17:30] Trường Tươi Đồng Nai vs Viettel - V.League 1 [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
