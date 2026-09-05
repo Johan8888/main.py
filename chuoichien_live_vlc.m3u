@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-994264-1" tvg-name="[08:00] Australia vs Bahrain - Bóng chuyền Nam Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[08:00] Australia vs Bahrain - Bóng chuyền Nam Châu Á 2026 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-999283-1" tvg-name="[11:30] China vs India - Bóng chuyền Nam Châu Á 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png",[11:30] China vs India - Bóng chuyền Nam Châu Á 2026 [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
