@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1570363-1" tvg-name="[22:30] Alaves vs Osasuna - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png",[22:30] Alaves vs Osasuna - La Liga [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1570367-1" tvg-name="[23:00] Espanyol vs Sevilla - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143103_13158a72.png",[23:00] Espanyol vs Sevilla - La Liga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557387-1" tvg-name="[22:30] Arsenal vs Chelsea - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png",[22:30] Arsenal vs Chelsea - Ngoại Hạng Anh [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-991764-1" tvg-name="[22:30] Italy W vs Turkey W - Vô địch bóng chuyền Nữ Châu Âu" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png",[22:30] Italy W vs Turkey W - Vô địch bóng chuyền Nữ Châu Âu [M3U8]
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-991764-1" tvg-name="[23:00] Italy W vs Turkey W - Vô địch bóng chuyền Nữ Châu Âu" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143103_13158a72.png",[23:00] Italy W vs Turkey W - Vô địch bóng chuyền Nữ Châu Âu [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550114-1" tvg-name="[23:00] Juventus vs AC Milan - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143103_13158a72.png",[23:00] Juventus vs AC Milan - Serie A [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1552751-1" tvg-name="[23:00] Marseille vs Paris FC - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143103_13158a72.png",[23:00] Marseille vs Paris FC - Ligue 1 [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
