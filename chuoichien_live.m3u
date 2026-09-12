@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-996989-1" tvg-name="[23:00] Bulgaria vs Ukraine - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png",[23:00] Bulgaria vs Ukraine - Vô địch Châu Âu Bóng Chuyền [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603029-1" tvg-name="[01:00] Al Khaleej Saihat vs Al-Nassr - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png",[01:00] Al Khaleej Saihat vs Al-Nassr - Saudi Pro League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550121-1" tvg-name="[23:00] Lazio vs AC Milan - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png",[23:00] Lazio vs AC Milan - Serie A [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570379-1" tvg-name="[01:00] Real Madrid vs Rayo Vallecano - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png",[01:00] Real Madrid vs Rayo Vallecano - La Liga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557406-1" tvg-name="[23:00] Tottenham vs Everton - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_abb0ed43.png",[23:00] Tottenham vs Everton - Ngoại Hạng Anh [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1557405-1" tvg-name="[01:00] Sunderland vs Arsenal - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134001_23e85ea3.png",[01:00] Sunderland vs Arsenal - Ngoại Hạng Anh [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
