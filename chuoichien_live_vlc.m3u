@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1490474-1" tvg-name="[08:30] Real Salt Lake vs New York City FC - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131605_f3bec167.png",[08:30] Real Salt Lake vs New York City FC - Major League Soccer [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-995877-1" tvg-name="[13:30] Australia vs South Korea - Vô địch Bóng Chuyền Châu Á" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[13:30] Australia vs South Korea - Vô địch Bóng Chuyền Châu Á [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1507068-1" tvg-name="[13:30] gimcheon sangmu fc vs gangwon fc" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[13:30] gimcheon sangmu fc vs gangwon fc [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
