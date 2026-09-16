@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550948-1" tvg-name="[07:30] Puebla vs Toluca - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Puebla vs Toluca - VĐQG Mexico [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-999230-1" tvg-name="[14:00] Thailand vs Mongolia - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[14:00] Thailand vs Mongolia - Asian Games Bóng Chuyền Nữ [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629831-1" tvg-name="[07:30] Sao Paulo vs Boca Juniors - CONMEBOL Sudamericana" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Sao Paulo vs Boca Juniors - CONMEBOL Sudamericana [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1639453-1" tvg-name="[14:00] U23 Thailand vs Kyrgyz Republic U23 - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[14:00] U23 Thailand vs Kyrgyz Republic U23 - Asian Games [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://live.chuoichien.tv/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
