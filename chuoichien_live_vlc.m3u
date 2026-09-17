@@ -1,15 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1630357-1" tvg-name="[19:15] Kitchee vs Gangwon FC - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png",[19:15] Kitchee vs Gangwon FC - AFC Cup [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636232-1" tvg-name="[00:00] Besiktas vs Marseille - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png",[00:00] Besiktas vs Marseille - UEFA Europa League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636278-1" tvg-name="[00:00] Juventus vs NEC Nijmegen - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png",[00:00] Juventus vs NEC Nijmegen - UEFA Europa League [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635564-1" tvg-name="[00:00] Manchester City vs Norwich - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png",[00:00] Manchester City vs Norwich - Cúp Liên đoàn Anh [M3U8]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570386-1" tvg-name="[00:00] Real Betis vs Getafe - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png",[00:00] Real Betis vs Getafe - La Liga [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-994028-1" tvg-name="[19:15] Serbia vs Belgium - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png",[19:15] Serbia vs Belgium - Vô địch Châu Âu Bóng Chuyền [M3U8]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1630359-1" tvg-name="[19:15] Shanghai Shenhua vs Tampines Rovers - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130646_57e46c3c.png",[19:15] Shanghai Shenhua vs Tampines Rovers - AFC Cup [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636321-1" tvg-name="[00:00] Real Sociedad vs Bournemouth - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_d7a3c828.png",[00:00] Real Sociedad vs Bournemouth - UEFA Europa League [M3U8]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
