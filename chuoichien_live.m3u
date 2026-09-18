@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1585760-1" tvg-name="[20:00] Bandırmaspor vs Ümraniyespor - Hạng Nhất Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[20:00] Bandırmaspor vs Ümraniyespor - Hạng Nhất Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1576187-1" tvg-name="[23:30] VfL Wolfsburg vs SV Darmstadt 98 - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_b41a352d.png",[23:30] VfL Wolfsburg vs SV Darmstadt 98 - Bundesliga 2 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1585760-2" tvg-name="[20:00] Bandırmaspor vs Ümraniyespor - Hạng Nhất Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[20:00] Bandırmaspor vs Ümraniyespor - Hạng Nhất Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1576187-2" tvg-name="[23:30] VfL Wolfsburg vs SV Darmstadt 98 - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_b41a352d.png",[23:30] VfL Wolfsburg vs SV Darmstadt 98 - Bundesliga 2 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfze0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178973741799874&wsIPSercert=907e00be57042b46f510de4b956136c3&wsBindIP=2&wsserid=1168231589594887503
+https://tfze0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=2b324eba803525de93cb2292-178975434344732&wsIPSercert=af3e52d61685616fd1924b7bb774361e&wsBindIP=2&wsserid=1168231589586498745
