@@ -1,36 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1575167-1" tvg-name="[01:30] Bayern München vs Union Berlin - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Bayern München vs Union Berlin - Bundesliga [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1493140-1" tvg-name="[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png",[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557408-1" tvg-name="[01:30] Brentford vs Chelsea - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Brentford vs Chelsea - Ngoại Hạng Anh (Luồng 1) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1493140-2" tvg-name="[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png",[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557408-2" tvg-name="[01:30] Brentford vs Chelsea - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Brentford vs Chelsea - Ngoại Hạng Anh (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfze0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=0caa8907617d87a4e63240ad-178976341996845&wsIPSercert=82070a1d1f131f07745f654e5e48768f&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1570397-1" tvg-name="[01:30] Espanyol vs Elche - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Espanyol vs Elche - La Liga (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570397-2" tvg-name="[01:30] Espanyol vs Elche - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Espanyol vs Elche - La Liga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfze0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=c380b4f3f5406dd854d45cf2-178976342019944&wsIPSercert=82070a1d1f131f07745f654e5e48768f&wsBindIP=2&wsserid=1168202333420231774
-#EXTINF:-1 tvg-id="chuoichien-1552769-1" tvg-name="[01:30] Monaco vs Lens - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Monaco vs Lens - Ligue 1 (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1552769-2" tvg-name="[01:30] Monaco vs Lens - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_909d7704.png",[01:30] Monaco vs Lens - Ligue 1 (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfze0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=0caa8907617d87a4e63240ad-178976342028522&wsIPSercert=82070a1d1f131f07745f654e5e48768f&wsBindIP=2&wsserid=1168202392933970899
+https://tfze0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178977220377579&wsIPSercert=6f4e9a4861febf58b879207358e2b278&wsBindIP=2&wsserid=1168231589594887503
