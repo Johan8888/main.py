@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493140-1" tvg-name="[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png",[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550966-1" tvg-name="[08:00] Puebla vs Atlante FC - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[08:00] Puebla vs Atlante FC - VĐQG Mexico (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1493140-2" tvg-name="[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132728_03e5a301.png",[04:00] Central Cordoba de Santiago vs Defensa Y Justicia - VĐQG Argentina (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1550966-2" tvg-name="[08:00] Puebla vs Atlante FC - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[08:00] Puebla vs Atlante FC - VĐQG Mexico (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfze0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178977220377579&wsIPSercert=6f4e9a4861febf58b879207358e2b278&wsBindIP=2&wsserid=1168231589594887503|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tfzf0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=8504d8b20638874d6144550c-178978473114541&wsIPSercert=ee6d2e22dc23dad6d5d73cface5b6eef&wsBindIP=2&wsserid=1168283323406534424|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
