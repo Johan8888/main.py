@@ -1,49 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550128-1" tvg-name="[23:00] AS Roma vs Inter - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] AS Roma vs Inter - Serie A (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1552768-1" tvg-name="[01:45] Lyon vs Rennes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Lyon vs Rennes - Ligue 1 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550128-2" tvg-name="[23:00] AS Roma vs Inter - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] AS Roma vs Inter - Serie A (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1552768-2" tvg-name="[01:45] Lyon vs Rennes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Lyon vs Rennes - Ligue 1 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=0caa8907617d87a4e63240ad-178983942126742&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-991612-1" tvg-name="[23:00] Germany vs Bulgaria - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] Germany vs Bulgaria - Vô địch Châu Âu Bóng Chuyền (Luồng 1) [M3U8]
+https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178984733641211&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231589594887503
+#EXTINF:-1 tvg-id="chuoichien-1570400-1" tvg-name="[01:45] Sevilla vs Barcelona - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Sevilla vs Barcelona - La Liga (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-991612-2" tvg-name="[23:00] Germany vs Bulgaria - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] Germany vs Bulgaria - Vô địch Châu Âu Bóng Chuyền (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570400-2" tvg-name="[01:45] Sevilla vs Barcelona - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Sevilla vs Barcelona - La Liga (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=c380b4f3f5406dd854d45cf2-178983942104852&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168202333420231774
-#EXTINF:-1 tvg-id="chuoichien-1557415-1" tvg-name="[23:00] Nottingham Forest vs Coventry - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] Nottingham Forest vs Coventry - Ngoại Hạng Anh (Luồng 1) [M3U8]
+https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b6511c95f8d254d4da5fde65-178984733725984&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231785641135723
+#EXTINF:-1 tvg-id="chuoichien-1550136-1" tvg-name="[01:45] Venezia vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Venezia vs Lazio - Serie A (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557415-2" tvg-name="[23:00] Nottingham Forest vs Coventry - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] Nottingham Forest vs Coventry - Ngoại Hạng Anh (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550136-2" tvg-name="[01:45] Venezia vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Venezia vs Lazio - Serie A (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=0caa8907617d87a4e63240ad-178983942192620&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1575168-1" tvg-name="[23:00] VfB Stuttgart vs Borussia Dortmund - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] VfB Stuttgart vs Borussia Dortmund - Bundesliga (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1575168-2" tvg-name="[23:00] VfB Stuttgart vs Borussia Dortmund - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[23:00] VfB Stuttgart vs Borussia Dortmund - Bundesliga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=0caa8907617d87a4e63240ad-178983942080366&wsIPSercert=e193ef4cb2ec2ab40af4480a8220bf89&wsBindIP=2&wsserid=1168202392933970899
+https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178984733749283&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231589594887503
