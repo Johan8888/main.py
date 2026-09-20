@@ -1,37 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1557407-1" tvg-name="[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557407-2" tvg-name="[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f326d1f12b05d4c376e87670-178991053645322&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176350583194799
-#EXTINF:-1 tvg-id="chuoichien-1636358-1" tvg-name="[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550127-1" tvg-name="[01:45] AC Milan vs Lecce - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] AC Milan vs Lecce - Serie A (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636358-2" tvg-name="[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550127-2" tvg-name="[01:45] AC Milan vs Lecce - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] AC Milan vs Lecce - Serie A (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=8c3f6aa43f9a7170f67df290-178991053612644&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176337057324681
-#EXTINF:-1 tvg-id="chuoichien-1557413-1" tvg-name="[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh (Luồng 1) [M3U8]
+https://tfzg1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=20538550fddfd1bb33ef73e0-178993455962305&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283323328938907
+#EXTINF:-1 tvg-id="chuoichien-1575503-1" tvg-name="[01:45] FC Porto vs Benfica - VĐQG Bồ Đào Nha" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] FC Porto vs Benfica - VĐQG Bồ Đào Nha (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1557413-2" tvg-name="[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1575503-2" tvg-name="[01:45] FC Porto vs Benfica - VĐQG Bồ Đào Nha" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] FC Porto vs Benfica - VĐQG Bồ Đào Nha (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=8c3f6aa43f9a7170f67df290-178991053499730&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176337057324681
+https://tfzg1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a026ddf4bb224b4fc09501cd-178993456011220&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="chuoichien-1552773-1" tvg-name="[01:45] Marseille vs Paris Saint Germain - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] Marseille vs Paris Saint Germain - Ligue 1 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1552773-2" tvg-name="[01:45] Marseille vs Paris Saint Germain - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] Marseille vs Paris Saint Germain - Ligue 1 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzg1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=8504d8b20638874d6144550c-178993455902812&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283323406534424
+#EXTINF:-1 tvg-id="chuoichien-1570401-1" tvg-name="[01:45] Valencia vs Real Sociedad - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] Valencia vs Real Sociedad - La Liga (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570401-2" tvg-name="[01:45] Valencia vs Real Sociedad - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[01:45] Valencia vs Real Sociedad - La Liga (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzg1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=73c7cc90fa6dbde8e12e08df-178993455871948&wsIPSercert=d7280755f9418e8c6a4aba36df510fc0&wsBindIP=2&wsserid=1168283477152136350
