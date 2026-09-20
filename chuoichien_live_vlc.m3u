@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-999840-1" tvg-name="[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1557407-1" tvg-name="[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-999840-2" tvg-name="[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1557407-2" tvg-name="[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Bournemouth vs Liverpool - Ngoại Hạng Anh (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzg1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178989165703655&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168176581102008440
-#EXTINF:-1 tvg-id="chuoichien-1639458-1" tvg-name="[14:00] U23 Hong Kong vs U23 Thailand - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] U23 Hong Kong vs U23 Thailand - Asian Games (Luồng 1) [M3U8]
+https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f326d1f12b05d4c376e87670-178991053645322&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176350583194799
+#EXTINF:-1 tvg-id="chuoichien-1636358-1" tvg-name="[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1639458-2" tvg-name="[14:00] U23 Hong Kong vs U23 Thailand - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] U23 Hong Kong vs U23 Thailand - Asian Games (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636358-2" tvg-name="[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Ha Noi vs Da Nang - Cúp Quốc Gia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzg1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178989165681548&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168176581102008440
+https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=8c3f6aa43f9a7170f67df290-178991053612644&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176337057324681
+#EXTINF:-1 tvg-id="chuoichien-1557413-1" tvg-name="[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557413-2" tvg-name="[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132402_bfc7ab48.png",[19:15] Manchester City vs Sunderland - Ngoại Hạng Anh (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzg0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=8c3f6aa43f9a7170f67df290-178991053499730&wsIPSercert=e8d518201039a03f680129a709455014&wsBindIP=2&wsserid=1168176337057324681
