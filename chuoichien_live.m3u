@@ -1,37 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1552768-1" tvg-name="[01:45] Lyon vs Rennes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Lyon vs Rennes - Ligue 1 (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-999840-1" tvg-name="[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-999840-2" tvg-name="[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] Kazakhstan W vs South Korea - Asian Games Bóng Chuyền Nữ (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzg1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178989165703655&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168176581102008440
+#EXTINF:-1 tvg-id="chuoichien-1639458-1" tvg-name="[14:00] U23 Hong Kong vs U23 Thailand - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] U23 Hong Kong vs U23 Thailand - Asian Games (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1552768-2" tvg-name="[01:45] Lyon vs Rennes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Lyon vs Rennes - Ligue 1 (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1639458-2" tvg-name="[14:00] U23 Hong Kong vs U23 Thailand - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144415_1bd3a785.png",[14:00] U23 Hong Kong vs U23 Thailand - Asian Games (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178984733641211&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231589594887503
-#EXTINF:-1 tvg-id="chuoichien-1570400-1" tvg-name="[01:45] Sevilla vs Barcelona - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Sevilla vs Barcelona - La Liga (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570400-2" tvg-name="[01:45] Sevilla vs Barcelona - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Sevilla vs Barcelona - La Liga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b6511c95f8d254d4da5fde65-178984733725984&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231785641135723
-#EXTINF:-1 tvg-id="chuoichien-1550136-1" tvg-name="[01:45] Venezia vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Venezia vs Lazio - Serie A (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550136-2" tvg-name="[01:45] Venezia vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png",[01:45] Venezia vs Lazio - Serie A (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzf0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=405ff28666a1694633a7772d-178984733749283&wsIPSercert=d206f097b524bef8bd5a9d14a1eb4dc7&wsBindIP=2&wsserid=1168231589594887503
+https://tfzg1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178989165681548&wsIPSercert=a585d19660c06c78358f7ac22630a125&wsBindIP=2&wsserid=1168176581102008440
