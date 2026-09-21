@@ -1,6 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-994085-1" tvg-name="[11:00] Indonesia vs Vietnam W - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",[11:00] Indonesia vs Vietnam W - Asian Games Bóng Chuyền Nữ [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1639558-1" tvg-name="[14:00] China W vs Philippines W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] China W vs Philippines W - Asian Games Women (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1639558-2" tvg-name="[14:00] China W vs Philippines W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] China W vs Philippines W - Asian Games Women (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=7850498e9cdc88da3e86c364-178997907890659&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 tvg-id="chuoichien-1639559-1" tvg-name="[14:00] South Korea W vs Korea DPR - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] South Korea W vs Korea DPR - Asian Games Women (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1639559-2" tvg-name="[14:00] South Korea W vs Korea DPR - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] South Korea W vs Korea DPR - Asian Games Women (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=7850498e9cdc88da3e86c364-178997907883608&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 tvg-id="chuoichien-999112-1" tvg-name="[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-999112-2" tvg-name="[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178997907920264&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581102008440
