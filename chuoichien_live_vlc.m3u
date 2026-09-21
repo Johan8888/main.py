@@ -1,31 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1639558-1" tvg-name="[14:00] China W vs Philippines W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] China W vs Philippines W - Asian Games Women (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1639558-2" tvg-name="[14:00] China W vs Philippines W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] China W vs Philippines W - Asian Games Women (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=7850498e9cdc88da3e86c364-178997907890659&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-1639559-1" tvg-name="[14:00] South Korea W vs Korea DPR - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] South Korea W vs Korea DPR - Asian Games Women (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1639559-2" tvg-name="[14:00] South Korea W vs Korea DPR - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] South Korea W vs Korea DPR - Asian Games Women (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=7850498e9cdc88da3e86c364-178997907883608&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-999112-1" tvg-name="[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-998409-1" tvg-name="[21:00] Belgium vs Czech Republic - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Belgium vs Czech Republic - Vô địch Châu Âu Bóng Chuyền (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-999112-2" tvg-name="[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[14:00] Thailand W vs China W - Asian Games Bóng Chuyền Nữ (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-998409-2" tvg-name="[21:00] Belgium vs Czech Republic - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Belgium vs Czech Republic - Vô địch Châu Âu Bóng Chuyền (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzh1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=f061c7c240c4fcec0bb384e1-178997907920264&wsIPSercert=214e135281df21091148c0eeb267a8ab&wsBindIP=2&wsserid=1168176581102008440
+https://tfzh0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=09d1fee07642832916b4af6b-179000468924472&wsIPSercert=209b35737393ed45cab1598e88d2e84c&wsBindIP=2&wsserid=1168283323367736366
+#EXTINF:-1 tvg-id="chuoichien-1640455-1" tvg-name="[21:00] Eswatini U20 vs Lesotho U20 - COSAFA U20 Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Eswatini U20 vs Lesotho U20 - COSAFA U20 Championship (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640455-2" tvg-name="[21:00] Eswatini U20 vs Lesotho U20 - COSAFA U20 Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Eswatini U20 vs Lesotho U20 - COSAFA U20 Championship (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a026ddf4bb224b4fc09501cd-179000469013847&wsIPSercert=209b35737393ed45cab1598e88d2e84c&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="chuoichien-1565259-1" tvg-name="[21:00] Oţelul vs Corvinul Hunedoara - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Oţelul vs Corvinul Hunedoara - VĐQG Roma (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1565259-2" tvg-name="[21:00] Oţelul vs Corvinul Hunedoara - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Oţelul vs Corvinul Hunedoara - VĐQG Roma (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=20538550fddfd1bb33ef73e0-179000468915505&wsIPSercert=209b35737393ed45cab1598e88d2e84c&wsBindIP=2&wsserid=1168283323328938907
+#EXTINF:-1 tvg-id="chuoichien-1516144-1" tvg-name="[21:00] Xorazm vs Qizilqum - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Xorazm vs Qizilqum - VĐQG Uzbekistan (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1516144-2" tvg-name="[21:00] Xorazm vs Qizilqum - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png",[21:00] Xorazm vs Qizilqum - VĐQG Uzbekistan (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzh0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=98c75ad807772ed969a8fc43-179000469103732&wsIPSercert=209b35737393ed45cab1598e88d2e84c&wsBindIP=2&wsserid=1168283323263926950
