@@ -1,13 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-999888-1" tvg-name="[20:00] France vs Romania - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png",[20:00] France vs Romania - Vô địch Châu Âu Bóng Chuyền (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602489-1" tvg-name="[23:45] asa targu mures vs cs dinamo bucureti" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] asa targu mures vs cs dinamo bucureti (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-999888-2" tvg-name="[20:00] France vs Romania - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png",[20:00] France vs Romania - Vô địch Châu Âu Bóng Chuyền (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1602489-2" tvg-name="[23:45] asa targu mures vs cs dinamo bucureti" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] asa targu mures vs cs dinamo bucureti (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzi0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=c380b4f3f5406dd854d45cf2-179008491909110&wsIPSercert=e84190e736588ddb16126f7118e53d4d&wsBindIP=2&wsserid=1168202333420231774|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tfzi0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=fd8328a75254a7e101e64389-179010157787552&wsIPSercert=7283c20dda6bbfca75ac0bc81d584b9c&wsBindIP=2&wsserid=1168231785639038521|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1638300-1" tvg-name="[23:45] Bayern Munich W vs Manchester City W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] Bayern Munich W vs Manchester City W - UEFA Champions League Women (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1638300-2" tvg-name="[23:45] Bayern Munich W vs Manchester City W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] Bayern Munich W vs Manchester City W - UEFA Champions League Women (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzi0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b6511c95f8d254d4da5fde65-179010157774121&wsIPSercert=7283c20dda6bbfca75ac0bc81d584b9c&wsBindIP=2&wsserid=1168231785641135723|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1638309-1" tvg-name="[23:45] Inter Milano W vs Häcken - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] Inter Milano W vs Häcken - UEFA Champions League Women (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1638309-2" tvg-name="[23:45] Inter Milano W vs Häcken - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133734_909d7704.png",[23:45] Inter Milano W vs Häcken - UEFA Champions League Women (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzi0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=405ff28666a1694633a7772d-179010157733823&wsIPSercert=7283c20dda6bbfca75ac0bc81d584b9c&wsBindIP=2&wsserid=1168231589594887503|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
