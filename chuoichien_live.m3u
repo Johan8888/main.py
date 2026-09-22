@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603371-1" tvg-name="[08:06] Santos Laguna W vs Cruz Azul W - VĐQG Nữ Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png",[08:06] Santos Laguna W vs Cruz Azul W - VĐQG Nữ Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-998047-1" tvg-name="[14:00] South Korea vs Thailand - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[14:00] South Korea vs Thailand - Asian Games Bóng Chuyền Nữ (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603371-2" tvg-name="[08:06] Santos Laguna W vs Cruz Azul W - VĐQG Nữ Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png",[08:06] Santos Laguna W vs Cruz Azul W - VĐQG Nữ Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-998047-2" tvg-name="[14:00] South Korea vs Thailand - Asian Games Bóng Chuyền Nữ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[14:00] South Korea vs Thailand - Asian Games Bóng Chuyền Nữ (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzi0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=2b324eba803525de93cb2292-179004453953935&wsIPSercert=00d35f11844ddf4218b47012e2e2a27f&wsBindIP=2&wsserid=1168231589586498745
+https://tfzi1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=4ec1739e80e266cf31d253f0-179006437984232&wsIPSercert=ac3ecaf1578060fcc6a392fddc4e9a70&wsBindIP=2&wsserid=1168167351547827516
