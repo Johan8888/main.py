@@ -1,55 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1638296-1" tvg-name="[23:45] Barcelona W vs Paris FC W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Barcelona W vs Paris FC W - UEFA Champions League Women (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638296-2" tvg-name="[23:45] Barcelona W vs Paris FC W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Barcelona W vs Paris FC W - UEFA Champions League Women (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzj1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=3c37cf749d316b9873cc0e48-179018914888033&wsIPSercert=ef5bf821159f277c05248c1eb9088df2&wsBindIP=2&wsserid=1168167351536292401
-#EXTINF:-1 tvg-id="chuoichien-1638303-1" tvg-name="[23:45] Chelsea W vs Austria Wien W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Chelsea W vs Austria Wien W - UEFA Champions League Women (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1639932-1" tvg-name="[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png",[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638303-2" tvg-name="[23:45] Chelsea W vs Austria Wien W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Chelsea W vs Austria Wien W - UEFA Champions League Women (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1639932-2" tvg-name="[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png",[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzj1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5c8ab0f99324d4ce6c680000-179018914871473&wsIPSercert=ef5bf821159f277c05248c1eb9088df2&wsBindIP=2&wsserid=1168167351549924720
-#EXTINF:-1 tvg-id="chuoichien-992280-1" tvg-name="[23:45] Italy vs Finland - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Italy vs Finland - Vô địch Châu Âu Bóng Chuyền (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-992280-2" tvg-name="[23:45] Italy vs Finland - Vô địch Châu Âu Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Italy vs Finland - Vô địch Châu Âu Bóng Chuyền (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzj1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=c6a7de3a89539e76fa3ba585-179018917033498&wsIPSercert=ef5bf821159f277c05248c1eb9088df2&wsBindIP=2&wsserid=1168167351547827516
-#EXTINF:-1 tvg-id="chuoichien-1638317-1" tvg-name="[23:45] OH Leuven W vs Roma W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] OH Leuven W vs Roma W - UEFA Champions League Women [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzj1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5c8ab0f99324d4ce6c680000-179018914849213&wsIPSercert=ef5bf821159f277c05248c1eb9088df2&wsBindIP=2&wsserid=1168167351549924720
-#EXTINF:-1 tvg-id="chuoichien-1637929-1" tvg-name="[23:45] Saudi Arabia vs Kuwait - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Saudi Arabia vs Kuwait - Gulf Cup of Nations (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637929-2" tvg-name="[23:45] Saudi Arabia vs Kuwait - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133714_e956ebcb.png",[23:45] Saudi Arabia vs Kuwait - Gulf Cup of Nations (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzj1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=5c8ab0f99324d4ce6c680000-179018914865323&wsIPSercert=ef5bf821159f277c05248c1eb9088df2&wsBindIP=2&wsserid=1168167351549924720
+https://tfzj0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=18e15f227a4318503244e94c-179020575244923&wsIPSercert=897e945984799d906015a441b44a768d&wsBindIP=2&wsserid=1168176337059421885
