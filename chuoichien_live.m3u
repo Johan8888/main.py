@@ -1,31 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1641701-1" tvg-name="[19:00] myanmar vs timor leste" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[19:00] myanmar vs timor leste [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1545827-1" tvg-name="[19:00] Namibia vs Congo - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[19:00] Namibia vs Congo - Africa Cup of Nations - Qualification (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1545816-1" tvg-name="[01:00] Cameroon vs Comoros - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Cameroon vs Comoros - Africa Cup of Nations - Qualification (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1545827-2" tvg-name="[19:00] Namibia vs Congo - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[19:00] Namibia vs Congo - Africa Cup of Nations - Qualification (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1545816-2" tvg-name="[01:00] Cameroon vs Comoros - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Cameroon vs Comoros - Africa Cup of Nations - Qualification (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzk0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=abc9da4a10efc530fe094df1-179025817988346&wsIPSercert=e13f45cc55db6d326a283d061dae8132&wsBindIP=2&wsserid=1168231589586498745
-#EXTINF:-1 tvg-id="chuoichien-1638591-1" tvg-name="[19:00] Uzbekistan vs Iran - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[19:00] Uzbekistan vs Iran - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
+https://tfzk0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179027559010809&wsIPSercert=bc93760aa71bd9f97b674d435a81aace&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="chuoichien-1545820-1" tvg-name="[01:00] Ivory Coast vs Ghana - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Ivory Coast vs Ghana - Africa Cup of Nations - Qualification (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1545820-2" tvg-name="[01:00] Ivory Coast vs Ghana - Africa Cup of Nations - Qualification" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Ivory Coast vs Ghana - Africa Cup of Nations - Qualification (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzk0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179027559088938&wsIPSercert=bc93760aa71bd9f97b674d435a81aace&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1528862-1" tvg-name="[01:00] Netherlands vs Germany - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Netherlands vs Germany - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://stm9ee346727718.global.hdplaylink.com/cctvlive/chuoinho/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
+#EXTINF:-1 tvg-id="chuoichien-1528862-2" tvg-name="[01:00] Netherlands vs Germany - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Netherlands vs Germany - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528865-1" tvg-name="[01:00] Norway vs Denmark - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Norway vs Denmark - UEFA Nations League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638591-2" tvg-name="[19:00] Uzbekistan vs Iran - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_48e9fd27.png",[19:00] Uzbekistan vs Iran - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1528865-2" tvg-name="[01:00] Norway vs Denmark - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Norway vs Denmark - UEFA Nations League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzk0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=262b663067cc1d9f1345a2e7-179025817977631&wsIPSercert=e13f45cc55db6d326a283d061dae8132&wsBindIP=2&wsserid=1168231785641135723
+https://tfzk0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179027556689459&wsIPSercert=bc93760aa71bd9f97b674d435a81aace&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="chuoichien-1528864-1" tvg-name="[01:00] Portugal vs Wales - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Portugal vs Wales - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528864-2" tvg-name="[01:00] Portugal vs Wales - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Portugal vs Wales - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzk0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179027556680652&wsIPSercert=bc93760aa71bd9f97b674d435a81aace&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1637931-1" tvg-name="[01:00] Qatar vs Bahrain - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Qatar vs Bahrain - Gulf Cup of Nations (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1637931-2" tvg-name="[01:00] Qatar vs Bahrain - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Qatar vs Bahrain - Gulf Cup of Nations (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzk0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179027556624703&wsIPSercert=bc93760aa71bd9f97b674d435a81aace&wsBindIP=2&wsserid=1168202333420231774
