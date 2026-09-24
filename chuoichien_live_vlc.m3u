@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1639932-1" tvg-name="[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png",[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549793-1" tvg-name="[07:30] America de Cali vs Rionegro Aguilas - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] America de Cali vs Rionegro Aguilas - VĐQG Colombia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1639932-2" tvg-name="[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134322_afd6712d.png",[06:00] Aruba vs Antigua and Barbuda - CONCACAF Nations League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1549793-2" tvg-name="[07:30] America de Cali vs Rionegro Aguilas - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] America de Cali vs Rionegro Aguilas - VĐQG Colombia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzj0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=18e15f227a4318503244e94c-179020575244923&wsIPSercert=897e945984799d906015a441b44a768d&wsBindIP=2&wsserid=1168176337059421885
+https://tfzk0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=9a96dab67a7a7638a56e7f68-179021670437910&wsIPSercert=cfe66d910546efc2e83661e3b013a9a2&wsBindIP=2&wsserid=1168176350583194799
+#EXTINF:-1 tvg-id="chuoichien-1490209-1" tvg-name="[07:30] Seattle Sounders vs Real Salt Lake - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] Seattle Sounders vs Real Salt Lake - Major League Soccer (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1490209-2" tvg-name="[07:30] Seattle Sounders vs Real Salt Lake - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] Seattle Sounders vs Real Salt Lake - Major League Soccer (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzk0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=c6271c35b6b397cd4cb03c4d-179021670437933&wsIPSercert=cfe66d910546efc2e83661e3b013a9a2&wsBindIP=2&wsserid=1168176337057324681
+#EXTINF:-1 tvg-id="chuoichien-1517352-1" tvg-name="[07:30] Vancouver FC vs York United - Canadian Premier League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] Vancouver FC vs York United - Canadian Premier League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1517352-2" tvg-name="[07:30] Vancouver FC vs York United - Canadian Premier League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png",[07:30] Vancouver FC vs York United - Canadian Premier League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzk0gr4uqmtt8y41hcjzgazdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=87001f27ffa438470159ae48-179021670412693&wsIPSercert=cfe66d910546efc2e83661e3b013a9a2&wsBindIP=2&wsserid=1168041062945190795
