@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1641702-1" tvg-name="[13:00] Bangladesh vs Malaysia - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[13:00] Bangladesh vs Malaysia - FIFA Asean Cup (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1637600-1" tvg-name="[20:00] India vs Panama - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",[20:00] India vs Panama - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1641702-2" tvg-name="[13:00] Bangladesh vs Malaysia - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[13:00] Bangladesh vs Malaysia - FIFA Asean Cup (Luồng 2) [M3U8]
+https://stm9ee346727718.global.hdplaylink.com/cctvlive/chuoinho/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
+#EXTINF:-1 tvg-id="chuoichien-1637600-2" tvg-name="[20:00] India vs Panama - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",[20:00] India vs Panama - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzl0gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b82e7c83e4400e7739f9e9e2-179032459574103&wsIPSercert=74994c21cd363ff203044e12761c7dab&wsBindIP=2&wsserid=1168243256616931686
-#EXTINF:-1 tvg-id="chuoichien-1641131-1" tvg-name="[13:00] China W vs Vietnam W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[13:00] China W vs Vietnam W - Asian Games Women (Luồng 1) [M3U8]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1641703-1" tvg-name="[20:00] Indonesia vs Singapore - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",[20:00] Indonesia vs Singapore - FIFA Asean Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1641131-2" tvg-name="[13:00] China W vs Vietnam W - Asian Games Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142845_d31bb816.png",[13:00] China W vs Vietnam W - Asian Games Women (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1641703-2" tvg-name="[20:00] Indonesia vs Singapore - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif",[20:00] Indonesia vs Singapore - FIFA Asean Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzl0gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=e2212b91b8c58526dd5aab8c-179032459532546&wsIPSercert=74994c21cd363ff203044e12761c7dab&wsBindIP=2&wsserid=1168243256601202660
+https://tfzl0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5efa8d7fed6b3be21f3c6322-179034602263394&wsIPSercert=5e5007a3048c29c5c207d78d08d3f385&wsBindIP=2&wsserid=1168243256620077470
