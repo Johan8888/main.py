@@ -1,41 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1637935-1" tvg-name="[01:00] Bahrain vs United Arab Emirates - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Bahrain vs United Arab Emirates - Gulf Cup of Nations (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1490510-1" tvg-name="[06:00] Columbus Crew vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131608_f8dbdd17.png",[06:00] Columbus Crew vs Inter Miami - Major League Soccer (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637935-2" tvg-name="[01:00] Bahrain vs United Arab Emirates - Gulf Cup of Nations" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Bahrain vs United Arab Emirates - Gulf Cup of Nations (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1490510-2" tvg-name="[06:00] Columbus Crew vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131608_f8dbdd17.png",[06:00] Columbus Crew vs Inter Miami - Major League Soccer (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzn0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=0c302ece9e541fa9329b2820-179053488334996&wsIPSercert=63c4d741d565641e3ab26318e8073107&wsBindIP=2&wsserid=1168243256629514822
-#EXTINF:-1 tvg-id="chuoichien-1528899-1" tvg-name="[01:00] Germany vs Greece - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Germany vs Greece - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.global.hdplaylink.com/cctvlive/chuoisay/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
-#EXTINF:-1 tvg-id="chuoichien-1528899-2" tvg-name="[01:00] Germany vs Greece - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Germany vs Greece - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528901-1" tvg-name="[01:00] Israel vs Rep. Of Ireland - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Israel vs Rep. Of Ireland - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528901-2" tvg-name="[01:00] Israel vs Rep. Of Ireland - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Israel vs Rep. Of Ireland - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzn0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=5a5d8955ea40c2f0009a80ff-179053488284831&wsIPSercert=63c4d741d565641e3ab26318e8073107&wsBindIP=2&wsserid=1168243256635806390
-#EXTINF:-1 tvg-id="chuoichien-1528900-1" tvg-name="[01:00] Norway vs Portugal - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Norway vs Portugal - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.global.hdplaylink.com/cctvlive/chuoinho/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
-#EXTINF:-1 tvg-id="chuoichien-1528900-2" tvg-name="[01:00] Norway vs Portugal - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_1ae05f1a.png",[01:00] Norway vs Portugal - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+https://tfzn1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=745884cdd56a05ef5a304539-179055189288929&wsIPSercert=db4a8dc4f1a59658e5a690a3866a8f46&wsBindIP=2&wsserid=1168176581104105640
