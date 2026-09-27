@@ -1,26 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1641706-1" tvg-name="[14:00] Hong Kong vs Laos - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[14:00] Hong Kong vs Laos - FIFA Asean Cup (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1569944-1" tvg-name="[21:15] Mallorca vs Almeria - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png",[21:15] Mallorca vs Almeria - La Liga 2 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1641706-2" tvg-name="[14:00] Hong Kong vs Laos - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[14:00] Hong Kong vs Laos - FIFA Asean Cup (Luồng 2) [M3U8]
+https://stm9ee346727718.global.hdplaylink.com/cctvlive/chuoinho/chunklist.m3u8?ref=stm9ee346727718.stream.hdplaylink.com
+#EXTINF:-1 tvg-id="chuoichien-1569944-2" tvg-name="[21:15] Mallorca vs Almeria - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125628_01e49a9d.png",[21:15] Mallorca vs Almeria - La Liga 2 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzn1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=745884cdd56a05ef5a304539-179049877158917&wsIPSercert=495b5b9db001f4ccb06ad89339bb9ccd&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-995852-1" tvg-name="[14:00] India vs Việt Nam - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[14:00] India vs Việt Nam - Asian Games Bóng Chuyền (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-995852-2" tvg-name="[14:00] India vs Việt Nam - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[14:00] India vs Việt Nam - Asian Games Bóng Chuyền (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzn1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=a25228d4e8fc2f4831ad4920-179049877194891&wsIPSercert=495b5b9db001f4ccb06ad89339bb9ccd&wsBindIP=2&wsserid=1168176581102008440
-#EXTINF:-1 tvg-id="chuoichien-1634973-1" tvg-name="[14:00] Đồng Tháp vs Thai Nguyen - V.League 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[14:00] Đồng Tháp vs Thai Nguyen - V.League 2 [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
