@@ -1,41 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1528919-1" tvg-name="[01:45] Denmark vs Portugal - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Denmark vs Portugal - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528919-2" tvg-name="[01:45] Denmark vs Portugal - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Denmark vs Portugal - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzr0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=63b3f0d63b6cd1c0f5774af0-179088517036307&wsIPSercert=3d0408e284e9e50e366c9f55ced79a82&wsBindIP=2&wsserid=1168231589594887503
-#EXTINF:-1 tvg-id="chuoichien-1528917-1" tvg-name="[01:45] Germany vs Serbia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Germany vs Serbia - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528917-2" tvg-name="[01:45] Germany vs Serbia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Germany vs Serbia - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzr0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=262b663067cc1d9f1345a2e7-179088517106624&wsIPSercert=3d0408e284e9e50e366c9f55ced79a82&wsBindIP=2&wsserid=1168231785641135723
-#EXTINF:-1 tvg-id="chuoichien-1528918-1" tvg-name="[01:45] Greece vs Netherlands - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Greece vs Netherlands - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528918-2" tvg-name="[01:45] Greece vs Netherlands - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Greece vs Netherlands - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzr0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=f388910edce65fc0a5b1f9a2-179088517064580&wsIPSercert=3d0408e284e9e50e366c9f55ced79a82&wsBindIP=2&wsserid=1168231589589644523
-#EXTINF:-1 tvg-id="chuoichien-1528920-1" tvg-name="[01:45] Wales vs Norway - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Wales vs Norway - UEFA Nations League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1641716-1" tvg-name="[16:00] Thailand vs Philippines - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Thailand vs Philippines - FIFA Asean Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528920-2" tvg-name="[01:45] Wales vs Norway - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[01:45] Wales vs Norway - UEFA Nations League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1641716-2" tvg-name="[16:00] Thailand vs Philippines - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Thailand vs Philippines - FIFA Asean Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzr0gr4uqmtt8y41hcjsgyzdnpbufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=f388910edce65fc0a5b1f9a2-179088517064516&wsIPSercert=3d0408e284e9e50e366c9f55ced79a82&wsBindIP=2&wsserid=1168231589589644523
+https://tfzs0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=998c916aa7a94e43df12508e-179093233838363&wsIPSercert=2b9da0cf11e6cda301a5e0e5f8804dc0&wsBindIP=2&wsserid=1168243256613785902
+#EXTINF:-1 tvg-id="chuoichien-1641717-1" tvg-name="[16:00] Việt Nam vs Pakistan - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Việt Nam vs Pakistan - FIFA Asean Cup (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1641717-2" tvg-name="[16:00] Việt Nam vs Pakistan - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Việt Nam vs Pakistan - FIFA Asean Cup (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tfzs0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=af4b1c1ec27bfe85ae4d2939-179093233889215&wsIPSercert=2b9da0cf11e6cda301a5e0e5f8804dc0&wsBindIP=2&wsserid=1168243256623223254
