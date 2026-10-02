@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1641716-1" tvg-name="[16:00] Thailand vs Philippines - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Thailand vs Philippines - FIFA Asean Cup (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1641716-2" tvg-name="[16:00] Thailand vs Philippines - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Thailand vs Philippines - FIFA Asean Cup (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzs0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=998c916aa7a94e43df12508e-179093233838363&wsIPSercert=2b9da0cf11e6cda301a5e0e5f8804dc0&wsBindIP=2&wsserid=1168243256613785902|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1641717-1" tvg-name="[16:00] Việt Nam vs Pakistan - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Việt Nam vs Pakistan - FIFA Asean Cup (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1528930-1" tvg-name="[23:00] Cyprus vs Armenia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png",[23:00] Cyprus vs Armenia - UEFA Nations League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1641717-2" tvg-name="[16:00] Việt Nam vs Pakistan - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png",[16:00] Việt Nam vs Pakistan - FIFA Asean Cup (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1528930-2" tvg-name="[23:00] Cyprus vs Armenia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png",[23:00] Cyprus vs Armenia - UEFA Nations League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzs0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=af4b1c1ec27bfe85ae4d2939-179093233889215&wsIPSercert=2b9da0cf11e6cda301a5e0e5f8804dc0&wsBindIP=2&wsserid=1168243256623223254|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tfzs1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=5c8ab0f99324d4ce6c680000-179096084655895&wsIPSercert=66f1982f51e2d9c346f923ab1e300136&wsBindIP=2&wsserid=1168167351549924720|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1545608-1" tvg-name="[23:00] Latvia vs Montenegro - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png",[23:00] Latvia vs Montenegro - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1545608-2" tvg-name="[23:00] Latvia vs Montenegro - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png",[23:00] Latvia vs Montenegro - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tfzs1gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5c8ab0f99324d4ce6c680000-179096084676628&wsIPSercert=66f1982f51e2d9c346f923ab1e300136&wsBindIP=2&wsserid=1168167351549924720|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
