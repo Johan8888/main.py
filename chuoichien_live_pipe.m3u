@@ -1,49 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-993804-1" tvg-name="[17:00] Chinese Taipei vs Việt Nam - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Chinese Taipei vs Việt Nam - Asian Games Bóng Chuyền (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1632355-1" tvg-name="[21:00] India vs Brazil - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[21:00] India vs Brazil - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-993804-2" tvg-name="[17:00] Chinese Taipei vs Việt Nam - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Chinese Taipei vs Việt Nam - Asian Games Bóng Chuyền (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1632355-2" tvg-name="[21:00] India vs Brazil - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png",[21:00] India vs Brazil - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzt0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179102475995853&wsIPSercert=d069a5d4432c7ead19b92b18b2536f25&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1643350-1" tvg-name="[17:00] Hong Kong vs Cambodia - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Hong Kong vs Cambodia - FIFA Asean Cup (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1643350-2" tvg-name="[17:00] Hong Kong vs Cambodia - FIFA Asean Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Hong Kong vs Cambodia - FIFA Asean Cup (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzt0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179102476151642&wsIPSercert=d069a5d4432c7ead19b92b18b2536f25&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-993785-1" tvg-name="[17:00] Japan vs Iran - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Japan vs Iran - Asian Games Bóng Chuyền (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-993785-2" tvg-name="[17:00] Japan vs Iran - Asian Games Bóng Chuyền" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] Japan vs Iran - Asian Games Bóng Chuyền (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzt0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179102476072248&wsIPSercert=d069a5d4432c7ead19b92b18b2536f25&wsBindIP=2&wsserid=1168202333420231774|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1643349-1" tvg-name="[17:00] U23 Hàn Quốc vs Japan U23 - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] U23 Hàn Quốc vs Japan U23 - Asian Games (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1643349-2" tvg-name="[17:00] U23 Hàn Quốc vs Japan U23 - Asian Games" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png",[17:00] U23 Hàn Quốc vs Japan U23 - Asian Games (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tfzt0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8?wsSession=78e3e1b662f75f1d6c446ed2-179102476090713&wsIPSercert=d069a5d4432c7ead19b92b18b2536f25&wsBindIP=2&wsserid=1168202333418134578|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tfzt0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=d133baefb6e9e1e8906e3f8f-179104131279476&wsIPSercert=6c43405b5f5b3650ba488039629cfd6e&wsBindIP=2&wsserid=1168243256648389538|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
