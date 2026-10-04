@@ -1,26 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1606681-1" tvg-name="[09:00] Consadole Sapporo vs Iwaki - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",[09:00] Consadole Sapporo vs Iwaki - J2 League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1606685-1" tvg-name="[17:00] Tegevajaro Miyazaki vs Omiya Ardija - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png",[17:00] Tegevajaro Miyazaki vs Omiya Ardija - J2 League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1606681-2" tvg-name="[09:00] Consadole Sapporo vs Iwaki - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",[09:00] Consadole Sapporo vs Iwaki - J2 League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1606685-2" tvg-name="[17:00] Tegevajaro Miyazaki vs Omiya Ardija - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png",[17:00] Tegevajaro Miyazaki vs Omiya Ardija - J2 League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzu0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179108482126593&wsIPSercert=52b74bced0370c52e2ee3b866fc321cb&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1603387-1" tvg-name="[09:00] Necaxa W vs Cruz Azul W - VĐQG Nữ Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",[09:00] Necaxa W vs Cruz Azul W - VĐQG Nữ Mexico [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzu0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179108482162138&wsIPSercert=52b74bced0370c52e2ee3b866fc321cb&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1629004-1" tvg-name="[09:00] USA vs Mexico - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",[09:00] USA vs Mexico - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629004-2" tvg-name="[09:00] USA vs Mexico - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png",[09:00] USA vs Mexico - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzu0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179108482169562&wsIPSercert=52b74bced0370c52e2ee3b866fc321cb&wsBindIP=2&wsserid=1168202392933970899
+https://tfzu0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=262b663067cc1d9f1345a2e7-179111368905489&wsIPSercert=8e7af515bc0c606f94d7f28f7170882a&wsBindIP=2&wsserid=1168231785641135723
