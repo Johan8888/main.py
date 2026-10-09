@@ -1,21 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492394-1" tvg-name="[07:30] Fluminense vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fluminense vs Coritiba - VĐQG Brazil (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1556086-1" tvg-name="[15:30] Kashiwa Reysol vs Vissel Kobe - J1 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png",[15:30] Kashiwa Reysol vs Vissel Kobe - J1 League [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492394-2" tvg-name="[07:30] Fluminense vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fluminense vs Coritiba - VĐQG Brazil (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1622781-1" tvg-name="[15:30] Persik Kediri vs Persepam Madura Utd - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png",[15:30] Persik Kediri vs Persepam Madura Utd - VĐQG Indonesia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzz1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=b62e2eeb4674fa60db20bf35-179150716965809&wsIPSercert=5618912432bb282e31bb49ae65d7a460&wsBindIP=2&wsserid=1168283323393951462
-#EXTINF:-1 tvg-id="chuoichien-996642-1" tvg-name="[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia (Luồng 1) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1622781-2" tvg-name="[15:30] Persik Kediri vs Persepam Madura Utd - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png",[15:30] Persik Kediri vs Persepam Madura Utd - VĐQG Indonesia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-996642-2" tvg-name="[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzz1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=58faafbf109eb8664779b494-179150717000797&wsIPSercert=5618912432bb282e31bb49ae65d7a460&wsBindIP=2&wsserid=1168283323367736366
+https://tfzz1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=745884cdd56a05ef5a304539-179153945085514&wsIPSercert=28389bafa3c4a98f3cfb98fb225ddfcb&wsBindIP=2&wsserid=1168176581104105640
