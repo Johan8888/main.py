@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1565207-1" tvg-name="[23:00] CFR Cluj vs Universitatea Cluj - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[23:00] CFR Cluj vs Universitatea Cluj - VĐQG Roma (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492394-1" tvg-name="[07:30] Fluminense vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fluminense vs Coritiba - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1565207-2" tvg-name="[23:00] CFR Cluj vs Universitatea Cluj - VĐQG Roma" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[23:00] CFR Cluj vs Universitatea Cluj - VĐQG Roma (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492394-2" tvg-name="[07:30] Fluminense vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fluminense vs Coritiba - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tfzy0gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5efa8d7fed6b3be21f3c6322-179148323999000&wsIPSercert=c62131639996f9670e0c0adbce733da6&wsBindIP=2&wsserid=1168243256620077470
-#EXTINF:-1 tvg-id="chuoichien-1638103-1" tvg-name="[23:00] KuPS vs AC Oulu - VĐQG Phần Lan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[23:00] KuPS vs AC Oulu - VĐQG Phần Lan [M3U8]
+https://tfzz1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=b62e2eeb4674fa60db20bf35-179150716965809&wsIPSercert=5618912432bb282e31bb49ae65d7a460&wsBindIP=2&wsserid=1168283323393951462
+#EXTINF:-1 tvg-id="chuoichien-996642-1" tvg-name="[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1640697-1" tvg-name="[23:00] Orduspor 1967 vs Karadeniz Ereğli BSK - Cúp Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[23:00] Orduspor 1967 vs Karadeniz Ereğli BSK - Cúp Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-996642-2" tvg-name="[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[07:30] Fortaleza EC vs Millonarios - VĐQG Colombia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1640697-2" tvg-name="[23:00] Orduspor 1967 vs Karadeniz Ereğli BSK - Cúp Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_7659ea88.png",[23:00] Orduspor 1967 vs Karadeniz Ereğli BSK - Cúp Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tfzy0gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=af4b1c1ec27bfe85ae4d2939-179148324001448&wsIPSercert=c62131639996f9670e0c0adbce733da6&wsBindIP=2&wsserid=1168243256623223254
+https://tfzz1gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=58faafbf109eb8664779b494-179150717000797&wsIPSercert=5618912432bb282e31bb49ae65d7a460&wsBindIP=2&wsserid=1168283323367736366
