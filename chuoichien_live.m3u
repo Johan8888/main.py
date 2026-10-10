@@ -1,13 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550986-1" tvg-name="[10:00] Tigres UANL vs Toluca - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png",[10:00] Tigres UANL vs Toluca - VĐQG Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1557417-1" tvg-name="[17:00] Arsenal vs Leeds - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Arsenal vs Leeds - Ngoại Hạng Anh (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550986-2" tvg-name="[10:00] Tigres UANL vs Toluca - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133406_3bc30a80.png",[10:00] Tigres UANL vs Toluca - VĐQG Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557417-2" tvg-name="[17:00] Arsenal vs Leeds - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Arsenal vs Leeds - Ngoại Hạng Anh (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg000gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179160321919671&wsIPSercert=a321912eeac4bf65c70bd03cce41e5ef&wsBindIP=2&wsserid=1168202392933970899
+https://tg001gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=0090a52cdc136ffc79f78c2a-179163234931606&wsIPSercert=5a3c8bdadbb992fc1f806fbe649d4610&wsBindIP=2&wsserid=1168283323316355946
+#EXTINF:-1 tvg-id="chuoichien-1633902-1" tvg-name="[17:00] Hoang Anh Gia Lai vs Da Nang - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Hoang Anh Gia Lai vs Da Nang - V.League 1 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633902-2" tvg-name="[17:00] Hoang Anh Gia Lai vs Da Nang - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Hoang Anh Gia Lai vs Da Nang - V.League 1 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg001gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8?wsSession=916257c8b426e3f3bb8d1df1-179163234945363&wsIPSercert=5a3c8bdadbb992fc1f806fbe649d4610&wsBindIP=2&wsserid=1168283476624541134
+#EXTINF:-1 tvg-id="chuoichien-1633904-1" tvg-name="[17:00] Nam Dinh vs Ninh Bình FC - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Nam Dinh vs Ninh Bình FC - V.League 1 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633904-2" tvg-name="[17:00] Nam Dinh vs Ninh Bình FC - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250817_040309_83ab6fc5.png",[17:00] Nam Dinh vs Ninh Bình FC - V.League 1 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg001gr4uqmtt8y41hcjsgyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=b62e2eeb4674fa60db20bf35-179163234956645&wsIPSercert=5a3c8bdadbb992fc1f806fbe649d4610&wsBindIP=2&wsserid=1168283323393951462
