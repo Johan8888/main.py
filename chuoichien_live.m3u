@@ -1,13 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-997914-1" tvg-name="[16:05] Hisamitsu Springs W vs Body Queenseis W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png",[16:05] Hisamitsu Springs W vs Body Queenseis W - Bóng Chuyền SEA V.LEAGUE (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1557424-1" tvg-name="[22:30] Liverpool vs Manchester City - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Liverpool vs Manchester City - Ngoại Hạng Anh (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-997914-2" tvg-name="[16:05] Hisamitsu Springs W vs Body Queenseis W - Bóng Chuyền SEA V.LEAGUE" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png",[16:05] Hisamitsu Springs W vs Body Queenseis W - Bóng Chuyền SEA V.LEAGUE (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557424-2" tvg-name="[22:30] Liverpool vs Manchester City - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Liverpool vs Manchester City - Ngoại Hạng Anh (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg010gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=69efdaa6adcc8a145e686e39-179171112853550&wsIPSercert=98e219c576e98ae0fc0780604c07d922&wsBindIP=2&wsserid=1168243256651535330
+https://tg011gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=3c37cf749d316b9873cc0e48-179173839277077&wsIPSercert=e7c545c04592e7a03c1d8c0f5e12cb48&wsBindIP=2&wsserid=1168167351536292401
+#EXTINF:-1 tvg-id="chuoichien-1570405-1" tvg-name="[22:30] Real Betis vs Osasuna - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Real Betis vs Osasuna - La Liga (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570405-2" tvg-name="[22:30] Real Betis vs Osasuna - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Real Betis vs Osasuna - La Liga (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg011gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=c6a7de3a89539e76fa3ba585-179173839274586&wsIPSercert=e7c545c04592e7a03c1d8c0f5e12cb48&wsBindIP=2&wsserid=1168167351547827516
+#EXTINF:-1 tvg-id="chuoichien-1550145-1" tvg-name="[22:30] Sassuolo vs AC Milan - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Sassuolo vs AC Milan - Serie A (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550145-2" tvg-name="[22:30] Sassuolo vs AC Milan - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png",[22:30] Sassuolo vs AC Milan - Serie A (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg011gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8?wsSession=3c37cf749d316b9873cc0e48-179173839244268&wsIPSercert=e7c545c04592e7a03c1d8c0f5e12cb48&wsBindIP=2&wsserid=1168167351536292401
