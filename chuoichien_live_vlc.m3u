@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1570411-1" tvg-name="[02:00] Real Madrid vs Villarreal - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png",[02:00] Real Madrid vs Villarreal - La Liga (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1490513-1" tvg-name="[06:30] Inter Miami vs DC United - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs DC United - Major League Soccer (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570411-2" tvg-name="[02:00] Real Madrid vs Villarreal - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125625_9a1b10da.png",[02:00] Real Madrid vs Villarreal - La Liga (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1490513-2" tvg-name="[06:30] Inter Miami vs DC United - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs DC United - Major League Soccer (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg001gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8?wsSession=745884cdd56a05ef5a304539-179166577545818&wsIPSercert=240ec014429aad0c9d0245af74b1a7ed&wsBindIP=2&wsserid=1168176581104105640
+https://tg010gr3uomttgr31hcjagczdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=79a98b4e92e42bb9f66bef70-179167700849060&wsIPSercert=d123f42ae94c2756a3db16c10d368e45&wsBindIP=2&wsserid=1168195329517191416
