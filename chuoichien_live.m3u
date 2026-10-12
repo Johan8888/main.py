@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1569961-1" tvg-name="[20:45] Burgos vs Granada CF - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png",[20:45] Burgos vs Granada CF - La Liga 2 (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492403-1" tvg-name="[04:30] chapecoense sc vs atletico paranaense" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] chapecoense sc vs atletico paranaense (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1569961-2" tvg-name="[20:45] Burgos vs Granada CF - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png",[20:45] Burgos vs Granada CF - La Liga 2 (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492403-2" tvg-name="[04:30] chapecoense sc vs atletico paranaense" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] chapecoense sc vs atletico paranaense (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg020gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=0c302ece9e541fa9329b2820-179181358809961&wsIPSercert=42da0ab27758dcef94a410915feb9eb4&wsBindIP=2&wsserid=1168243256629514822
-#EXTINF:-1 tvg-id="chuoichien-1629927-1" tvg-name="[20:45] Pakhtakor vs Al-Qadisiyah FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png",[20:45] Pakhtakor vs Al-Qadisiyah FC - AFC Champions League (Luồng 1) [M3U8]
+https://tg020gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179184361563863&wsIPSercert=440ca1a0b418867f6cc18cda2b4fbc5c&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1493171-1" tvg-name="[04:30] gimnasia m vs newells old boys" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] gimnasia m vs newells old boys (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629927-2" tvg-name="[20:45] Pakhtakor vs Al-Qadisiyah FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131727_f566ad07.png",[20:45] Pakhtakor vs Al-Qadisiyah FC - AFC Champions League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1493171-2" tvg-name="[04:30] gimnasia m vs newells old boys" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] gimnasia m vs newells old boys (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg020gr3uomttgr31hcj18yzdncttfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=af4b1c1ec27bfe85ae4d2939-179181358731585&wsIPSercert=42da0ab27758dcef94a410915feb9eb4&wsBindIP=2&wsserid=1168243256623223254
+https://tg020gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179184361540076&wsIPSercert=440ca1a0b418867f6cc18cda2b4fbc5c&wsBindIP=2&wsserid=1168202392933970899
