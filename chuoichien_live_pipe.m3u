@@ -1,25 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492403-1" tvg-name="[04:30] chapecoense sc vs atletico paranaense" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] chapecoense sc vs atletico paranaense (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1585780-1" tvg-name="[18:30] Bandırmaspor vs Sivasspor - Hạng Nhất Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Bandırmaspor vs Sivasspor - Hạng Nhất Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1585780-2" tvg-name="[18:30] Bandırmaspor vs Sivasspor - Hạng Nhất Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Bandırmaspor vs Sivasspor - Hạng Nhất Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg030gr3uomttgr31hcj1gozdnctzfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=3463f6940d7d445fd6aef89a-179189731817184&wsIPSercert=08a28330d9abfcc4da5afdce5c4ad953&wsBindIP=2&wsserid=1168273075072111094|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1629937-1" tvg-name="[18:30] Buriram United vs Beijing Guoan - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Buriram United vs Beijing Guoan - AFC Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1492403-2" tvg-name="[04:30] chapecoense sc vs atletico paranaense" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] chapecoense sc vs atletico paranaense (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1629937-2" tvg-name="[18:30] Buriram United vs Beijing Guoan - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Buriram United vs Beijing Guoan - AFC Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg020gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179184361563863&wsIPSercert=440ca1a0b418867f6cc18cda2b4fbc5c&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1493171-1" tvg-name="[04:30] gimnasia m vs newells old boys" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] gimnasia m vs newells old boys (Luồng 1) [M3U8]
+https://tg030gr3uomttgr31hcj1gozdnctzfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=49575da15c5d1cfaa3b7dbf0-179189732035641&wsIPSercert=08a28330d9abfcc4da5afdce5c4ad953&wsBindIP=2&wsserid=1168273075056381534|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1629938-1" tvg-name="[18:30] Công An Hà Nội vs Kashima - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Công An Hà Nội vs Kashima - AFC Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1493171-2" tvg-name="[04:30] gimnasia m vs newells old boys" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130359_9bbe8861.png",[04:30] gimnasia m vs newells old boys (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1629938-2" tvg-name="[18:30] Công An Hà Nội vs Kashima - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125850_46e8508f.png",[18:30] Công An Hà Nội vs Kashima - AFC Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg020gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179184361540076&wsIPSercert=440ca1a0b418867f6cc18cda2b4fbc5c&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tg030gr3uomttgr31hcj1gozdnctzfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8?wsSession=65ed05c9de95c58dcc7a7897-179189731911926&wsIPSercert=08a28330d9abfcc4da5afdce5c4ad953&wsBindIP=2&wsserid=1168273075058478743|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
