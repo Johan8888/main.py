@@ -1,49 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1635614-1" tvg-name="[02:00] AS Roma vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] AS Roma vs Real Madrid - UEFA Champions League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1635614-2" tvg-name="[02:00] AS Roma vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] AS Roma vs Real Madrid - UEFA Champions League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476031142&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
-#EXTINF:-1 tvg-id="chuoichien-1635639-1" tvg-name="[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1635639-2" tvg-name="[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476076858&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
-#EXTINF:-1 tvg-id="chuoichien-1635690-1" tvg-name="[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1490526-1" tvg-name="[06:30] Inter Miami vs New York City FC - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs New York City FC - Major League Soccer (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1635690-2" tvg-name="[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1490526-2" tvg-name="[06:30] Inter Miami vs New York City FC - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:30] Inter Miami vs New York City FC - Major League Soccer (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=79a98b4e92e42bb9f66bef70-179200476064654&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168195329517191416
-#EXTINF:-1 tvg-id="chuoichien-1635635-1" tvg-name="[02:00] Real Betis vs FC Porto - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Real Betis vs FC Porto - UEFA Champions League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1635635-2" tvg-name="[02:00] Real Betis vs FC Porto - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Real Betis vs FC Porto - UEFA Champions League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476119657&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
+https://tg041gr4uqmtt8y41hcjagyzdecjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=3c37cf749d316b9873cc0e48-179202087682414&wsIPSercert=205648a1d158f3333eedede38dc9a51c&wsBindIP=2&wsserid=1168167351536292401
