@@ -1,31 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-996517-1" tvg-name="[20:00] Aras Kargo Women vs Galatasaray Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Aras Kargo Women vs Galatasaray Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635614-1" tvg-name="[02:00] AS Roma vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] AS Roma vs Real Madrid - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635614-2" tvg-name="[02:00] AS Roma vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] AS Roma vs Real Madrid - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476031142&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
+#EXTINF:-1 tvg-id="chuoichien-1635639-1" tvg-name="[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-996517-2" tvg-name="[20:00] Aras Kargo Women vs Galatasaray Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Aras Kargo Women vs Galatasaray Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635639-2" tvg-name="[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Bodo/Glimt vs Borussia Dortmund - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg040gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179198724892428&wsIPSercert=a627aea1cfe9dbe7aa1c779ac70f0ed6&wsBindIP=2&wsserid=1168202333420231774
-#EXTINF:-1 tvg-id="chuoichien-1637340-1" tvg-name="[20:00] Manchester City U19 vs PSG U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Manchester City U19 vs PSG U19 - UEFA Youth League (Luồng 1) [M3U8]
+https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476076858&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
+#EXTINF:-1 tvg-id="chuoichien-1635690-1" tvg-name="[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637340-2" tvg-name="[20:00] Manchester City U19 vs PSG U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Manchester City U19 vs PSG U19 - UEFA Youth League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635690-2" tvg-name="[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Manchester City vs Paris Saint Germain - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg040gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179198724943609&wsIPSercert=a627aea1cfe9dbe7aa1c779ac70f0ed6&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1630363-1" tvg-name="[20:00] Nasaf vs Al Wahda FC - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Nasaf vs Al Wahda FC - AFC Cup (Luồng 1) [M3U8]
+https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=79a98b4e92e42bb9f66bef70-179200476064654&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168195329517191416
+#EXTINF:-1 tvg-id="chuoichien-1635635-1" tvg-name="[02:00] Real Betis vs FC Porto - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Real Betis vs FC Porto - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1630363-2" tvg-name="[20:00] Nasaf vs Al Wahda FC - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145352_8ccf9433.png",[20:00] Nasaf vs Al Wahda FC - AFC Cup (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635635-2" tvg-name="[02:00] Real Betis vs FC Porto - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:00] Real Betis vs FC Porto - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg040gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179198724901527&wsIPSercert=a627aea1cfe9dbe7aa1c779ac70f0ed6&wsBindIP=2&wsserid=1168202392933970899
+https://tg041gr4uqmtt8y41hcjagyzdectpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=47fe32418b838afb8630bb4c-179200476119657&wsIPSercert=e230eb17df2e4c883276a5a3ebcf2079&wsBindIP=2&wsserid=1168259296636511195
