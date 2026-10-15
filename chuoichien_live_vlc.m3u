@@ -1,51 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603046-1" tvg-name="[19:15] Al-Faisaly FC vs Al Kholood - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Al-Faisaly FC vs Al Kholood - Saudi Pro League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636382-1" tvg-name="[02:00] Atalanta vs Pafos - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Atalanta vs Pafos - UEFA Europa Conference League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636382-2" tvg-name="[02:00] Atalanta vs Pafos - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Atalanta vs Pafos - UEFA Europa Conference League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg050gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=e2212b91b8c58526dd5aab8c-179209008999825&wsIPSercert=6b64e4db7213739ba04784085830f0be&wsBindIP=2&wsserid=1168243256601202660
+#EXTINF:-1 tvg-id="chuoichien-1636228-1" tvg-name="[02:00] Benfica vs Celtic - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Benfica vs Celtic - UEFA Europa League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603046-2" tvg-name="[19:15] Al-Faisaly FC vs Al Kholood - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Al-Faisaly FC vs Al Kholood - Saudi Pro League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636228-2" tvg-name="[02:00] Benfica vs Celtic - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Benfica vs Celtic - UEFA Europa League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b97bdd93a12e7e95f4191a24-179207216327177&wsIPSercert=72fe4425573c5e57050901422e00aa86&wsBindIP=2&wsserid=1172666162445578538
-#EXTINF:-1 tvg-id="chuoichien-1516153-1" tvg-name="[19:15] Andijan vs Qizilqum - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Andijan vs Qizilqum - VĐQG Uzbekistan (Luồng 1) [M3U8]
+https://tg050gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=b82e7c83e4400e7739f9e9e2-179209006874253&wsIPSercert=6b64e4db7213739ba04784085830f0be&wsBindIP=2&wsserid=1168243256616931686
+#EXTINF:-1 tvg-id="chuoichien-1636236-1" tvg-name="[02:00] bournemouth vs sturm graz" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] bournemouth vs sturm graz [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1516153-2" tvg-name="[19:15] Andijan vs Qizilqum - VĐQG Uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Andijan vs Qizilqum - VĐQG Uzbekistan (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=b97bdd93a12e7e95f4191a24-179207218326437&wsIPSercert=72fe4425573c5e57050901422e00aa86&wsBindIP=2&wsserid=1172666162445578538
-#EXTINF:-1 tvg-id="chuoichien-1630372-1" tvg-name="[19:15] Pathum United vs Adelaide United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Pathum United vs Adelaide United - AFC Cup (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1630372-2" tvg-name="[19:15] Pathum United vs Adelaide United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Pathum United vs Adelaide United - AFC Cup (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=92d66b97ff2d67ed0479c8ce-179207216300453&wsIPSercert=72fe4425573c5e57050901422e00aa86&wsBindIP=2&wsserid=1172666312698126342
-#EXTINF:-1 tvg-id="chuoichien-1630373-1" tvg-name="[19:15] Svay Rieng vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Svay Rieng vs Shanghai Shenhua - AFC Cup (Luồng 1) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636243-1" tvg-name="[02:00] Celta Vigo vs Juventus - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Celta Vigo vs Juventus - UEFA Europa League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1630373-2" tvg-name="[19:15] Svay Rieng vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Svay Rieng vs Shanghai Shenhua - AFC Cup (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636243-2" tvg-name="[02:00] Celta Vigo vs Juventus - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Celta Vigo vs Juventus - UEFA Europa League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=d1699fce819fe3e4b2e7f053-179207216303610&wsIPSercert=72fe4425573c5e57050901422e00aa86&wsBindIP=2&wsserid=1172666312704417830
-#EXTINF:-1 tvg-id="chuoichien-1630374-1" tvg-name="[19:15] Tampines Rovers vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Tampines Rovers vs Machida Zelvia - AFC Cup (Luồng 1) [M3U8]
+https://tg050gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=5efa8d7fed6b3be21f3c6322-179209007016827&wsIPSercert=6b64e4db7213739ba04784085830f0be&wsBindIP=2&wsserid=1168243256620077470
+#EXTINF:-1 tvg-id="chuoichien-1636295-1" tvg-name="[02:00] Marseille vs Olympiakos Piraeus - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Marseille vs Olympiakos Piraeus - UEFA Europa League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1630374-2" tvg-name="[19:15] Tampines Rovers vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250917_201116_6ee53167.png",[19:15] Tampines Rovers vs Machida Zelvia - AFC Cup (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636295-2" tvg-name="[02:00] Marseille vs Olympiakos Piraeus - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125615_d2992d75.png",[02:00] Marseille vs Olympiakos Piraeus - UEFA Europa League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=d1699fce819fe3e4b2e7f053-179207216303656&wsIPSercert=72fe4425573c5e57050901422e00aa86&wsBindIP=2&wsserid=1172666312704417830
+https://tg050gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=0c302ece9e541fa9329b2820-179209006704696&wsIPSercert=6b64e4db7213739ba04784085830f0be&wsBindIP=2&wsserid=1168243256629514822
