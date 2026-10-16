@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493190-1" tvg-name="[06:00] Huracan vs Gimnasia L.P. - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_d2eaa045.png",[06:00] Huracan vs Gimnasia L.P. - VĐQG Argentina (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1640555-1" tvg-name="[07:30] Estudiantes L.P. vs Flamengo - CONMEBOL Libertadores" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_be95865f.png",[07:30] Estudiantes L.P. vs Flamengo - CONMEBOL Libertadores [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493190-2" tvg-name="[06:00] Huracan vs Gimnasia L.P. - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_d2eaa045.png",[06:00] Huracan vs Gimnasia L.P. - VĐQG Argentina (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg053gr4dymttgwanhct3fa4uemm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=92d66b97ff2d67ed0479c8ce-179210687648532&wsIPSercert=ab4be174998c76307d962cee8b11e9cb&wsBindIP=2&wsserid=1172666312698126342
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
