@@ -1,7 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1640555-1" tvg-name="[07:30] Estudiantes L.P. vs Flamengo - CONMEBOL Libertadores" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132722_be95865f.png",[07:30] Estudiantes L.P. vs Flamengo - CONMEBOL Libertadores [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-993693-1" tvg-name="[13:00] Waterside Karori vs Wellington Phoenix II - New Zealand National League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144426_42f9f6ec.png",[13:00] Waterside Karori vs Wellington Phoenix II - New Zealand National League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-993693-2" tvg-name="[13:00] Waterside Karori vs Wellington Phoenix II - New Zealand National League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144426_42f9f6ec.png",[13:00] Waterside Karori vs Wellington Phoenix II - New Zealand National League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg060gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=fcc5e79cb98864a8d4e6ad77-179213663221872&wsIPSercert=fe11afa47eb898e15889a79cbd933dce&wsBindIP=2&wsserid=1168202333420231774
