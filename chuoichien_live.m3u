@@ -1,13 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550993-1" tvg-name="[08:00] Necaxa vs Atlas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png",[08:00] Necaxa vs Atlas - VĐQG Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1633908-1" tvg-name="[18:00] Da Nang vs Hai Phong - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Da Nang vs Hai Phong - V.League 1 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550993-2" tvg-name="[08:00] Necaxa vs Atlas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png",[08:00] Necaxa vs Atlas - VĐQG Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633908-2" tvg-name="[18:00] Da Nang vs Hai Phong - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Da Nang vs Hai Phong - V.League 1 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=5a64c86ae4ca46ba967a10fb-179220352201236&wsIPSercert=6b5adb42fe450e855da576d8b5e61703&wsBindIP=2&wsserid=1168283477152136350
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=0090a52cdc136ffc79f78c2a-179224058256009&wsIPSercert=d1f039c601051bd86ce048139ff38795&wsBindIP=2&wsserid=1168283323316355946
+#EXTINF:-1 tvg-id="chuoichien-1570416-1" tvg-name="[18:00] Espanyol vs Atletico Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Espanyol vs Atletico Madrid - La Liga (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570416-2" tvg-name="[18:00] Espanyol vs Atletico Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Espanyol vs Atletico Madrid - La Liga (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=36411e23eb2c9d154368daa7-179224058340747&wsIPSercert=d1f039c601051bd86ce048139ff38795&wsBindIP=2&wsserid=1168283323328938907
+#EXTINF:-1 tvg-id="chuoichien-1557430-1" tvg-name="[18:00] Everton vs Chelsea - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Everton vs Chelsea - Ngoại Hạng Anh (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557430-2" tvg-name="[18:00] Everton vs Chelsea - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Everton vs Chelsea - Ngoại Hạng Anh (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=b62e2eeb4674fa60db20bf35-179224058262171&wsIPSercert=d1f039c601051bd86ce048139ff38795&wsBindIP=2&wsserid=1168283323393951462
+#EXTINF:-1 tvg-id="chuoichien-1633909-1" tvg-name="[18:00] Hồng Lĩnh Hà Tĩnh vs Song Lam Nghe An - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Hồng Lĩnh Hà Tĩnh vs Song Lam Nghe An - V.League 1 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633909-2" tvg-name="[18:00] Hồng Lĩnh Hà Tĩnh vs Song Lam Nghe An - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Hồng Lĩnh Hà Tĩnh vs Song Lam Nghe An - V.League 1 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=3543e3b2f3b47ce57b8c3bd8-179224058342325&wsIPSercert=d1f039c601051bd86ce048139ff38795&wsBindIP=2&wsserid=1168283323406534424
+#EXTINF:-1 tvg-id="chuoichien-1550156-1" tvg-name="[18:00] Venezia vs Napoli - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Venezia vs Napoli - Serie A (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550156-2" tvg-name="[18:00] Venezia vs Napoli - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png",[18:00] Venezia vs Napoli - Serie A (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=bf020b1888c9ee7e1d3ac0d0-179224060199701&wsIPSercert=d1f039c601051bd86ce048139ff38795&wsBindIP=2&wsserid=1168283323207303220
