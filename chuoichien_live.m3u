@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492417-1" tvg-name="[06:00] Mirassol vs Internacional - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",[06:00] Mirassol vs Internacional - VĐQG Brazil (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550993-1" tvg-name="[08:00] Necaxa vs Atlas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png",[08:00] Necaxa vs Atlas - VĐQG Mexico (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492417-2" tvg-name="[06:00] Mirassol vs Internacional - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png",[06:00] Mirassol vs Internacional - VĐQG Brazil (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550993-2" tvg-name="[08:00] Necaxa vs Atlas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png",[08:00] Necaxa vs Atlas - VĐQG Mexico (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg060gr4uqmtt8y41hcjsgyzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=1aefdf0e84fac3f7d5afa05f-179219223838059&wsIPSercert=5ff6161b3cf3e73156be17e36ad87df0&wsBindIP=2&wsserid=1168231785649524481
+https://tg070gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=5a64c86ae4ca46ba967a10fb-179220352201236&wsIPSercert=6b5adb42fe450e855da576d8b5e61703&wsBindIP=2&wsserid=1168283477152136350
