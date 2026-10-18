@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550998-1" tvg-name="[08:00] Leon vs Club America - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png",[08:00] Leon vs Club America - VĐQG Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-998568-1" tvg-name="[12:05] Hitachi W vs Gunma Bank Green Wings W - SV.League W" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260102_193355_5b8801ab.png",[12:05] Hitachi W vs Gunma Bank Green Wings W - SV.League W [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550998-2" tvg-name="[08:00] Leon vs Club America - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png",[08:00] Leon vs Club America - VĐQG Mexico (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg080gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=0c302ece9e541fa9329b2820-179228994529012&wsIPSercert=cb6fe679821fe35e7c120fd2ee9547f5&wsBindIP=2&wsserid=1168243256629514822
-#EXTINF:-1 tvg-id="chuoichien-1593684-1" tvg-name="[08:00] Wellington Phoenix vs Melbourne Victory - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png",[08:00] Wellington Phoenix vs Melbourne Victory - A-League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1593684-2" tvg-name="[08:00] Wellington Phoenix vs Melbourne Victory - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131434_fbad589d.png",[08:00] Wellington Phoenix vs Melbourne Victory - A-League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg080gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=0c302ece9e541fa9329b2820-179228994546134&wsIPSercert=cb6fe679821fe35e7c120fd2ee9547f5&wsBindIP=2&wsserid=1168243256629514822
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
