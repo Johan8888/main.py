@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1607329-1" tvg-name="[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26667.png",[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603057-1" tvg-name="[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1607329-2" tvg-name="[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26667.png",[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1603057-2" tvg-name="[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg090gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=c61fdf8f192f4839581eefdb-179239793909392&wsIPSercert=593ecba5850072aedee25985e07828fa&wsBindIP=2&wsserid=1168283323263926950
-#EXTINF:-1 tvg-id="chuoichien-1640428-1" tvg-name="[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26667.png",[15:00] Wofoo Tai Po vs Southern District - Ngoại Hạng Hồng Kong [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg090gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=c61fdf8f192f4839581eefdb-179239793900651&wsIPSercert=593ecba5850072aedee25985e07828fa&wsBindIP=2&wsserid=1168283323263926950
+https://tg093gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=b79e5c9dff6082076c232792-179242579291976&wsIPSercert=fc6258b000da511330e2d870eef6155d&wsBindIP=2&wsserid=1168233226238491395
