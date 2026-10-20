@@ -1,21 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1622800-1" tvg-name="[19:00] Dewa United vs Persijap - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png",[19:00] Dewa United vs Persijap - VĐQG Indonesia [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637347-1" tvg-name="[19:00] Manchester City U19 vs AEK Athens U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png",[19:00] Manchester City U19 vs AEK Athens U19 - UEFA Youth League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637347-2" tvg-name="[19:00] Manchester City U19 vs AEK Athens U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png",[19:00] Manchester City U19 vs AEK Athens U19 - UEFA Youth League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=e1b6539dd41823b9da9f58cb-179250480017607&wsIPSercert=ed9051b46ea645bd3a6a00d6b46fc4ab&wsBindIP=2&wsserid=1168243256610640109
-#EXTINF:-1 tvg-id="chuoichien-1637349-1" tvg-name="[19:00] PSG U19 vs Barcelona U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134622_a3813d5b.png",[19:00] PSG U19 vs Barcelona U19 - UEFA Youth League [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603059-1" tvg-name="[01:00] Al-Nassr vs Al Neom - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Al-Nassr vs Al Neom - Saudi Pro League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1603059-2" tvg-name="[01:00] Al-Nassr vs Al Neom - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Al-Nassr vs Al Neom - Saudi Pro League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=6d843de2306e1fcccdaf5b97-179252224777411&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256635806390
+#EXTINF:-1 tvg-id="chuoichien-1635617-1" tvg-name="[01:00] AS Roma vs Slovan Bratislava - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] AS Roma vs Slovan Bratislava - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635617-2" tvg-name="[01:00] AS Roma vs Slovan Bratislava - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] AS Roma vs Slovan Bratislava - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=e1b6539dd41823b9da9f58cb-179252224925456&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256610640109
+#EXTINF:-1 tvg-id="chuoichien-1635688-1" tvg-name="[01:00] Liverpool vs Villarreal - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Liverpool vs Villarreal - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635688-2" tvg-name="[01:00] Liverpool vs Villarreal - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Liverpool vs Villarreal - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a8deda113c0bb5a198f36d63-179252224776707&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256620077470
+#EXTINF:-1 tvg-id="chuoichien-1635693-1" tvg-name="[01:00] Manchester City vs AEK Athens FC - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Manchester City vs AEK Athens FC - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635693-2" tvg-name="[01:00] Manchester City vs AEK Athens FC - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Manchester City vs AEK Athens FC - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=dc9f06ddeb9f7ae9673c501a-179252224779513&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256616931686
+#EXTINF:-1 tvg-id="chuoichien-1635700-1" tvg-name="[01:00] Napoli vs Bodo/Glimt - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Napoli vs Bodo/Glimt - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635700-2" tvg-name="[01:00] Napoli vs Bodo/Glimt - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Napoli vs Bodo/Glimt - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=e45ba6310b4f3c5df501cfd1-179252226910989&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256629514822
+#EXTINF:-1 tvg-id="chuoichien-1635702-1" tvg-name="[01:00] Paris Saint Germain vs Barcelona - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Paris Saint Germain vs Barcelona - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635702-2" tvg-name="[01:00] Paris Saint Germain vs Barcelona - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] Paris Saint Germain vs Barcelona - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=d4d7d752de8975eebfcab027-179252227006316&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256623223254
+#EXTINF:-1 tvg-id="chuoichien-1635738-1" tvg-name="[01:00] VfB Stuttgart vs Atletico Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] VfB Stuttgart vs Atletico Madrid - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635738-2" tvg-name="[01:00] VfB Stuttgart vs Atletico Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:00] VfB Stuttgart vs Atletico Madrid - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0a0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=2756b6ad97a548584269d8c1-179252227020779&wsIPSercert=318ce523a8575cc2e2d837b114d6e397&wsBindIP=2&wsserid=1168243256601202660
