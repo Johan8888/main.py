@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603057-1" tvg-name="[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549827-1" tvg-name="[08:05] Deportivo Pasto vs Alianza Petrolera - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[08:05] Deportivo Pasto vs Alianza Petrolera - VĐQG Colombia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603057-2" tvg-name="[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134005_86951109.png",[22:05] Al-Fayha vs Al-Ahli Jeddah - Saudi Pro League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1549827-2" tvg-name="[08:05] Deportivo Pasto vs Alianza Petrolera - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[08:05] Deportivo Pasto vs Alianza Petrolera - VĐQG Colombia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg093gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8?wsSession=b79e5c9dff6082076c232792-179242579291976&wsIPSercert=fc6258b000da511330e2d870eef6155d&wsBindIP=2&wsserid=1168233226238491395
+https://tg0a0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=2b269e392fec86935d58d36d-179246440722943&wsIPSercert=382d0edf1efc5ef407055772140fd813&wsBindIP=2&wsserid=1168202392933970899
