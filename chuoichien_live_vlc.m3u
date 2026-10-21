@@ -1,21 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1612265-1" tvg-name="[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635621-1" tvg-name="[02:00] Aston Villa vs Viking - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Aston Villa vs Viking - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1612265-2" tvg-name="[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635621-2" tvg-name="[02:00] Aston Villa vs Viking - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Aston Villa vs Viking - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0b0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=c2bbd786f24778fb88297938-179259214129067&wsIPSercert=596474fe84d9bd690ff96f6df030c95b&wsBindIP=2&wsserid=1168283323328938907
-#EXTINF:-1 tvg-id="chuoichien-1637357-1" tvg-name="[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League (Luồng 1) [M3U8]
+https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=2a6fe8b5fd111bff3b64bece-179260941632690&wsIPSercert=0fbeabcfeb74831621149b58fd918b75&wsBindIP=2&wsserid=1168176581102008440
+#EXTINF:-1 tvg-id="chuoichien-1635630-1" tvg-name="[02:00] Bayern München vs Arsenal - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Bayern München vs Arsenal - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635630-2" tvg-name="[02:00] Bayern München vs Arsenal - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Bayern München vs Arsenal - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=ec465353b7e0e526e89b86d2-179260941526820&wsIPSercert=0fbeabcfeb74831621149b58fd918b75&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 tvg-id="chuoichien-1635672-1" tvg-name="[02:00] Inter vs Shakhtar Donetsk - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Inter vs Shakhtar Donetsk - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635672-2" tvg-name="[02:00] Inter vs Shakhtar Donetsk - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Inter vs Shakhtar Donetsk - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=ec465353b7e0e526e89b86d2-179260941580849&wsIPSercert=0fbeabcfeb74831621149b58fd918b75&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 tvg-id="chuoichien-1635636-1" tvg-name="[02:00] Real Betis vs Feyenoord - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Real Betis vs Feyenoord - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635636-2" tvg-name="[02:00] Real Betis vs Feyenoord - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Real Betis vs Feyenoord - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2a6fe8b5fd111bff3b64bece-179260941612451&wsIPSercert=0fbeabcfeb74831621149b58fd918b75&wsBindIP=2&wsserid=1168176581102008440
+#EXTINF:-1 tvg-id="chuoichien-1635716-1" tvg-name="[02:00] Real Madrid vs RB Leipzig - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Real Madrid vs RB Leipzig - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1637357-2" tvg-name="[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635716-2" tvg-name="[02:00] Real Madrid vs RB Leipzig - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125552_15f20ce5.png",[02:00] Real Madrid vs RB Leipzig - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0b0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179259214061835&wsIPSercert=596474fe84d9bd690ff96f6df030c95b&wsBindIP=2&wsserid=1168283323432748950
+https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=ec465353b7e0e526e89b86d2-179260943374235&wsIPSercert=0fbeabcfeb74831621149b58fd918b75&wsBindIP=2&wsserid=1168176581104105640
