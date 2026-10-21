@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-991325-1" tvg-name="[08:30] Millonarios vs Once Caldas - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png",[08:30] Millonarios vs Once Caldas - VĐQG Colombia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1612265-1" tvg-name="[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-991325-2" tvg-name="[08:30] Millonarios vs Once Caldas - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png",[08:30] Millonarios vs Once Caldas - VĐQG Colombia (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1612265-2" tvg-name="[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Ghazl El Mehalla vs Al Ittihad - Ngoại Hạng Ai Cập (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0b1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2a6fe8b5fd111bff3b64bece-179255044567855&wsIPSercert=d906452610f606fb8026a2e5956438cf&wsBindIP=2&wsserid=1168176581102008440
+https://tg0b0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=c2bbd786f24778fb88297938-179259214129067&wsIPSercert=596474fe84d9bd690ff96f6df030c95b&wsBindIP=2&wsserid=1168283323328938907
+#EXTINF:-1 tvg-id="chuoichien-1637357-1" tvg-name="[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1637357-2" tvg-name="[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_c47f2402.png",[21:00] Internazionale U19 vs Shakhtar Donetsk U19 - UEFA Youth League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0b0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179259214061835&wsIPSercert=596474fe84d9bd690ff96f6df030c95b&wsBindIP=2&wsserid=1168283323432748950
