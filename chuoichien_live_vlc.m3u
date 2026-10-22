@@ -1,21 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603065-1" tvg-name="[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636234-1" tvg-name="[02:00] Besiktas vs Crystal Palace - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Besiktas vs Crystal Palace - UEFA Europa League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603065-2" tvg-name="[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636234-2" tvg-name="[02:00] Besiktas vs Crystal Palace - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Besiktas vs Crystal Palace - UEFA Europa League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0c0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179267853993874&wsIPSercert=a98c83e71afffde1b6b1b788e80d9a7f&wsBindIP=2&wsserid=1168283323207303220
-#EXTINF:-1 tvg-id="chuoichien-1636434-1" tvg-name="[18:00] Kairat Almaty vs Panathinaikos - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Kairat Almaty vs Panathinaikos - UEFA Europa Conference League [M3U8]
+https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179269555351756&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="chuoichien-1636235-1" tvg-name="[02:00] Bournemouth vs AC Milan - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Bournemouth vs AC Milan - UEFA Europa League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636235-2" tvg-name="[02:00] Bournemouth vs AC Milan - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Bournemouth vs AC Milan - UEFA Europa League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179269555311375&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323432748950
+#EXTINF:-1 tvg-id="chuoichien-1636454-1" tvg-name="[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1634984-1" tvg-name="[18:00] Xuan Thien Phu Tho vs PVF-CAND - V.League 2" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Xuan Thien Phu Tho vs PVF-CAND - V.League 2 [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1636454-2" tvg-name="[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=6123733e1c2fb3022fdcd45b-179269555363402&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323406534424
+#EXTINF:-1 tvg-id="chuoichien-1636311-1" tvg-name="[02:00] Omonia Nicosia vs Benfica - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Omonia Nicosia vs Benfica - UEFA Europa League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1636311-2" tvg-name="[02:00] Omonia Nicosia vs Benfica - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Omonia Nicosia vs Benfica - UEFA Europa League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=239ef106e7278b45ed2200fa-179269555370142&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323367736366
