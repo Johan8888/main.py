@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1551006-1" tvg-name="[08:00] Atlas vs Club America - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png",[08:00] Atlas vs Club America - VĐQG Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603065-1" tvg-name="[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1551006-2" tvg-name="[08:00] Atlas vs Club America - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133838_cc0218cf.png",[08:00] Atlas vs Club America - VĐQG Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1603065-2" tvg-name="[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Al-Hazm vs Al-Fayha - Saudi Pro League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0c0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=6ac30b38e83f26a6237a1397-179263670651775&wsIPSercert=dc321eea40011fb48a885094c4d8ec2a&wsBindIP=2&wsserid=1168202392933970899
+https://tg0c0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179267853993874&wsIPSercert=a98c83e71afffde1b6b1b788e80d9a7f&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="chuoichien-1636434-1" tvg-name="[18:00] Kairat Almaty vs Panathinaikos - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Kairat Almaty vs Panathinaikos - UEFA Europa Conference League [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1634984-1" tvg-name="[18:00] Xuan Thien Phu Tho vs PVF-CAND - V.League 2" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/26745.png",[18:00] Xuan Thien Phu Tho vs PVF-CAND - V.League 2 [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
