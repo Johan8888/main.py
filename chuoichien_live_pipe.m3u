@@ -1,49 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1570423-1" tvg-name="[01:30] alaves vs malaga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] alaves vs malaga (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1570423-2" tvg-name="[01:30] alaves vs malaga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] alaves vs malaga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0d0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=48de11b373ce514d37dfe89e-179278135057938&wsIPSercert=8b891cbb93f2dda86926206c4401ab9d&wsBindIP=2&wsserid=1168283323316355946|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1557443-1" tvg-name="[01:30] Ipswich vs Nottingham Forest - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] Ipswich vs Nottingham Forest - Ngoại Hạng Anh (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492422-1" tvg-name="[06:00] Cruzeiro vs remo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[06:00] Cruzeiro vs remo - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1557443-2" tvg-name="[01:30] Ipswich vs Nottingham Forest - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] Ipswich vs Nottingham Forest - Ngoại Hạng Anh (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492422-2" tvg-name="[06:00] Cruzeiro vs remo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[06:00] Cruzeiro vs remo - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0d0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=f9900ea0dbcff5585fe4bbda-179278134820049&wsIPSercert=8b891cbb93f2dda86926206c4401ab9d&wsBindIP=2&wsserid=1168283323263926950|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1550165-1" tvg-name="[01:30] Torino vs Monza - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] Torino vs Monza - Serie A (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1550165-2" tvg-name="[01:30] Torino vs Monza - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] Torino vs Monza - Serie A (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0d0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179278134963838&wsIPSercert=8b891cbb93f2dda86926206c4401ab9d&wsBindIP=2&wsserid=1168283323207303220|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1575196-1" tvg-name="[01:30] vfb stuttgart vs borussia mnchengladbach" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] vfb stuttgart vs borussia mnchengladbach (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1575196-2" tvg-name="[01:30] vfb stuttgart vs borussia mnchengladbach" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125557_e29a3062.png",[01:30] vfb stuttgart vs borussia mnchengladbach (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0d0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179278134960918&wsIPSercert=8b891cbb93f2dda86926206c4401ab9d&wsBindIP=2&wsserid=1168283323432748950|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tg0d0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=2756b6ad97a548584269d8c1-179279890691270&wsIPSercert=37c171627cb120f69f35fb94b1906988&wsBindIP=2&wsserid=1168243256601202660|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
