@@ -1,49 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1636234-1" tvg-name="[02:00] Besiktas vs Crystal Palace - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Besiktas vs Crystal Palace - UEFA Europa League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549815-1" tvg-name="[08:00] atletico nacional vs deportivo pasto" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] atletico nacional vs deportivo pasto (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636234-2" tvg-name="[02:00] Besiktas vs Crystal Palace - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Besiktas vs Crystal Palace - UEFA Europa League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549815-2" tvg-name="[08:00] atletico nacional vs deportivo pasto" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] atletico nacional vs deportivo pasto (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179269555351756&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323207303220
-#EXTINF:-1 tvg-id="chuoichien-1636235-1" tvg-name="[02:00] Bournemouth vs AC Milan - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Bournemouth vs AC Milan - UEFA Europa League (Luồng 1) [M3U8]
+https://tg0d0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a8deda113c0bb5a198f36d63-179272338093931&wsIPSercert=3f1aab2e6ff94174ac506d74a78f70bb&wsBindIP=2&wsserid=1168243256620077470
+#EXTINF:-1 tvg-id="chuoichien-1640749-1" tvg-name="[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636235-2" tvg-name="[02:00] Bournemouth vs AC Milan - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Bournemouth vs AC Milan - UEFA Europa League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640749-2" tvg-name="[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179269555311375&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323432748950
-#EXTINF:-1 tvg-id="chuoichien-1636454-1" tvg-name="[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636454-2" tvg-name="[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Monaco vs SC Freiburg - UEFA Europa Conference League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=6123733e1c2fb3022fdcd45b-179269555363402&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323406534424
-#EXTINF:-1 tvg-id="chuoichien-1636311-1" tvg-name="[02:00] Omonia Nicosia vs Benfica - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Omonia Nicosia vs Benfica - UEFA Europa League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636311-2" tvg-name="[02:00] Omonia Nicosia vs Benfica - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_74b065d0.png",[02:00] Omonia Nicosia vs Benfica - UEFA Europa League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0c0gr4uqmtt8y41hcjsgyzdnpbwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=239ef106e7278b45ed2200fa-179269555370142&wsIPSercert=61cb60f4db5c6f308c7426a4286e6c1f&wsBindIP=2&wsserid=1168283323367736366
+https://tg0d0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=9457febdc75b04efc0a1ff38-179272336424759&wsIPSercert=3f1aab2e6ff94174ac506d74a78f70bb&wsBindIP=2&wsserid=1168243256613785902
