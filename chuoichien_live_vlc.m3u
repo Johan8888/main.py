@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1549815-1" tvg-name="[08:00] atletico nacional vs deportivo pasto" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] atletico nacional vs deportivo pasto (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1640337-1" tvg-name="[15:30] Adelaide City vs Wests APIA - Australian Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png",[15:30] Adelaide City vs Wests APIA - Australian Championship (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1549815-2" tvg-name="[08:00] atletico nacional vs deportivo pasto" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] atletico nacional vs deportivo pasto (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640337-2" tvg-name="[15:30] Adelaide City vs Wests APIA - Australian Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141345_3b263f88.png",[15:30] Adelaide City vs Wests APIA - Australian Championship (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0d0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a8deda113c0bb5a198f36d63-179272338093931&wsIPSercert=3f1aab2e6ff94174ac506d74a78f70bb&wsBindIP=2&wsserid=1168243256620077470
-#EXTINF:-1 tvg-id="chuoichien-1640749-1" tvg-name="[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1640749-2" tvg-name="[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:00] CD Motagua vs LD Alajuelense - Concacaf Central American Cup (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0d0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=9457febdc75b04efc0a1ff38-179272336424759&wsIPSercert=3f1aab2e6ff94174ac506d74a78f70bb&wsBindIP=2&wsserid=1168243256613785902
+https://tg0d0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=8883e109fbe6620d4cc49bda-179274288487046&wsIPSercert=ccd495e0c5e66f47b9daf095c60932a1&wsBindIP=2&wsserid=1168231589594887503
