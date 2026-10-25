@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550161-1" tvg-name="[18:00] Inter vs Fiorentina - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Inter vs Fiorentina - Serie A (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550163-1" tvg-name="[23:30] Lecce vs Juventus - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] Lecce vs Juventus - Serie A (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550161-2" tvg-name="[18:00] Inter vs Fiorentina - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Inter vs Fiorentina - Serie A (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550163-2" tvg-name="[23:30] Lecce vs Juventus - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] Lecce vs Juventus - Serie A (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=c2bbd786f24778fb88297938-179293491205198&wsIPSercert=3386fb9e303d2841c610b514afb9c7b8&wsBindIP=2&wsserid=1168283323328938907
-#EXTINF:-1 tvg-id="chuoichien-1633920-1" tvg-name="[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1 (Luồng 1) [M3U8]
+https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c33c8ef5d5402404f1ff71b2-179295125311231&wsIPSercert=388fb8c844b747c3ea27772f63d4c2f5&wsBindIP=2&wsserid=1168283323432748950
+#EXTINF:-1 tvg-id="chuoichien-1570430-1" tvg-name="[23:30] Real Sociedad vs Levante - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] Real Sociedad vs Levante - La Liga (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1633920-2" tvg-name="[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1 (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570430-2" tvg-name="[23:30] Real Sociedad vs Levante - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] Real Sociedad vs Levante - La Liga (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=ca75fb9a796ab60ec189eb44-179293491132066&wsIPSercert=3386fb9e303d2841c610b514afb9c7b8&wsBindIP=2&wsserid=1168283323393951462
+https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=3e2727c73c23826c697b9ac6-179295125355887&wsIPSercert=388fb8c844b747c3ea27772f63d4c2f5&wsBindIP=2&wsserid=1168283323207303220
+#EXTINF:-1 tvg-id="chuoichien-1575198-1" tvg-name="[23:30] SC Freiburg vs Bayern München - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] SC Freiburg vs Bayern München - Bundesliga (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1575198-2" tvg-name="[23:30] SC Freiburg vs Bayern München - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png",[23:30] SC Freiburg vs Bayern München - Bundesliga (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=239ef106e7278b45ed2200fa-179295125359589&wsIPSercert=388fb8c844b747c3ea27772f63d4c2f5&wsBindIP=2&wsserid=1168283323367736366
