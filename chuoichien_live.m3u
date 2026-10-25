@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1593690-1" tvg-name="[09:00] Wellington Phoenix vs Central Coast Mariners - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png",[09:00] Wellington Phoenix vs Central Coast Mariners - A-League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550161-1" tvg-name="[18:00] Inter vs Fiorentina - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Inter vs Fiorentina - Serie A (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1593690-2" tvg-name="[09:00] Wellington Phoenix vs Central Coast Mariners - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130439_bf7a95dc.png",[09:00] Wellington Phoenix vs Central Coast Mariners - A-League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550161-2" tvg-name="[18:00] Inter vs Fiorentina - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Inter vs Fiorentina - Serie A (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0f0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=164709d2f71d7834fde34497-179289536138596&wsIPSercert=780b1afa07f305fe538d6ad052a535b9&wsBindIP=2&wsserid=1168202333420231774
+https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=c2bbd786f24778fb88297938-179293491205198&wsIPSercert=3386fb9e303d2841c610b514afb9c7b8&wsBindIP=2&wsserid=1168283323328938907
+#EXTINF:-1 tvg-id="chuoichien-1633920-1" tvg-name="[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633920-2" tvg-name="[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png",[18:00] Ninh Bình FC vs TP. Hồ Chí Minh - V.League 1 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0f0gr4uqmtt8y41hcjsgyzdnctafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=ca75fb9a796ab60ec189eb44-179293491132066&wsIPSercert=3386fb9e303d2841c610b514afb9c7b8&wsBindIP=2&wsserid=1168283323393951462
