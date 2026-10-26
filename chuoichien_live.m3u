@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1490570-1" tvg-name="[08:00] Los Angeles FC vs Los Angeles Galaxy - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png",[08:00] Los Angeles FC vs Los Angeles Galaxy - Major League Soccer (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1551129-1" tvg-name="[20:45] lokomotiv plovdiv vs slavia sofia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] lokomotiv plovdiv vs slavia sofia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1490570-2" tvg-name="[08:00] Los Angeles FC vs Los Angeles Galaxy - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png",[08:00] Los Angeles FC vs Los Angeles Galaxy - Major League Soccer (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1551129-2" tvg-name="[20:45] lokomotiv plovdiv vs slavia sofia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] lokomotiv plovdiv vs slavia sofia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0g0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=6ac30b38e83f26a6237a1397-179298195888066&wsIPSercert=53358f3eed7f55c4659cf88fb003e928&wsBindIP=2&wsserid=1168202392933970899
+https://tg0g1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=8e86af71efd88a17a869892d-179302923870598&wsIPSercert=c2967300e9c5c69c9fc6de1ac0d77f51&wsBindIP=2&wsserid=1168282035663924028
+#EXTINF:-1 tvg-id="chuoichien-1629943-1" tvg-name="[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1629943-2" tvg-name="[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0g1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=8e86af71efd88a17a869892d-179302923630493&wsIPSercert=c2967300e9c5c69c9fc6de1ac0d77f51&wsBindIP=2&wsserid=1168282035663924028
