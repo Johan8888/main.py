@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1551129-1" tvg-name="[20:45] lokomotiv plovdiv vs slavia sofia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] lokomotiv plovdiv vs slavia sofia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492421-1" tvg-name="[02:00] Coritiba vs Gremio - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] Coritiba vs Gremio - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1551129-2" tvg-name="[20:45] lokomotiv plovdiv vs slavia sofia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] lokomotiv plovdiv vs slavia sofia (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492421-2" tvg-name="[02:00] Coritiba vs Gremio - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] Coritiba vs Gremio - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0g1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=8e86af71efd88a17a869892d-179302923870598&wsIPSercert=c2967300e9c5c69c9fc6de1ac0d77f51&wsBindIP=2&wsserid=1168282035663924028
-#EXTINF:-1 tvg-id="chuoichien-1629943-1" tvg-name="[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League (Luồng 1) [M3U8]
+https://tg0g4gr4ugmtwgczd1ptqga4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=c24a195f53764d821445cec7-179305251439381&wsIPSercert=50c3e84850f7e0d90f031f5c8e26ab15&wsBindIP=2&wsserid=1168305065866679406
+#EXTINF:-1 tvg-id="chuoichien-995361-1" tvg-name="[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629943-2" tvg-name="[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png",[20:45] Neftchi vs Al-Ittihad FC - AFC Champions League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-995361-2" tvg-name="[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0g1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=8e86af71efd88a17a869892d-179302923630493&wsIPSercert=c2967300e9c5c69c9fc6de1ac0d77f51&wsBindIP=2&wsserid=1168282035663924028
+https://tg0g4gr4ugmtwgczd1ptqga4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2ed30bbb5c0cea717b4fe252-179305251465514&wsIPSercert=50c3e84850f7e0d90f031f5c8e26ab15&wsBindIP=2&wsserid=1168305065845707680
