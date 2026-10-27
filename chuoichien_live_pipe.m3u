@@ -1,25 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492421-1" tvg-name="[02:00] Coritiba vs Gremio - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] Coritiba vs Gremio - VĐQG Brazil (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549822-1" tvg-name="[08:05] Santa Fe vs Bucaramanga - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133536_ca511a27.png",[08:05] Santa Fe vs Bucaramanga - VĐQG Colombia [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1492421-2" tvg-name="[02:00] Coritiba vs Gremio - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] Coritiba vs Gremio - VĐQG Brazil (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0g4gr4ugmtwgczd1ptqga4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=c24a195f53764d821445cec7-179305251439381&wsIPSercert=50c3e84850f7e0d90f031f5c8e26ab15&wsBindIP=2&wsserid=1168305065866679406|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-995361-1" tvg-name="[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026 (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-995361-2" tvg-name="[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131454_3188ce00.png",[02:00] vs Lễ trao giải Quả bóng Vàng 2026 - Lễ trao giải Quả bóng Vàng 2026 (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0g4gr4ugmtwgczd1ptqga4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=2ed30bbb5c0cea717b4fe252-179305251465514&wsIPSercert=50c3e84850f7e0d90f031f5c8e26ab15&wsBindIP=2&wsserid=1168305065845707680|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
