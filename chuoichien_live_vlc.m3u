@@ -1,21 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550167-1" tvg-name="[00:30] AC Milan vs Bologna - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:30] AC Milan vs Bologna - Serie A (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1638558-1" tvg-name="[02:30] Bayern München vs 1. FC Magdeburg - Cúp Đức" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Bayern München vs 1. FC Magdeburg - Cúp Đức (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550167-2" tvg-name="[00:30] AC Milan vs Bologna - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:30] AC Milan vs Bologna - Serie A (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1638558-2" tvg-name="[02:30] Bayern München vs 1. FC Magdeburg - Cúp Đức" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Bayern München vs 1. FC Magdeburg - Cúp Đức (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0i1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=48e8b1bc3bc06b8582f7a377-179320933598800&wsIPSercert=3f6086eb32b710cbd99af277da97b052&wsBindIP=2&wsserid=1168282035636612515
-#EXTINF:-1 tvg-id="chuoichien-1550176-1" tvg-name="[00:30] Venezia vs Inter - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:30] Venezia vs Inter - Serie A (Luồng 1) [M3U8]
+https://tg0i0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=63fb009dce3a50f93efe21fe-179322497923696&wsIPSercert=1380aeecef962446974ca8d2cf3746fa&wsBindIP=2&wsserid=1168243439525013454
+#EXTINF:-1 tvg-id="chuoichien-1550171-1" tvg-name="[02:30] Genoa vs Juventus - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Genoa vs Juventus - Serie A [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550176-2" tvg-name="[00:30] Venezia vs Inter - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:30] Venezia vs Inter - Serie A (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640388-1" tvg-name="[02:30] Liverpool vs Chelsea - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Liverpool vs Chelsea - Cúp Liên đoàn Anh (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0i1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=28520cdcb7cc6a28c3250929-179320933603620&wsIPSercert=3f6086eb32b710cbd99af277da97b052&wsBindIP=2&wsserid=1168278404686366719
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640388-2" tvg-name="[02:30] Liverpool vs Chelsea - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Liverpool vs Chelsea - Cúp Liên đoàn Anh (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0i0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=63fb009dce3a50f93efe21fe-179322499894999&wsIPSercert=1380aeecef962446974ca8d2cf3746fa&wsBindIP=2&wsserid=1168243439525013454
+#EXTINF:-1 tvg-id="chuoichien-1640575-1" tvg-name="[02:30] Manchester City vs Brighton - Cúp Liên đoàn Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Manchester City vs Brighton - Cúp Liên đoàn Anh [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1550172-1" tvg-name="[02:30] Monza vs Napoli - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png",[02:30] Monza vs Napoli - Serie A [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
