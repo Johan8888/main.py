@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550952-1" tvg-name="[10:00] Club America vs Club Tijuana - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png",[10:00] Club America vs Club Tijuana - VĐQG Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1630387-1" tvg-name="[17:00] Phnom Penh Crown vs Kitchee - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Phnom Penh Crown vs Kitchee - AFC Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550952-2" tvg-name="[10:00] Club America vs Club Tijuana - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png",[10:00] Club America vs Club Tijuana - VĐQG Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630387-2" tvg-name="[17:00] Phnom Penh Crown vs Kitchee - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Phnom Penh Crown vs Kitchee - AFC Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0j0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=5c3437d57a08f2d74c883e04-179324525415932&wsIPSercert=b58679616734ea178385522dd0687dc5&wsBindIP=2&wsserid=1168243256664118498
+https://tg0j1gr3uomttgr31hctwfa3dyctpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=f7200bbc3781462849911547-179327527834590&wsIPSercert=0eb78d578de6e430f8c1c3a4a05885d6&wsBindIP=2&wsserid=1177055146896570971
+#EXTINF:-1 tvg-id="chuoichien-1630388-1" tvg-name="[17:00] Shanghai Shenhua vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Shanghai Shenhua vs Machida Zelvia - AFC Cup (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630388-2" tvg-name="[17:00] Shanghai Shenhua vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Shanghai Shenhua vs Machida Zelvia - AFC Cup (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0j1gr3uomttgr31hctwfa3dyctpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=f7200bbc3781462849911547-179327527739071&wsIPSercert=0eb78d578de6e430f8c1c3a4a05885d6&wsBindIP=2&wsserid=1177055146896570971
+#EXTINF:-1 tvg-id="chuoichien-1630389-1" tvg-name="[17:00] Wofoo Tai Po vs Pathum United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Wofoo Tai Po vs Pathum United - AFC Cup (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630389-2" tvg-name="[17:00] Wofoo Tai Po vs Pathum United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133031_58895cd2.png",[17:00] Wofoo Tai Po vs Pathum United - AFC Cup (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0j1gr3uomttgr31hctwfa3dyctpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=f7200bbc3781462849911547-179327527677471&wsIPSercert=0eb78d578de6e430f8c1c3a4a05885d6&wsBindIP=2&wsserid=1177055146896570971
