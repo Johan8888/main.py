@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492430-1" tvg-name="[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1593692-1" tvg-name="[15:30] Brisbane Roar vs Auckland - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] Brisbane Roar vs Auckland - A-League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492430-2" tvg-name="[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1593692-2" tvg-name="[15:30] Brisbane Roar vs Auckland - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] Brisbane Roar vs Auckland - A-League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0k0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=6ac30b38e83f26a6237a1397-179332029004549&wsIPSercert=49d88d201235ca1f815c1a88bafbe342&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1492436-1" tvg-name="[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil (Luồng 1) [M3U8]
+https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=fbce636c2ae3d6625afc99c0-179335202875831&wsIPSercert=18851943d0741889ea32bd7486d61ada&wsBindIP=2&wsserid=1168243256648389538
+#EXTINF:-1 tvg-id="chuoichien-1622817-1" tvg-name="[15:30] Malut United vs Bhayangkara FC - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] Malut United vs Bhayangkara FC - VĐQG Indonesia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492436-2" tvg-name="[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1622817-2" tvg-name="[15:30] Malut United vs Bhayangkara FC - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] Malut United vs Bhayangkara FC - VĐQG Indonesia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0k0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=164709d2f71d7834fde34497-179332029050162&wsIPSercert=49d88d201235ca1f815c1a88bafbe342&wsBindIP=2&wsserid=1168202333420231774
+https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=9943d5007c4472102d3b2043-179335202873378&wsIPSercert=18851943d0741889ea32bd7486d61ada&wsBindIP=2&wsserid=1168243256670410082
+#EXTINF:-1 tvg-id="chuoichien-991513-1" tvg-name="[15:30] NEC Red Rockets W vs Kurobe Aqua Fairies W - SV.League W" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] NEC Red Rockets W vs Kurobe Aqua Fairies W - SV.League W (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-991513-2" tvg-name="[15:30] NEC Red Rockets W vs Kurobe Aqua Fairies W - SV.League W" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261020_043338_a9e747f0.png",[15:30] NEC Red Rockets W vs Kurobe Aqua Fairies W - SV.League W (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=5c3437d57a08f2d74c883e04-179335202952136&wsIPSercert=18851943d0741889ea32bd7486d61ada&wsBindIP=2&wsserid=1168243256664118498
