@@ -1,36 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603076-1" tvg-name="[23:00] Al-Nassr vs Al Kholood - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] Al-Nassr vs Al Kholood - Saudi Pro League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492430-1" tvg-name="[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603076-2" tvg-name="[23:00] Al-Nassr vs Al Kholood - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] Al-Nassr vs Al Kholood - Saudi Pro League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492430-2" tvg-name="[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Atletico-MG vs Cruzeiro - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0j0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=fbce636c2ae3d6625afc99c0-179329785066758&wsIPSercert=6b4bc1ac5124df47719af10bbe8e04e4&wsBindIP=2&wsserid=1168243256648389538
-#EXTINF:-1 tvg-id="chuoichien-1563668-1" tvg-name="[23:00] CSKA Moscow vs Lokomotiv - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] CSKA Moscow vs Lokomotiv - Cúp Nga (Luồng 1) [M3U8]
+https://tg0k0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=6ac30b38e83f26a6237a1397-179332029004549&wsIPSercert=49d88d201235ca1f815c1a88bafbe342&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1492436-1" tvg-name="[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1563668-2" tvg-name="[23:00] CSKA Moscow vs Lokomotiv - Cúp Nga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] CSKA Moscow vs Lokomotiv - Cúp Nga (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492436-2" tvg-name="[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png",[05:30] Gremio vs Atletico Paranaense - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0j0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=aa75821e020f0bd60a53191d-179329785029011&wsIPSercert=6b4bc1ac5124df47719af10bbe8e04e4&wsBindIP=2&wsserid=1168243344279114758
-#EXTINF:-1 tvg-id="chuoichien-1550170-1" tvg-name="[23:00] Frosinone vs Lecce - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] Frosinone vs Lecce - Serie A (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550170-2" tvg-name="[23:00] Frosinone vs Lecce - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] Frosinone vs Lecce - Serie A (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0j0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=5c3437d57a08f2d74c883e04-179329785024243&wsIPSercert=6b4bc1ac5124df47719af10bbe8e04e4&wsBindIP=2&wsserid=1168243256664118498
-#EXTINF:-1 tvg-id="chuoichien-1638114-1" tvg-name="[23:00] Inter Turku vs HJK helsinki - VĐQG Phần Lan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131801_2eece028.png",[23:00] Inter Turku vs HJK helsinki - VĐQG Phần Lan [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+https://tg0k0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=164709d2f71d7834fde34497-179332029050162&wsIPSercert=49d88d201235ca1f815c1a88bafbe342&wsBindIP=2&wsserid=1168202333420231774
