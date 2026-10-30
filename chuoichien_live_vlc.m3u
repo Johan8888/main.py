@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1576216-1" tvg-name="[00:00] Energie Cottbus vs VfL Bochum - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png",[00:00] Energie Cottbus vs VfL Bochum - Bundesliga 2 (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1493219-1" tvg-name="[03:00] Huracan vs Tigre - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Huracan vs Tigre - VĐQG Argentina (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1576216-2" tvg-name="[00:00] Energie Cottbus vs VfL Bochum - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png",[00:00] Energie Cottbus vs VfL Bochum - Bundesliga 2 (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1493219-2" tvg-name="[03:00] Huracan vs Tigre - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Huracan vs Tigre - VĐQG Argentina (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0k1gr3uomttgr31hctwfa3dyctpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=d97b8a89d2c49b1dd442271e-179338147839572&wsIPSercert=e1924d773c987d228791729495fde660&wsBindIP=2&wsserid=1177055146895522364
-#EXTINF:-1 tvg-id="chuoichien-1584455-1" tvg-name="[00:00] Konyaspor vs Galatasaray - VĐQG Thổ Nhĩ Kì" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png",[00:00] Konyaspor vs Galatasaray - VĐQG Thổ Nhĩ Kì (Luồng 1) [M3U8]
+https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179339699896032&wsIPSercert=1b3ea1a08e62d93586776f7a2babe0b8&wsBindIP=2&wsserid=1168243344279114758
+#EXTINF:-1 tvg-id="chuoichien-1570442-1" tvg-name="[03:00] Villarreal vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Villarreal vs Espanyol - La Liga (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1584455-2" tvg-name="[00:00] Konyaspor vs Galatasaray - VĐQG Thổ Nhĩ Kì" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png",[00:00] Konyaspor vs Galatasaray - VĐQG Thổ Nhĩ Kì (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570442-2" tvg-name="[03:00] Villarreal vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Villarreal vs Espanyol - La Liga (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0k1gr3uomttgr31hctwfa3dyctpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=d97b8a89d2c49b1dd442271e-179338148022079&wsIPSercert=e1924d773c987d228791729495fde660&wsBindIP=2&wsserid=1177055146895522364
+https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179339699898253&wsIPSercert=1b3ea1a08e62d93586776f7a2babe0b8&wsBindIP=2&wsserid=1168243344279114758
