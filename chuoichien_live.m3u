@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1493219-1" tvg-name="[03:00] Huracan vs Tigre - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Huracan vs Tigre - VĐQG Argentina (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1593693-1" tvg-name="[10:00] Newcastle Jets vs Wellington Phoenix - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[10:00] Newcastle Jets vs Wellington Phoenix - A-League [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1493219-2" tvg-name="[03:00] Huracan vs Tigre - VĐQG Argentina" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Huracan vs Tigre - VĐQG Argentina (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1551022-1" tvg-name="[10:00] Puebla vs U.N.A.M. - Pumas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[10:00] Puebla vs U.N.A.M. - Pumas - VĐQG Mexico (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179339699896032&wsIPSercert=1b3ea1a08e62d93586776f7a2babe0b8&wsBindIP=2&wsserid=1168243344279114758
-#EXTINF:-1 tvg-id="chuoichien-1570442-1" tvg-name="[03:00] Villarreal vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Villarreal vs Espanyol - La Liga (Luồng 1) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1551022-2" tvg-name="[10:00] Puebla vs U.N.A.M. - Pumas - VĐQG Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133839_09ad8cba.png",[10:00] Puebla vs U.N.A.M. - Pumas - VĐQG Mexico (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570442-2" tvg-name="[03:00] Villarreal vs Espanyol - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[03:00] Villarreal vs Espanyol - La Liga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0k0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179339699898253&wsIPSercert=1b3ea1a08e62d93586776f7a2babe0b8&wsBindIP=2&wsserid=1168243344279114758
+https://tg0l1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179341726641254&wsIPSercert=9a3d2134860d07282ceac1e1ae276661&wsBindIP=2&wsserid=1168176581104105640
