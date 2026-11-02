@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1570437-1" tvg-name="[00:30] Elche vs Valencia - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png",[00:30] Elche vs Valencia - La Liga (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549848-1" tvg-name="[06:10] Independiente Medellín vs Alianza Petrolera - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png",[06:10] Independiente Medellín vs Alianza Petrolera - VĐQG Colombia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570437-2" tvg-name="[00:30] Elche vs Valencia - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133422_f8f6e27d.png",[00:30] Elche vs Valencia - La Liga (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1549848-2" tvg-name="[06:10] Independiente Medellín vs Alianza Petrolera - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png",[06:10] Independiente Medellín vs Alianza Petrolera - VĐQG Colombia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0m0gr3uomttgr31hcj18yzdnctufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=a4b7d451e8e35bee94de27fe-179356067557078&wsIPSercert=c8ed926f7d3e87df29acb162899756d6&wsBindIP=2&wsserid=1168243256620077470
+https://tg0n1gr4uqmtt8y41hcjagyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=d79429ed948b0be6b78ad2f5-179357788207860&wsIPSercert=f44b041330938e1c9b83b72e279ec2fc&wsBindIP=2&wsserid=1168259296636511195
+#EXTINF:-1 tvg-id="chuoichien-1490598-1" tvg-name="[06:10] New England Revolution vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png",[06:10] New England Revolution vs Inter Miami - Major League Soccer (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1490598-2" tvg-name="[06:10] New England Revolution vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png",[06:10] New England Revolution vs Inter Miami - Major League Soccer (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0n1gr4uqmtt8y41hcjagyzdkcjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=4da6209fce95f02f210e4295-179357788149248&wsIPSercert=f44b041330938e1c9b83b72e279ec2fc&wsBindIP=2&wsserid=1168195329517191416
