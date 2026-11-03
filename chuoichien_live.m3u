@@ -1,25 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1629969-1" tvg-name="[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635622-1" tvg-name="[03:00] Atletico Madrid vs Bayern München - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Atletico Madrid vs Bayern München - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635622-2" tvg-name="[03:00] Atletico Madrid vs Bayern München - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Atletico Madrid vs Bayern München - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0o1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=24884c101dbfc64a3fe017b4-179373863209027&wsIPSercert=ebb07ee86d2baf618d673940f11ef1c8&wsBindIP=2&wsserid=1168282035636612515
+#EXTINF:-1 tvg-id="chuoichien-1635627-1" tvg-name="[03:00] Barcelona vs Aston Villa - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Barcelona vs Aston Villa - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635627-2" tvg-name="[03:00] Barcelona vs Aston Villa - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Barcelona vs Aston Villa - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0o1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=9e524ceef19dfe4e85e714a6-179373863322591&wsIPSercert=ebb07ee86d2baf618d673940f11ef1c8&wsBindIP=2&wsserid=1168282035663924028
+#EXTINF:-1 tvg-id="chuoichien-1635695-1" tvg-name="[03:00] Manchester United vs AS Roma - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Manchester United vs AS Roma - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1629969-2" tvg-name="[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635695-2" tvg-name="[03:00] Manchester United vs AS Roma - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Manchester United vs AS Roma - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0o1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179371203561346&wsIPSercert=0482e4d0d8103bf107c230f2f0d34cca&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-1604052-1" tvg-name="[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập (Luồng 1) [M3U8]
+https://tg0o1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=24884c101dbfc64a3fe017b4-179373863209077&wsIPSercert=ebb07ee86d2baf618d673940f11ef1c8&wsBindIP=2&wsserid=1168282035636612515
+#EXTINF:-1 tvg-id="chuoichien-1635746-1" tvg-name="[03:00] Villarreal vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Villarreal vs Paris Saint Germain - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1604052-2" tvg-name="[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635746-2" tvg-name="[03:00] Villarreal vs Paris Saint Germain - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_72c24d7d.png",[03:00] Villarreal vs Paris Saint Germain - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0o1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=0be69371fed1aeaf618b7425-179371203629517&wsIPSercert=0482e4d0d8103bf107c230f2f0d34cca&wsBindIP=2&wsserid=1168176581102008440
+https://tg0o1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=86133d57734aac57733c8e43-179373863218748&wsIPSercert=ebb07ee86d2baf618d673940f11ef1c8&wsBindIP=2&wsserid=1168278404686366719
