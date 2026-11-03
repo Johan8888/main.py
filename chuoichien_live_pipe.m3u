@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1606736-1" tvg-name="[11:55] Kataller Toyama vs Vegalta Sendai - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132425_593a6678.png",[11:55] Kataller Toyama vs Vegalta Sendai - J2 League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1629969-1" tvg-name="[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1606736-2" tvg-name="[11:55] Kataller Toyama vs Vegalta Sendai - J2 League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132425_593a6678.png",[11:55] Kataller Toyama vs Vegalta Sendai - J2 League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1629969-2" tvg-name="[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Công An Hà Nội vs Kyoto Sanga - AFC Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0o3gr3uomttgr31hctwfa4urmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=a85102c01bef8e734ec8811a-179368107826191&wsIPSercert=4a83aa1238c8b30d81d52f1901891f19&wsBindIP=2&wsserid=1168167351549924720|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tg0o1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179371203561346&wsIPSercert=0482e4d0d8103bf107c230f2f0d34cca&wsBindIP=2&wsserid=1168176581104105640|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1604052-1" tvg-name="[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1604052-2" tvg-name="[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132415_d79fbc72.png",[19:15] Damac vs Al Akhdoud - Hạng Nhất Ả Rập (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg0o1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=0be69371fed1aeaf618b7425-179371203629517&wsIPSercert=0482e4d0d8103bf107c230f2f0d34cca&wsBindIP=2&wsserid=1168176581102008440|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
