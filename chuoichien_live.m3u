@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1549847-1" tvg-name="[06:20] Deportivo Pasto vs Jaguares - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[06:20] Deportivo Pasto vs Jaguares - VĐQG Colombia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635606-1" tvg-name="[00:45] AEK Athens FC vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png",[00:45] AEK Athens FC vs Real Madrid - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1549847-2" tvg-name="[06:20] Deportivo Pasto vs Jaguares - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[06:20] Deportivo Pasto vs Jaguares - VĐQG Colombia (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635606-2" tvg-name="[00:45] AEK Athens FC vs Real Madrid - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png",[00:45] AEK Athens FC vs Real Madrid - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0p1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179375396532390&wsIPSercert=df4f99865ff0c4d334b74f5478942af6&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-1492446-1" tvg-name="[06:20] Internacional vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[06:20] Internacional vs Coritiba - VĐQG Brazil (Luồng 1) [M3U8]
+https://tg0p4ga5nhcjtgozdkc3qgr4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=d07561052aadc4add9c8ebfa-179381937232651&wsIPSercert=d9e895458b96dfdc03307e609aa42b0a&wsBindIP=2&wsserid=1168123134440521118
+#EXTINF:-1 tvg-id="chuoichien-1635658-1" tvg-name="[00:45] Fenerbahce vs Liverpool - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png",[00:45] Fenerbahce vs Liverpool - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492446-2" tvg-name="[06:20] Internacional vs Coritiba - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_4547a757.png",[06:20] Internacional vs Coritiba - VĐQG Brazil (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635658-2" tvg-name="[00:45] Fenerbahce vs Liverpool - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130221_faa28d21.png",[00:45] Fenerbahce vs Liverpool - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0p1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=0be69371fed1aeaf618b7425-179375396565416&wsIPSercert=df4f99865ff0c4d334b74f5478942af6&wsBindIP=2&wsserid=1168176581102008440
+https://tg0p4ga5nhcjtgozdkc3qgr4n435dpptuypj1gwzgk3d8cissn6ddctzy.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=2578a979efeaebfa75f9e15f-179381937228700&wsIPSercert=d9e895458b96dfdc03307e609aa42b0a&wsBindIP=2&wsserid=1168123134440521148
