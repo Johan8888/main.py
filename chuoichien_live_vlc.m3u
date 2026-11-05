@@ -1,21 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1549851-1" tvg-name="[07:30] Millonarios vs America de Cali - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Millonarios vs America de Cali - VĐQG Colombia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1630400-1" tvg-name="[15:30] Lion City Sailors FC vs Adelaide United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Lion City Sailors FC vs Adelaide United - AFC Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1549851-2" tvg-name="[07:30] Millonarios vs America de Cali - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Millonarios vs America de Cali - VĐQG Colombia (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630400-2" tvg-name="[15:30] Lion City Sailors FC vs Adelaide United - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Lion City Sailors FC vs Adelaide United - AFC Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0q1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=86133d57734aac57733c8e43-179384111325436&wsIPSercert=d746b6da56fdb35c8f4ffd83dac853cb&wsBindIP=2&wsserid=1168278404686366719
-#EXTINF:-1 tvg-id="chuoichien-1492448-1" tvg-name="[07:30] Sao Paulo vs Corinthians - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Sao Paulo vs Corinthians - VĐQG Brazil (Luồng 1) [M3U8]
+https://tg0q0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=8d733388046de4852ab52e5e-179387317809521&wsIPSercert=0339c35fa1455f1cb2a44fa27eec810a&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1630401-1" tvg-name="[15:30] Machida Zelvia vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Machida Zelvia vs Shanghai Shenhua - AFC Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492448-2" tvg-name="[07:30] Sao Paulo vs Corinthians - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Sao Paulo vs Corinthians - VĐQG Brazil (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630401-2" tvg-name="[15:30] Machida Zelvia vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Machida Zelvia vs Shanghai Shenhua - AFC Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0q1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=1d3d2dc52cdd20a2214b2488-179384111355878&wsIPSercert=d746b6da56fdb35c8f4ffd83dac853cb&wsBindIP=2&wsserid=1168282037991221552
+https://tg0q0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=f30a05730ff7279edd018903-179387317826229&wsIPSercert=0339c35fa1455f1cb2a44fa27eec810a&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="chuoichien-1648702-1" tvg-name="[15:30] Pakistan vs India - SAFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Pakistan vs India - SAFF Championship (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1648702-2" tvg-name="[15:30] Pakistan vs India - SAFF Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Pakistan vs India - SAFF Championship (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0q0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=f30a05730ff7279edd018903-179387317801128&wsIPSercert=0339c35fa1455f1cb2a44fa27eec810a&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="chuoichien-1640352-1" tvg-name="[15:30] Sydney Olympic vs Oakleigh Cannons - Australian Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Sydney Olympic vs Oakleigh Cannons - Australian Championship (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1640352-2" tvg-name="[15:30] Sydney Olympic vs Oakleigh Cannons - Australian Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141341_d6126770.png",[15:30] Sydney Olympic vs Oakleigh Cannons - Australian Championship (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0q0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=f30a05730ff7279edd018903-179387317838431&wsIPSercert=0339c35fa1455f1cb2a44fa27eec810a&wsBindIP=2&wsserid=1168202333420231774
