@@ -1,46 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1636208-1" tvg-name="[00:45] AC Milan vs Ferencvarosi TC - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] AC Milan vs Ferencvarosi TC - UEFA Europa League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636208-2" tvg-name="[00:45] AC Milan vs Ferencvarosi TC - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] AC Milan vs Ferencvarosi TC - UEFA Europa League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0q0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=1581a2c57866ca9d198d862e-179390618754887&wsIPSercert=2c09fe927c6897c61c4b474bd5aa5eee&wsBindIP=2&wsserid=1168243256670410082
-#EXTINF:-1 tvg-id="chuoichien-1636211-1" tvg-name="[00:45] Anderlecht vs Red Bull Salzburg - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Anderlecht vs Red Bull Salzburg - UEFA Europa League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636211-2" tvg-name="[00:45] Anderlecht vs Red Bull Salzburg - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Anderlecht vs Red Bull Salzburg - UEFA Europa League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0q0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=d070459f1c0b306a1d0b227e-179390618758120&wsIPSercert=2c09fe927c6897c61c4b474bd5aa5eee&wsBindIP=2&wsserid=1168243256651535330
-#EXTINF:-1 tvg-id="chuoichien-1636254-1" tvg-name="[00:45] Crystal Palace vs 1899 Hoffenheim - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Crystal Palace vs 1899 Hoffenheim - UEFA Europa League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603419-1" tvg-name="[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636254-2" tvg-name="[00:45] Crystal Palace vs 1899 Hoffenheim - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Crystal Palace vs 1899 Hoffenheim - UEFA Europa League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1603419-2" tvg-name="[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0q0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179390618757620&wsIPSercert=2c09fe927c6897c61c4b474bd5aa5eee&wsBindIP=2&wsserid=1168243344279114758
-#EXTINF:-1 tvg-id="chuoichien-1636319-1" tvg-name="[00:45] Real Sociedad vs Lyon - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Real Sociedad vs Lyon - UEFA Europa League (Luồng 1) [M3U8]
+https://tg0r1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=86133d57734aac57733c8e43-179392785167019&wsIPSercert=cd687e37456061ae504cdbae02203336&wsBindIP=2&wsserid=1168278404686366719
+#EXTINF:-1 tvg-id="chuoichien-1492444-1" tvg-name="[07:30] Cruzeiro vs Bahia - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cruzeiro vs Bahia - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1636319-2" tvg-name="[00:45] Real Sociedad vs Lyon - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Real Sociedad vs Lyon - UEFA Europa League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492444-2" tvg-name="[07:30] Cruzeiro vs Bahia - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cruzeiro vs Bahia - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0q0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=975bf55d5b5e313024ed950b-179390618744971&wsIPSercert=2c09fe927c6897c61c4b474bd5aa5eee&wsBindIP=2&wsserid=1168243256648389538
-#EXTINF:-1 tvg-id="chuoichien-1636337-1" tvg-name="[00:45] Sparta Praha vs Bournemouth - UEFA Europa League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png",[00:45] Sparta Praha vs Bournemouth - UEFA Europa League [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+https://tg0r1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=1d3d2dc52cdd20a2214b2488-179392785215418&wsIPSercert=cd687e37456061ae504cdbae02203336&wsBindIP=2&wsserid=1168282037991221552
