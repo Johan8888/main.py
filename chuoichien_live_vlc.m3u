@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603419-1" tvg-name="[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1622826-1" tvg-name="[15:30] PSIM Yogyakarta vs Dewa United - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] PSIM Yogyakarta vs Dewa United - VĐQG Indonesia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603419-2" tvg-name="[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cancun FC vs Piratas FC - Hạng 2 Mexico (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1622826-2" tvg-name="[15:30] PSIM Yogyakarta vs Dewa United - VĐQG Indonesia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] PSIM Yogyakarta vs Dewa United - VĐQG Indonesia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0r1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=86133d57734aac57733c8e43-179392785167019&wsIPSercert=cd687e37456061ae504cdbae02203336&wsBindIP=2&wsserid=1168278404686366719
-#EXTINF:-1 tvg-id="chuoichien-1492444-1" tvg-name="[07:30] Cruzeiro vs Bahia - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cruzeiro vs Bahia - VĐQG Brazil (Luồng 1) [M3U8]
+https://tg0r0gr3uomttgr31hcj18yzdnctwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=975bf55d5b5e313024ed950b-179395986902632&wsIPSercert=d81915b0791365d7d8744d6715909198&wsBindIP=2&wsserid=1168243256648389538
+#EXTINF:-1 tvg-id="chuoichien-1593698-1" tvg-name="[15:30] Sydney vs Central Coast Mariners - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] Sydney vs Central Coast Mariners - A-League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492444-2" tvg-name="[07:30] Cruzeiro vs Bahia - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png",[07:30] Cruzeiro vs Bahia - VĐQG Brazil (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1593698-2" tvg-name="[15:30] Sydney vs Central Coast Mariners - A-League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] Sydney vs Central Coast Mariners - A-League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0r1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=1d3d2dc52cdd20a2214b2488-179392785215418&wsIPSercert=cd687e37456061ae504cdbae02203336&wsBindIP=2&wsserid=1168282037991221552
+https://tg0r0gr3uomttgr31hcj18yzdnctwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=c4340f1c2ab5277d6c1911e4-179395986903979&wsIPSercert=d81915b0791365d7d8744d6715909198&wsBindIP=2&wsserid=1168243256664118498
+#EXTINF:-1 tvg-id="chuoichien-1635004-1" tvg-name="[15:30] Văn Hiến vs Huế - V.League 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] Văn Hiến vs Huế - V.League 2 (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1635004-2" tvg-name="[15:30] Văn Hiến vs Huế - V.League 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png",[15:30] Văn Hiến vs Huế - V.League 2 (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg0r0gr3uomttgr31hcj18yzdnctwfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=1581a2c57866ca9d198d862e-179395986864128&wsIPSercert=d81915b0791365d7d8744d6715909198&wsBindIP=2&wsserid=1168243256670410082
