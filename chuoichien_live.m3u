@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1576225-1" tvg-name="[00:30] Eintracht Braunschweig vs Energie Cottbus - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png",[00:30] Eintracht Braunschweig vs Energie Cottbus - Bundesliga 2 (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492449-1" tvg-name="[06:00] Vitoria vs Fluminense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_69da02c8.png",[06:00] Vitoria vs Fluminense - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1576225-2" tvg-name="[00:30] Eintracht Braunschweig vs Energie Cottbus - Bundesliga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130303_c6ba388a.png",[00:30] Eintracht Braunschweig vs Energie Cottbus - Bundesliga 2 (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492449-2" tvg-name="[06:00] Vitoria vs Fluminense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_69da02c8.png",[06:00] Vitoria vs Fluminense - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0r0gr4uqmtt8y41hcjsgyzdnpbafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=5fea05452c02ae3dac8c1199-179399059700332&wsIPSercert=7230c57bb7bb4fafde5e6442a355d7d5&wsBindIP=2&wsserid=1168231785641135723
+https://tg0s0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=16946b90e5ad04d7bcb4a26b-179401151476657&wsIPSercert=ee59ecaf905d6a741f77dcfebcf58034&wsBindIP=2&wsserid=1168243344279114758
