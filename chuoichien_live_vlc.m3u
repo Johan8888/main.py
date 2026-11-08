@@ -1,41 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1550187-1" tvg-name="[02:45] AS Roma vs Sassuolo - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] AS Roma vs Sassuolo - Serie A (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1550187-2" tvg-name="[02:45] AS Roma vs Sassuolo - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] AS Roma vs Sassuolo - Serie A (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0s3gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=9dba2a18b8e29e488458d3e8-179408613520615&wsIPSercert=dffa8787695154e8651825304bec9a3d&wsBindIP=2&wsserid=1168233253154861317
-#EXTINF:-1 tvg-id="chuoichien-1490600-1" tvg-name="[02:45] Inter Miami vs Charlotte - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Inter Miami vs Charlotte - Major League Soccer (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1490600-2" tvg-name="[02:45] Inter Miami vs Charlotte - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Inter Miami vs Charlotte - Major League Soccer (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0s3gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=a0d93fd35032296e1256f2cd-179408613427140&wsIPSercert=dffa8787695154e8651825304bec9a3d&wsBindIP=2&wsserid=1168233226235345617
-#EXTINF:-1 tvg-id="chuoichien-1552815-1" tvg-name="[02:45] Paris Saint Germain vs Estac Troyes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Paris Saint Germain vs Estac Troyes - Ligue 1 (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1552815-2" tvg-name="[02:45] Paris Saint Germain vs Estac Troyes - Ligue 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Paris Saint Germain vs Estac Troyes - Ligue 1 (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg0s3gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=bbdd8012df319418c22462e6-179408613445831&wsIPSercert=dffa8787695154e8651825304bec9a3d&wsBindIP=2&wsserid=1168233226261560417
-#EXTINF:-1 tvg-id="chuoichien-1570451-1" tvg-name="[02:45] Valencia vs Real Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Valencia vs Real Madrid - La Liga (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550193-1" tvg-name="[18:30] Napoli vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png",[18:30] Napoli vs Lazio - Serie A (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1570451-2" tvg-name="[02:45] Valencia vs Real Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png",[02:45] Valencia vs Real Madrid - La Liga (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1550193-2" tvg-name="[18:30] Napoli vs Lazio - Serie A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_1ca3923a.png",[18:30] Napoli vs Lazio - Serie A (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg0s3gr4uqmtt8y41hcjz8yzd1mm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=0c2e94f7e46c960206447b44-179408613464627&wsIPSercert=dffa8787695154e8651825304bec9a3d&wsBindIP=2&wsserid=1168233253158007095
+https://tg0t3gr3uomttgr31hcjagczdgmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=a140c5fdeffbbfde580581c1-179414105442355&wsIPSercert=d7bb738883dd397e52f76d5f888f9a7a&wsBindIP=2&wsserid=1168167351536292401
