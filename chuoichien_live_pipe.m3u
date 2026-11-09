@@ -1,25 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1575215-1" tvg-name="[00:30] 1899 Hoffenheim vs FC Schalke 04 - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[00:30] 1899 Hoffenheim vs FC Schalke 04 - Bundesliga (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1549857-1" tvg-name="[06:10] Deportes Tolima vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133537_5e882eb3.png",[06:10] Deportes Tolima vs Millonarios - VĐQG Colombia (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1575215-2" tvg-name="[00:30] 1899 Hoffenheim vs FC Schalke 04 - Bundesliga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[00:30] 1899 Hoffenheim vs FC Schalke 04 - Bundesliga (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1549857-2" tvg-name="[06:10] Deportes Tolima vs Millonarios - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133537_5e882eb3.png",[06:10] Deportes Tolima vs Millonarios - VĐQG Colombia (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0t0gr4uqmtt8y41hcjz8rzdrcjafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=c00ff94c94261961dca55e3f-179416535603781&wsIPSercert=3b9697b933c6e8b6addc87af41d1f570&wsBindIP=2&wsserid=1168176337057324681|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1570452-1" tvg-name="[00:30] Villarreal vs Getafe - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[00:30] Villarreal vs Getafe - La Liga (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1570452-2" tvg-name="[00:30] Villarreal vs Getafe - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png",[00:30] Villarreal vs Getafe - La Liga (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0t0gr4uqmtt8y41hcjz8rzdrcjafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=3c05c328e9e46fb060b9c16d-179416535566474&wsIPSercert=3b9697b933c6e8b6addc87af41d1f570&wsBindIP=2&wsserid=1168176350583194799|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tg0u0gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=9f7044358ea3698f8f1cea9d-179418375980755&wsIPSercert=c1043f2d4ff4c027f8c5571c530c8186&wsBindIP=2&wsserid=1168140848411308775|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
