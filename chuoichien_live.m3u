@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1531018-1" tvg-name="[16:00] Metalourg vs Aral - Pro League A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",[16:00] Metalourg vs Aral - Pro League A (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1646997-1" tvg-name="[12:00] Tuv Azarganuud vs Hunters - Ngoại Hạng Mông Cổ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_2495057f.png",[12:00] Tuv Azarganuud vs Hunters - Ngoại Hạng Mông Cổ (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1531018-2" tvg-name="[16:00] Metalourg vs Aral - Pro League A" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131725_09716b66.png",[16:00] Metalourg vs Aral - Pro League A (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1646997-2" tvg-name="[12:00] Tuv Azarganuud vs Hunters - Ngoại Hạng Mông Cổ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142519_2495057f.png",[12:00] Tuv Azarganuud vs Hunters - Ngoại Hạng Mông Cổ (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0u0gr4uqmtt8y41hcjsgyzdnpb3fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=3fd4f250077be599f20df6b8-179422090654941&wsIPSercert=566f45e1fc521d4aff9c7670a6f5b98a&wsBindIP=2&wsserid=1168231785647427279
+https://tg0v1gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=9e524ceef19dfe4e85e714a6-179428874208198&wsIPSercert=fb18c06e3b8ef70178327cc6e5ce52d0&wsBindIP=2&wsserid=1168282035663924028
