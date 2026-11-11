@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1638308-1" tvg-name="[03:00] Inter Milano W vs Manchester City W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png",[03:00] Inter Milano W vs Manchester City W - UEFA Champions League Women (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1647634-1" tvg-name="[18:35] China U19 vs Vietnam U19 - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/25359.png",[18:35] China U19 vs Vietnam U19 - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638308-2" tvg-name="[03:00] Inter Milano W vs Manchester City W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png",[03:00] Inter Milano W vs Manchester City W - UEFA Champions League Women (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1647634-2" tvg-name="[18:35] China U19 vs Vietnam U19 - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/25359.png",[18:35] China U19 vs Vietnam U19 - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0v0gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=9f7044358ea3698f8f1cea9d-179434485735587&wsIPSercert=1d41befb12f6bbf715133c336f0357ec&wsBindIP=2&wsserid=1168140848411308775
-#EXTINF:-1 tvg-id="chuoichien-1638328-1" tvg-name="[03:00] Paris Saint Germain W vs Bayern Munich W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png",[03:00] Paris Saint Germain W vs Bayern Munich W - UEFA Champions League Women (Luồng 1) [M3U8]
+https://tg0w1gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=8a53de961db3333e4a719634-179440302020440&wsIPSercert=4184b2de1c80e7872f2b827dc3a8393a&wsBindIP=2&wsserid=1172580915182858212
+#EXTINF:-1 tvg-id="chuoichien-1647357-1" tvg-name="[18:35] Việt Nam vs Chinese Taipei - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/25359.png",[18:35] Việt Nam vs Chinese Taipei - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638328-2" tvg-name="[03:00] Paris Saint Germain W vs Bayern Munich W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png",[03:00] Paris Saint Germain W vs Bayern Munich W - UEFA Champions League Women (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1647357-2" tvg-name="[18:35] Việt Nam vs Chinese Taipei - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.api-sports.io/football/teams/25359.png",[18:35] Việt Nam vs Chinese Taipei - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0v0gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=166a92167566de854271e4b1-179434485712192&wsIPSercert=1d41befb12f6bbf715133c336f0357ec&wsBindIP=2&wsserid=1168140819731496014
+https://tg0w1gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=e2fe00d50a6bd610a895356f-179440301959856&wsIPSercert=4184b2de1c80e7872f2b827dc3a8393a&wsBindIP=2&wsserid=1172580915179712404
