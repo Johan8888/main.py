@@ -1,37 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1528961-1" tvg-name="[02:45] czech republic vs spain" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] czech republic vs spain (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-997657-1" tvg-name="[09:00] Atlético Morelia vs Leones Negros - Hạng 2 Mexico" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261113_010321_8e04f517.png",[09:00] Atlético Morelia vs Leones Negros - Hạng 2 Mexico [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528961-2" tvg-name="[02:45] czech republic vs spain" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] czech republic vs spain (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0x1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179451962906582&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-1549868-1" tvg-name="[02:45] deportivo pasto vs junior" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] deportivo pasto vs junior (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1549868-2" tvg-name="[02:45] deportivo pasto vs junior" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] deportivo pasto vs junior (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0x1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179451962959010&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168176581104105640
-#EXTINF:-1 tvg-id="chuoichien-1528960-1" tvg-name="[02:45] Italy vs France - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] Italy vs France - UEFA Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1528960-2" tvg-name="[02:45] Italy vs France - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png",[02:45] Italy vs France - UEFA Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg0x1gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179451962695585&wsIPSercert=973f950f5c9e04e43291d1c8be5d29bf&wsBindIP=2&wsserid=1168176581104105640
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
