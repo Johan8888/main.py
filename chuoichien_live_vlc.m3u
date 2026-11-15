@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-993716-1" tvg-name="[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145500_1deb6a3c.png",[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1528980-1" tvg-name="[00:00] Belarus vs Albania - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Belarus vs Albania - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528980-2" tvg-name="[00:00] Belarus vs Albania - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Belarus vs Albania - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg101gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=9e524ceef19dfe4e85e714a6-179476666429965&wsIPSercert=b095e6dc655278973e0905c3cfb1bddc&wsBindIP=2&wsserid=1168282035663924028
+#EXTINF:-1 tvg-id="chuoichien-1570016-1" tvg-name="[00:00] Eibar vs Cadiz - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Eibar vs Cadiz - La Liga 2 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-993716-2" tvg-name="[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145500_1deb6a3c.png",[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1570016-2" tvg-name="[00:00] Eibar vs Cadiz - La Liga 2" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Eibar vs Cadiz - La Liga 2 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg100gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=9f7044358ea3698f8f1cea9d-179473757363045&wsIPSercert=4c7704e24af86a93d928b3316a410b51&wsBindIP=2&wsserid=1168140848411308775
+https://tg101gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=c86f7c0416d268eff5eba0e3-179476666426600&wsIPSercert=b095e6dc655278973e0905c3cfb1bddc&wsBindIP=2&wsserid=1168282035622980969
+#EXTINF:-1 tvg-id="chuoichien-1528981-1" tvg-name="[00:00] Finland vs San Marino - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Finland vs San Marino - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528981-2" tvg-name="[00:00] Finland vs San Marino - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_e6d1f34c.png",[00:00] Finland vs San Marino - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg101gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=24884c101dbfc64a3fe017b4-179476666617083&wsIPSercert=b095e6dc655278973e0905c3cfb1bddc&wsBindIP=2&wsserid=1168282035636612515
