@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1632125-1" tvg-name="[08:00] Wellington Phoenix W vs Sydney FC W - A-League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png",[08:00] Wellington Phoenix W vs Sydney FC W - A-League Women (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-993716-1" tvg-name="[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145500_1deb6a3c.png",[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1632125-2" tvg-name="[08:00] Wellington Phoenix W vs Sydney FC W - A-League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png",[08:00] Wellington Phoenix W vs Sydney FC W - A-League Women (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-993716-2" tvg-name="[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20261013_145500_1deb6a3c.png",[17:00] Fenerbahce Women vs Nilufer Bld. Women - Bóng Chuyền Thổ Nhĩ Kỳ (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg100gr4uqmtt8y41hcjz8rzdrcjzfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=6c8e069e194627574d3ceb14-179470285633325&wsIPSercert=73344b36a5754e565aa0e137c038f745&wsBindIP=2&wsserid=1168214357021015793
+https://tg100gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=9f7044358ea3698f8f1cea9d-179473757363045&wsIPSercert=4c7704e24af86a93d928b3316a410b51&wsBindIP=2&wsserid=1168140848411308775
