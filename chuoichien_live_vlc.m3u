@@ -1,11 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1644696-1" tvg-name="[06:00] Panama vs Curaçao - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png",[06:00] Panama vs Curaçao - CONCACAF Nations League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1545662-1" tvg-name="[02:45] FYR Macedonia vs Slovenia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] FYR Macedonia vs Slovenia - UEFA Nations League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1644696-2" tvg-name="[06:00] Panama vs Curaçao - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_07ec8953.png",[06:00] Panama vs Curaçao - CONCACAF Nations League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1545662-2" tvg-name="[02:45] FYR Macedonia vs Slovenia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] FYR Macedonia vs Slovenia - UEFA Nations League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg113gr3uomttgr31hctwfa4urmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=588172779b14704a98d20690-179478925204760&wsIPSercert=a7ae4b931ae4bec986e7e4e7e2bd6e5b&wsBindIP=2&wsserid=1168167351547827516
+https://tg111gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=e2fe00d50a6bd610a895356f-179486449339211&wsIPSercert=91f9a0dde991efa34e19b13911d57b64&wsBindIP=2&wsserid=1172580915179712404
+#EXTINF:-1 tvg-id="chuoichien-1528990-1" tvg-name="[02:45] Germany vs Netherlands - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Germany vs Netherlands - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528990-2" tvg-name="[02:45] Germany vs Netherlands - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Germany vs Netherlands - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg111gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=a95d9852bd9ebb5e926e26d5-179486449217629&wsIPSercert=91f9a0dde991efa34e19b13911d57b64&wsBindIP=2&wsserid=1172580915169226372
+#EXTINF:-1 tvg-id="chuoichien-1528991-1" tvg-name="[02:45] Greece vs Serbia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Greece vs Serbia - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1528991-2" tvg-name="[02:45] Greece vs Serbia - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Greece vs Serbia - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg111gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=e2fe00d50a6bd610a895356f-179486449326526&wsIPSercert=91f9a0dde991efa34e19b13911d57b64&wsBindIP=2&wsserid=1172580915179712404
+#EXTINF:-1 tvg-id="chuoichien-1545652-1" tvg-name="[02:45] Switzerland vs Scotland - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Switzerland vs Scotland - UEFA Nations League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1545652-2" tvg-name="[02:45] Switzerland vs Scotland - UEFA Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png",[02:45] Switzerland vs Scotland - UEFA Nations League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg111gr4uqmtt8y41hcjs8rzdrptpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=6f2e5c822f83131d67b4351a-179486449369331&wsIPSercert=91f9a0dde991efa34e19b13911d57b64&wsBindIP=2&wsserid=1172580915182858196
