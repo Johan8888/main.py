@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1647367-1" tvg-name="[13:00] Yemen vs Malaysia - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_83841a8c.png",[13:00] Yemen vs Malaysia - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1647369-1" tvg-name="[21:00] Qatar vs South Korea - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[21:00] Qatar vs South Korea - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1647367-2" tvg-name="[13:00] Yemen vs Malaysia - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133414_83841a8c.png",[13:00] Yemen vs Malaysia - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1647369-2" tvg-name="[21:00] Qatar vs South Korea - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[21:00] Qatar vs South Korea - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg123gr3uomttgr31hctwfa3dymm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=c49620c69d9d010d5a572973-179489471421821&wsIPSercert=095dd5339005f805ac33a1a312f7650f&wsBindIP=2&wsserid=1168259294120458059
+https://tg123gr3uomttgr31hcjagczdgmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=a140c5fdeffbbfde580581c1-179492851163436&wsIPSercert=ae9193d290c6239716b1cbfa9771c8cd&wsBindIP=2&wsserid=1168167351536292401
+#EXTINF:-1 tvg-id="chuoichien-1647370-1" tvg-name="[21:00] saudi arabia vs uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[21:00] saudi arabia vs uzbekistan (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1647370-2" tvg-name="[21:00] saudi arabia vs uzbekistan" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png",[21:00] saudi arabia vs uzbekistan (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg123gr3uomttgr31hcjagczdgmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=588172779b14704a98d20690-179492851469340&wsIPSercert=ae9193d290c6239716b1cbfa9771c8cd&wsBindIP=2&wsserid=1168167351547827516
