@@ -1,31 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1647372-1" tvg-name="[06:00] Argentina vs Costa Rica - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] Argentina vs Costa Rica - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1560980-1" tvg-name="[16:30] Cerezo Osaka W vs Urawa Reds W - WE League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png",[16:30] Cerezo Osaka W vs Urawa Reds W - WE League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1647372-2" tvg-name="[06:00] Argentina vs Costa Rica - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] Argentina vs Costa Rica - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1560980-2" tvg-name="[16:30] Cerezo Osaka W vs Urawa Reds W - WE League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png",[16:30] Cerezo Osaka W vs Urawa Reds W - WE League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg131gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=86133d57734aac57733c8e43-179496104136390&wsIPSercert=1a66b0231a75c67b31d0ae2fb0647b20&wsBindIP=2&wsserid=1168278404686366719
-#EXTINF:-1 tvg-id="chuoichien-1647373-1" tvg-name="[06:00] Ecuador vs Bolivia - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] Ecuador vs Bolivia - Giao Hữu Quốc Tế (Luồng 1) [M3U8]
+https://tg131gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=ddec4050af3a4704b7bd50e2-179499984689734&wsIPSercert=701a42c3579178b7b814cf152e5a6d79&wsBindIP=2&wsserid=1168176581104105640
+#EXTINF:-1 tvg-id="chuoichien-1554065-1" tvg-name="[16:30] TP. Hồ Chí Minh vs Buriram United - ASEAN Club Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png",[16:30] TP. Hồ Chí Minh vs Buriram United - ASEAN Club Championship (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1647373-2" tvg-name="[06:00] Ecuador vs Bolivia - Giao Hữu Quốc Tế" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] Ecuador vs Bolivia - Giao Hữu Quốc Tế (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1554065-2" tvg-name="[16:30] TP. Hồ Chí Minh vs Buriram United - ASEAN Club Championship" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144236_c73ca875.png",[16:30] TP. Hồ Chí Minh vs Buriram United - ASEAN Club Championship (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg131gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=9e524ceef19dfe4e85e714a6-179496104164550&wsIPSercert=1a66b0231a75c67b31d0ae2fb0647b20&wsBindIP=2&wsserid=1168282035663924028
-#EXTINF:-1 tvg-id="chuoichien-1644697-1" tvg-name="[06:00] USA vs Haiti - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] USA vs Haiti - CONCACAF Nations League (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1644697-2" tvg-name="[06:00] USA vs Haiti - CONCACAF Nations League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png",[06:00] USA vs Haiti - CONCACAF Nations League (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg131gr4dymttgwanhc3sfaauccbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=1d3d2dc52cdd20a2214b2488-179496104186172&wsIPSercert=1a66b0231a75c67b31d0ae2fb0647b20&wsBindIP=2&wsserid=1168282037991221552
+https://tg131gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=0be69371fed1aeaf618b7425-179499984709588&wsIPSercert=701a42c3579178b7b814cf152e5a6d79&wsBindIP=2&wsserid=1168176581102008440
