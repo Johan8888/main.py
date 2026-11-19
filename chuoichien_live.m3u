@@ -1,37 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1644334-1" tvg-name="[02:00] Alcoyano vs Mallorca - Copa del Rey" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Alcoyano vs Mallorca - Copa del Rey (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492450-1" tvg-name="[07:30] Corinthians vs Botafogo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",[07:30] Corinthians vs Botafogo - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1644334-2" tvg-name="[02:00] Alcoyano vs Mallorca - Copa del Rey" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Alcoyano vs Mallorca - Copa del Rey (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492450-2" tvg-name="[07:30] Corinthians vs Botafogo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",[07:30] Corinthians vs Botafogo - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg130gr4uqmtt8y41hcjsgyzdnpb3fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=a42ad435804397bb004ef5b2-179503178402834&wsIPSercert=bcb7885744a141f31c4774c1662cdb33&wsBindIP=2&wsserid=1168270715633502867
-#EXTINF:-1 tvg-id="chuoichien-1638301-1" tvg-name="[02:00] Chelsea W vs Paris Saint Germain W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Chelsea W vs Paris Saint Germain W - UEFA Champions League Women (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638301-2" tvg-name="[02:00] Chelsea W vs Paris Saint Germain W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Chelsea W vs Paris Saint Germain W - UEFA Champions League Women (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg130gr4uqmtt8y41hcjsgyzdnpb3fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=0f0bfa82d3ed8bae584251cf-179503178415630&wsIPSercert=bcb7885744a141f31c4774c1662cdb33&wsBindIP=2&wsserid=1168283319030924262
-#EXTINF:-1 tvg-id="chuoichien-1612680-1" tvg-name="[02:00] Manchester United W vs Everton W - WSL Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Manchester United W vs Everton W - WSL Cup (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1612680-2" tvg-name="[02:00] Manchester United W vs Everton W - WSL Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133731_6dff7e1a.png",[02:00] Manchester United W vs Everton W - WSL Cup (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg130gr4uqmtt8y41hcjsgyzdnpb3fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=7784caeef5727ac473c14d0b-179503178356171&wsIPSercert=bcb7885744a141f31c4774c1662cdb33&wsBindIP=2&wsserid=1168231785649524481
+https://tg140gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=8d733388046de4852ab52e5e-179505418465528&wsIPSercert=9f87f0f8c74a01878336bf57096aebee&wsBindIP=2&wsserid=1168202392933970899
