@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1492450-1" tvg-name="[07:30] Corinthians vs Botafogo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",[07:30] Corinthians vs Botafogo - VĐQG Brazil (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1560983-1" tvg-name="[16:00] Omiya Ardija Ventus W vs INAC Kobe Leonessa W - WE League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144233_c6418a92.png",[16:00] Omiya Ardija Ventus W vs INAC Kobe Leonessa W - WE League [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1492450-2" tvg-name="[07:30] Corinthians vs Botafogo - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125537_cd0ff28f.png",[07:30] Corinthians vs Botafogo - VĐQG Brazil (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg140gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=8d733388046de4852ab52e5e-179505418465528&wsIPSercert=9f87f0f8c74a01878336bf57096aebee&wsBindIP=2&wsserid=1168202392933970899
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
