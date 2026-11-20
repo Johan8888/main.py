@@ -1,26 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1638286-1" tvg-name="[00:45] Arsenal W vs Lyon W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",[00:45] Arsenal W vs Lyon W - UEFA Champions League Women (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1492457-1" tvg-name="[07:30] Sao Paulo vs Fluminense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Sao Paulo vs Fluminense - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638286-2" tvg-name="[00:45] Arsenal W vs Lyon W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",[00:45] Arsenal W vs Lyon W - UEFA Champions League Women (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492457-2" tvg-name="[07:30] Sao Paulo vs Fluminense - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_698c7d26.png",[07:30] Sao Paulo vs Fluminense - VĐQG Brazil (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg140gr4uqmtt8y41hcjz8rzdrcjzfiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=1d35941285e171cf82a69473-179511765934865&wsIPSercert=a707b8114111309217e451db6b0182d8&wsBindIP=2&wsserid=1168214357021015793
-#EXTINF:-1 tvg-id="chuoichien-1638292-1" tvg-name="[00:45] Austria Wien W vs Bayern Munich W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",[00:45] Austria Wien W vs Bayern Munich W - UEFA Champions League Women [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638297-1" tvg-name="[00:45] Barcelona W vs Servette Chênois W - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",[00:45] Barcelona W vs Servette Chênois W - UEFA Champions League Women [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1638327-1" tvg-name="[00:45] Paris FC W vs Køge - UEFA Champions League Women" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png",[00:45] Paris FC W vs Køge - UEFA Champions League Women [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+https://tg150gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=d2e00aabf4c51bc0d5f35cb9-179513989040317&wsIPSercert=21ee18cf08b95a58552940034a34e45f&wsBindIP=2&wsserid=1168140819731496014
