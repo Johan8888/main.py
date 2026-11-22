@@ -1,13 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1649495-1" tvg-name="[06:00] Inter Miami vs Columbus Crew - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:00] Inter Miami vs Columbus Crew - Major League Soccer (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1633939-1" tvg-name="[16:30] Da Nang vs Ninh Bình FC - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png",[16:30] Da Nang vs Ninh Bình FC - V.League 1 (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1649495-2" tvg-name="[06:00] Inter Miami vs Columbus Crew - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131436_8ba487aa.png",[06:00] Inter Miami vs Columbus Crew - Major League Soccer (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1633939-2" tvg-name="[16:30] Da Nang vs Ninh Bình FC - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png",[16:30] Da Nang vs Ninh Bình FC - V.League 1 (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg170gr4uqmtt8y41hcjzgrzdrcbofiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=f9f555f68b1bc74e54f50bc1-179530859223570&wsIPSercert=c66e0bf357d050098aa04bef7a3948d1&wsBindIP=2&wsserid=1168140817802830791
+https://tg171gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=3af955da788a074e444757ba-179534362517463&wsIPSercert=3467d7e5f620fb3d27c8d1fa4afa60b1&wsBindIP=2&wsserid=1168176581102008440
+#EXTINF:-1 tvg-id="chuoichien-1601156-1" tvg-name="[16:30] Kuala Lumpur FA vs Penang - VĐQG Malaysia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png",[16:30] Kuala Lumpur FA vs Penang - VĐQG Malaysia (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1601156-2" tvg-name="[16:30] Kuala Lumpur FA vs Penang - VĐQG Malaysia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png",[16:30] Kuala Lumpur FA vs Penang - VĐQG Malaysia (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg171gr4uqmtt8y41hcjwgwzdocjpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=3af955da788a074e444757ba-179534362450826&wsIPSercert=3467d7e5f620fb3d27c8d1fa4afa60b1&wsBindIP=2&wsserid=1168176581102008440
