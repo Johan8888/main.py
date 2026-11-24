@@ -1,13 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1629981-1" tvg-name="[14:45] Newcastle Jets vs Kashiwa Reysol - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png",[14:45] Newcastle Jets vs Kashiwa Reysol - AFC Champions League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1629988-1" tvg-name="[01:15] Al-Nassr vs Al Sadd - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Al-Nassr vs Al Sadd - AFC Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1629988-2" tvg-name="[01:15] Al-Nassr vs Al Sadd - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Al-Nassr vs Al Sadd - AFC Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179554981174208&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635611-1" tvg-name="[01:15] Arsenal vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Arsenal vs Borussia Dortmund - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635611-2" tvg-name="[01:15] Arsenal vs Borussia Dortmund - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Arsenal vs Borussia Dortmund - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179554981172173&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635649-1" tvg-name="[01:15] Como vs AEK Athens FC - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Como vs AEK Athens FC - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635649-2" tvg-name="[01:15] Como vs AEK Athens FC - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Como vs AEK Athens FC - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=47f70e6d1d3ec18e8f7da68b-179554981214447&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202333420231774|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635692-1" tvg-name="[01:15] Manchester City vs Napoli - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Manchester City vs Napoli - UEFA Champions League (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
-#EXTINF:-1 tvg-id="chuoichien-1629981-2" tvg-name="[14:45] Newcastle Jets vs Kashiwa Reysol - AFC Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130441_f1a2632a.png",[14:45] Newcastle Jets vs Kashiwa Reysol - AFC Champions League (Luồng 2) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1635692-2" tvg-name="[01:15] Manchester City vs Napoli - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Manchester City vs Napoli - UEFA Champions League (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg190gr4uqmtt8y41hcjsgyzdnpb3fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=ff28fa4fdcb1ae9ec9bfc2f3-179550625778903&wsIPSercert=dfdf2778297510d54f9869113cbdc689&wsBindIP=2&wsserid=1168231589574964209|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=47f70e6d1d3ec18e8f7da68b-179554981169072&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202333420231774|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635715-1" tvg-name="[01:15] Real Madrid vs PSV Eindhoven - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Real Madrid vs PSV Eindhoven - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635715-2" tvg-name="[01:15] Real Madrid vs PSV Eindhoven - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Real Madrid vs PSV Eindhoven - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=47f70e6d1d3ec18e8f7da68b-179554983306163&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202333420231774|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635731-1" tvg-name="[01:15] Slovan Bratislava vs Real Betis - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Slovan Bratislava vs Real Betis - UEFA Champions League (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
+#EXTINF:-1 tvg-id="chuoichien-1635731-2" tvg-name="[01:15] Slovan Bratislava vs Real Betis - UEFA Champions League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_57842973.png",[01:15] Slovan Bratislava vs Real Betis - UEFA Champions League (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
+https://tg190gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179554983360668&wsIPSercert=7cb4f2497b246cdcb4ad1bd8003f5beb&wsBindIP=2&wsserid=1168202392933970899|User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/120.0.0.0%20Safari/537.36&Referer=https://fhd-01.cctvsignal.xyz/
