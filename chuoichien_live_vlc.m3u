@@ -1,11 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1650516-1" tvg-name="[08:30] Atletico Nacional vs Independiente Medellín - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:30] Atletico Nacional vs Independiente Medellín - VĐQG Colombia (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1630414-1" tvg-name="[17:00] Gangwon FC vs Kitchee - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Gangwon FC vs Kitchee - AFC Cup (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1650516-2" tvg-name="[08:30] Atletico Nacional vs Independiente Medellín - VĐQG Colombia" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png",[08:30] Atletico Nacional vs Independiente Medellín - VĐQG Colombia (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630414-2" tvg-name="[17:00] Gangwon FC vs Kitchee - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Gangwon FC vs Kitchee - AFC Cup (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg1b0gr3uomttgr31hcj18yzdnct1fiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=99a15f5fca4293b9ee65a1b7-179565612777171&wsIPSercert=101b6124291713e2273db289fcd404f0&wsBindIP=2&wsserid=1168243256664118498
+https://tg1b0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8?wsSession=47f70e6d1d3ec18e8f7da68b-179569343944895&wsIPSercert=b66a33c8e88215905c525f489e921772&wsBindIP=2&wsserid=1168202333420231774
+#EXTINF:-1 tvg-id="chuoichien-1630418-1" tvg-name="[17:00] Svay Rieng vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Svay Rieng vs Machida Zelvia - AFC Cup (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630418-2" tvg-name="[17:00] Svay Rieng vs Machida Zelvia - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Svay Rieng vs Machida Zelvia - AFC Cup (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg1b0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179569344000130&wsIPSercert=b66a33c8e88215905c525f489e921772&wsBindIP=2&wsserid=1168202392933970899
+#EXTINF:-1 tvg-id="chuoichien-1630416-1" tvg-name="[17:00] Tampines Rovers vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Tampines Rovers vs Shanghai Shenhua - AFC Cup (Luồng 1) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1630416-2" tvg-name="[17:00] Tampines Rovers vs Shanghai Shenhua - AFC Cup" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png",[17:00] Tampines Rovers vs Shanghai Shenhua - AFC Cup (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg1b0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179569343974182&wsIPSercert=b66a33c8e88215905c525f489e921772&wsBindIP=2&wsserid=1168202392933970899
