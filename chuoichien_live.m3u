@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1633945-1" tvg-name="[16:30] TP. Hồ Chí Minh vs Hoang Anh Gia Lai - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg",[16:30] TP. Hồ Chí Minh vs Hoang Anh Gia Lai - V.League 1 (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1570466-1" tvg-name="[00:30] Elche vs Atletico Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png",[00:30] Elche vs Atletico Madrid - La Liga (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1633945-2" tvg-name="[16:30] TP. Hồ Chí Minh vs Hoang Anh Gia Lai - V.League 1" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg",[16:30] TP. Hồ Chí Minh vs Hoang Anh Gia Lai - V.League 1 (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1570466-2" tvg-name="[00:30] Elche vs Atletico Madrid - La Liga" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png",[00:30] Elche vs Atletico Madrid - La Liga (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg1d1gr4uqmtt8y41hcjz8rzd1pbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8?wsSession=8ff152a0b122b8cc6d044e11-179586430525968&wsIPSercert=7d0cedd7553a58f2046f18d7371dd65a&wsBindIP=2&wsserid=1168176337061519089
-#EXTINF:-1 tvg-id="chuoichien-998936-1" tvg-name="[16:30] Đà Nẵng vs TP Hồ Chí Minh - Bóng Chuyền Đại Hội" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg",[16:30] Đà Nẵng vs TP Hồ Chí Minh - Bóng Chuyền Đại Hội (Luồng 1) [M3U8]
+https://tg1d3gr3uomttgr31hctwfa3dymm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8?wsSession=7af4d1a06f5e206420ef56aa-179589384714042&wsIPSercert=b220220852daf9b84ac87a95f1002f35&wsBindIP=2&wsserid=1168195329517191416
+#EXTINF:-1 tvg-id="chuoichien-1557482-1" tvg-name="[00:30] Ipswich vs Aston Villa - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png",[00:30] Ipswich vs Aston Villa - Ngoại Hạng Anh (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-998936-2" tvg-name="[16:30] Đà Nẵng vs TP Hồ Chí Minh - Bóng Chuyền Đại Hội" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/20251007_103855_9626f9ef.jpg",[16:30] Đà Nẵng vs TP Hồ Chí Minh - Bóng Chuyền Đại Hội (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1557482-2" tvg-name="[00:30] Ipswich vs Aston Villa - Ngoại Hạng Anh" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_1362c589.png",[00:30] Ipswich vs Aston Villa - Ngoại Hạng Anh (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36","Referer":"https://fhd-01.cctvsignal.xyz/"}
-https://tg1d1gr4uqmtt8y41hcjz8rzd1pbpc7tssa3ogw3dkmufctusk5mbxbtse5o.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=fade734c47c19702412c67f8-179586430463106&wsIPSercert=7d0cedd7553a58f2046f18d7371dd65a&wsBindIP=2&wsserid=1168176350583194799
+https://tg1d3gr3uomttgr31hctwfa3dymm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=547633c8f463437c1a7c22c0-179589384723556&wsIPSercert=b220220852daf9b84ac87a95f1002f35&wsBindIP=2&wsserid=1168259296636511195
