@@ -1,26 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="chuoichien-1603088-1" tvg-name="[21:00] Al-Qadisiyah FC vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png",[21:00] Al-Qadisiyah FC vs Al-Fayha - Saudi Pro League (Luồng 1) [M3U8]
+#EXTINF:-1 tvg-id="chuoichien-1649500-1" tvg-name="[06:00] Columbus Crew vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[06:00] Columbus Crew vs Inter Miami - Major League Soccer (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1603088-2" tvg-name="[21:00] Al-Qadisiyah FC vs Al-Fayha - Saudi Pro League" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png",[21:00] Al-Qadisiyah FC vs Al-Fayha - Saudi Pro League (Luồng 2) [M3U8]
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1649500-2" tvg-name="[06:00] Columbus Crew vs Inter Miami - Major League Soccer" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[06:00] Columbus Crew vs Inter Miami - Major League Soccer (Luồng 2) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
-https://tg1c0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179579481410133&wsIPSercert=f02593261e880c6b33e3c7f8e6445054&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1546188-1" tvg-name="[21:00] Costa Rica U17 vs Brazil U17 - World Cup - U17" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png",[21:00] Costa Rica U17 vs Brazil U17 - World Cup - U17 (Luồng 1) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="chuoichien-1546188-2" tvg-name="[21:00] Costa Rica U17 vs Brazil U17 - World Cup - U17" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png",[21:00] Costa Rica U17 vs Brazil U17 - World Cup - U17 (Luồng 2) [M3U8]
-#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-reconnect=true
-https://tg1c0gr4uqmtt8y41hcjw8yzdnpjufiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8?wsSession=442c60c39cd28b4486073bc5-179579481337323&wsIPSercert=f02593261e880c6b33e3c7f8e6445054&wsBindIP=2&wsserid=1168202392933970899
-#EXTINF:-1 tvg-id="chuoichien-1546201-1" tvg-name="[21:00] Romania U17 vs Cameroon U17 - World Cup - U17" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png",[21:00] Romania U17 vs Cameroon U17 - World Cup - U17 [M3U8]
+https://tg1d0gr4uqmtt8y41hcjz8rzdrcjafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8?wsSession=fade734c47c19702412c67f8-179582723682870&wsIPSercert=2fb5f2313db6d4cfbf3edd0d29de0573&wsBindIP=2&wsserid=1168176350583194799
+#EXTINF:-1 tvg-id="chuoichien-1492475-1" tvg-name="[06:00] Fluminense vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[06:00] Fluminense vs Cruzeiro - VĐQG Brazil (Luồng 1) [M3U8]
 #EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-reconnect=true
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="chuoichien-1492475-2" tvg-name="[06:00] Fluminense vs Cruzeiro - VĐQG Brazil" group-title="Bóng đá" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125536_3079f020.png",[06:00] Fluminense vs Cruzeiro - VĐQG Brazil (Luồng 2) [M3U8]
+#EXTVLCOPT:http-referrer=https://fhd-01.cctvsignal.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-reconnect=true
+https://tg1d0gr4uqmtt8y41hcjz8rzdrcjafiusg45dgy4urpjqci1gq3mpcfhgg3dq.100ycdn.com/gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8?wsSession=fade734c47c19702412c67f8-179582723793270&wsIPSercert=2fb5f2313db6d4cfbf3edd0d29de0573&wsBindIP=2&wsserid=1168176350583194799
